@@ -130,11 +130,11 @@
     "createdAt": "2025-11-29T16:21:10.871Z"
   },
   "19": {
-    "def": "음식이나 것을 입으로 넣어 삼키다.",
+    "def": "음식을 입에 넣어 씹어서 삼키다.",
     "term": "먹다",
     "pos": "VERB",
-    "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "defRequestId": "fd4dfaaa-7910-4f25-b4b1-79fe5c5f34b3",
+    "createdAt": "2025-11-29T17:59:33.537Z"
   },
   "20": {
     "def": "마음에 들거나 이롭고 바람직하다.",
@@ -18583,61 +18583,61 @@
     "createdAt": "2025-11-29T16:39:08.917Z"
   },
   "2606": {
-    "def": "동물이 먹고 사는 데 필요한 음식.",
+    "def": "동물이 살아가기 위해 잡아먹는 음식이다.",
     "term": "먹이",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2607": {
-    "def": "같은 일이 여러 번 되풀이되어 일어나다.",
+    "def": "같은 일이 여러 번 되풀이되어 다시 일어나다.",
     "term": "반복되다",
     "lemma": "반복",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2608": {
-    "def": "사람이나 동물이 더 이상 살지 못하게 되는 일.",
+    "def": "사람이나 동물이 더 이상 숨 쉬지 않고 삶이 끝나는 상태이다.",
     "term": "죽음",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2609": {
-    "def": "옷, 가방, 생활용품 등을 한곳에서 파는 큰 가게.",
+    "def": "여러 가지 물건을 한곳에서 파는 큰 상점이다.",
     "term": "백화점",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2610": {
-    "def": "사람들이 사회 문제에 대해 가지고 있는 여러 생각과 느낌.",
+    "def": "어떤 일에 대해 많은 사람들이 가지는 생각과 반응이다.",
     "term": "여론",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2611": {
-    "def": "급하지 않게 조금씩 느리게.",
+    "def": "급하지 않게 조금씩 느리게 변화하거나 움직이는 모양이다.",
     "term": "서서히",
     "pos": "ADV",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2612": {
-    "def": "맛이나 냄새가 갓 난 것처럼 깨끗하고 상쾌하다.",
+    "def": "새롭고 상한 데가 없어 깔끔하고 맛이나 느낌이 좋은 상태이다.",
     "term": "신선하다",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2613": {
-    "def": "임금이 다스리는 나라.",
+    "def": "왕이 다스리는 나라이다.",
     "term": "왕국",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2614": {
     "def": null,
@@ -18653,300 +18653,300 @@
     "term": "확대하다",
     "lemma": "확대",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2616": {
-    "def": "방송에서 몇 번째 채널인지를 세는 단위를 나타내는 말.",
+    "def": "나라가 문을 열고 방송을 처음 시작하거나 국경을 열어 교류를 시작함을 이르는 말이다.",
     "term": "개국",
     "pos": "ADJ",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2617": {
-    "def": "말하듯 빠르게 가사를 넣어 부르는 음악.",
+    "def": "빠른 말과 리듬에 맞춰 말하듯이 부르는 노래나 그 음악이다.",
     "term": "랩",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2618": {
-    "def": "상대방이나 윗사람의 집을 높여 이르는 말.",
+    "def": "상대편 집을 높여 이르는 말이다.",
     "term": "댁",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2619": {
-    "def": "집단이나 나라를 이끌어 가는 사람.",
+    "def": "단체나 나라를 이끄는 윗사람이다.",
     "term": "지도자",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2620": {
-    "def": "어떤 일을 하고 난 뒤 느낀 생각과 느낌.",
+    "def": "어떤 일을 한 뒤 느낀 생각과 느낌이다.",
     "term": "소감",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2621": {
-    "def": "정치에서 같은 생각을 가진 사람들이 모인 단체.",
+    "def": "정치에 참여하여 같은 뜻을 가진 사람들이 모인 단체이다.",
     "term": "정당",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2622": {
-    "def": "충청북도를 이르는 말.",
+    "def": "충청북도를 줄여 이르는 말이다.",
     "term": "충북",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2623": {
-    "def": "나누거나 맡은 가운데 자기에게 돌아오는 부분.",
+    "def": "여럿이 나누는 데서 자기에게 돌아오는 부분이다.",
     "term": "몫",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2624": {
-    "def": "마음에 흡족하고 불만이 없다.",
+    "def": "기대에 맞아 기쁘고 흡족한 느낌이 들다.",
     "term": "만족스럽다",
     "lemma": "만족",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2625": {
-    "def": "밭에서 나는 먹을거리인 풀과 채소.",
+    "def": "밭에서 나는 먹는 풀과 열매를 이르는 말이다.",
     "term": "야채",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2626": {
-    "def": "여럿 중에 하나로 뽑히거나 인정되다.",
+    "def": "여럿 중에서 손꼽혀 중요하거나 뛰어난 것으로 인정되다.",
     "term": "꼽히다",
     "pos": "VERB",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2627": {
-    "def": "좋은 냄새.",
+    "def": "좋은 냄새나 어떤 물질에서 나는 냄새이다.",
     "term": "향기",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2628": {
-    "def": "몸의 상태나 기분의 좋고 나쁨.",
+    "def": "몸과 마음의 상태가 좋고 나쁨을 나타내는 말이다.",
     "term": "컨디션",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2629": {
-    "def": "밀가루나 쌀가루 등으로 만든 달거나 짭짤한 간식.",
+    "def": "밀가루나 쌀가루로 만들어 단맛이 나는 간단한 먹거리이다.",
     "term": "과자",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2630": {
-    "def": "잘못이나 책임을 피하려고 내세우는 말.",
+    "def": "잘못이나 약속을 지키지 못한 까닭처럼 내세우는 말이다.",
     "term": "핑계",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2631": {
-    "def": "아홉 개의 수나 순서.",
+    "def": "아홉이라는 수나 그에 해당하는 양이다.",
     "term": "아홉",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2632": {
-    "def": "기계나 설비가 제대로 움직이지 않음.",
+    "def": "기계나 시설이 제대로 작동하지 않는 상태이다.",
     "term": "고장",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2633": {
-    "def": "경기나 싸움에서 이기다.",
+    "def": "경기나 싸움에서 이겨서 이김을 얻다.",
     "term": "승리하다",
     "lemma": "승리",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2634": {
-    "def": "강의하는 일을 하는 사람.",
+    "def": "사람들에게 지식이나 기술을 가르치는 일을 하는 사람이다.",
     "term": "강사",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2635": {
-    "def": "운동이나 기술을 가르치고 이끄는 사람.",
+    "def": "운동이나 활동에서 기술을 가르치고 이끌어 주는 사람이다.",
     "term": "코치",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2636": {
-    "def": "다른 사람이 이해하고 따르도록 간절히 설명해 마음을 돌리게 하다.",
+    "def": "다른 사람이 내 말을 받아들이게 이치와 이유를 들어 말하다.",
     "term": "설득하다",
     "lemma": "설득",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2637": {
-    "def": "모양이 둥글고 가장자리가 고르다.",
+    "def": "모양이 둥글고 가장자리가 고른 상태이다.",
     "term": "동그랗다",
     "pos": "ADJ",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2638": {
-    "def": "한 언어로 된 말을 다른 언어의 말로 옮김.",
+    "def": "한 언어로 된 말을 다른 언어의 말로 바꾸는 일이다.",
     "term": "번역",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2639": {
-    "def": "대통령을 뽑는 큰 선거.",
+    "def": "대통령을 뽑기 위해 나라에서 치르는 큰 선거이다.",
     "term": "대선",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2640": {
-    "def": "생각할 때나 망설일 때 내는 소리.",
+    "def": "생각할 때나 망설일 때 입에서 내는 소리이다.",
     "term": "으음",
     "pos": "ADV",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2641": {
-    "def": "끝에서 끝까지의 정도.",
+    "def": "사물의 한쪽 끝에서 다른 쪽 끝까지의 거리이다.",
     "term": "길이",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2642": {
-    "def": "남이 들리지 않게 아주 낮은 소리로 말하다.",
+    "def": "남에게 들리지 않게 아주 작은 소리로 말하다.",
     "term": "속삭이다",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2643": {
-    "def": "물건이 아래로 내려앉거나 마음이 차분해지다.",
+    "def": "물건이나 기분이 아래로 내려가거나 차분해지다.",
     "term": "가라앉다",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2644": {
-    "def": "몸에 뿌려 좋은 냄새를 내는 물.",
+    "def": "몸에 뿌려 좋은 냄새를 나게 하는 액체이다.",
     "term": "향수",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2645": {
-    "def": "하고 싶은 만큼 실컷.",
+    "def": "하고 싶은 만큼 마음대로 충분히 하다.",
     "term": "마음껏",
     "pos": "VERB",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2646": {
-    "def": "냄새나 소문, 물결 등이 널리 퍼져 나가다.",
+    "def": "냄새나 소문, 빛 등이 사방으로 넓게 퍼져 나가다.",
     "term": "퍼지다",
     "pos": "VERB",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2647": {
-    "def": "말랑말랑하고 달콤한 젤처럼 만든 간식.",
+    "def": "말랑말랑하고 달콤한 젤처럼 만든 간식이다.",
     "term": "젤리",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2648": {
-    "def": "옳고 그름을 가르는 바른 뜻이나 원칙.",
+    "def": "옳고 그름이나 뜻을 분명히 밝힌 설명이다.",
     "term": "정의",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2649": {
-    "def": "중요한 때에 막상.",
+    "def": "중요한 때에 실제로는 그렇지 않음을 나타내는 말이다.",
     "term": "정작",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2650": {
-    "def": "단맛이 나고 삶아 먹거나 구워 먹는 뿌리채소.",
+    "def": "껍질이 갈색이고 속이 달콤한 뿌리채소이다.",
     "term": "고구마",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2651": {
-    "def": "음식 만들기와 설거지를 하는 방.",
+    "def": "음식을 만들고 조리하는 방이다.",
     "term": "부엌",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2652": {
-    "def": "어떤 일을 끝마침.",
+    "def": "하던 일을 끝내어 마침을 나타내는 것이다.",
     "term": "종료",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2653": {
-    "def": "필요한 과정을 모두 거쳐 다 이루다.",
+    "def": "부족한 부분을 모두 채워 일을 다 마치다.",
     "term": "완성하다",
     "lemma": "완성",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2654": {
-    "def": "기도나 말의 끝에서 동의와 바람을 나타내는 말.",
+    "def": "기도나 말의 끝에서 동의하거나 바람을 나타내는 말이다.",
     "term": "아멘",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2655": {
-    "def": "물건을 싸거나 꾸려서 다룰 수 있게 함.",
+    "def": "물건을 싸서 담거나 꾸리는 일이나 그 모양이다.",
     "term": "포장",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2656": {
     "def": "틀림없다고 굳게 믿다.",
     "term": "확신하다",
     "lemma": "확신",
     "pos": "NOUN",
-    "defRequestId": "8e2c77ef-fe68-45ac-9ab8-5b313d576f30",
-    "createdAt": "2025-11-29T16:39:31.582Z"
+    "defRequestId": "f3f112d1-6f6c-4663-a3bb-c01a1f19f34a",
+    "createdAt": "2025-11-29T17:56:38.424Z"
   },
   "2657": {
     "def": "왕이나 황제를 높여 부르는 말이다.",
@@ -21839,367 +21839,367 @@
     "createdAt": "2025-11-29T16:42:54.403Z"
   },
   "3059": {
-    "def": "어떤 사람이나 일에 관심을 모아 눈여겨보다.",
+    "def": "사람들이나 일이 중요해 보이거나 흥미로워 보여서 눈길을 모으다.",
     "term": "주목하다",
     "lemma": "주목",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3060": {
-    "def": "두 선이나 물체가 만나는 크기를 재는 셈의 기준.",
+    "def": "두 선이나 면이 만날 때 벌어진 크기를 나타내는 값.",
     "term": "각도",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3061": {
-    "def": "마음이나 자세를 바르게 하여 준비하거나 정신을 똑바로 하다.",
+    "def": "가게나 집을 준비해 만들거나, 정신을 바르게 하다.",
     "term": "차리다",
     "pos": "VERB",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3062": {
-    "def": "행복을 빌거나 좋은 일이 있다고 기뻐하는 마음.",
+    "def": "행운과 좋은 일을 빌어 주거나 그런 복.",
     "term": "축복",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3063": {
-    "def": "사람 이름이나 지명으로 쓰이는 말.",
+    "def": "사람 이름이나 지명 등에 쓰이는 말.",
     "term": "호동",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3064": {
-    "def": "서비스나 시설을 이용할 때 내는 돈.",
+    "def": "서비스나 시설을 이용할 때 내야 하는 돈.",
     "term": "요금",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3065": {
-    "def": "남의 주장에 틀린 점을 들어 맞지 않다고 말하다.",
+    "def": "남의 주장에 맞서 틀렸다고 말하다.",
     "term": "반박하다",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3066": {
-    "def": "사물이나 사실을 이해하여 기억하다.",
+    "def": "사물이나 사실을 이해하고 기억하다.",
     "term": "알",
     "pos": "VERB",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3067": {
-    "def": "값이나 기온 같은 것이 갑자기 아주 높이 오르다.",
+    "def": "값이나 감정, 물건 등이 갑자기 많이 위로 오르다.",
     "term": "치솟다",
     "pos": "VERB",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3068": {
     "def": "사람과 차가 길 위를 오가며 움직이는 일.",
     "term": "교통",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3069": {
-    "def": "길이나 일을 안내하는 사람이나 안내 책.",
+    "def": "길이나 장소를 안내해 주는 사람 또는 안내 책자.",
     "term": "가이드",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3070": {
     "def": "손님으로 초대받아 온 사람.",
     "term": "게스트",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3071": {
-    "def": "사람이나 동물이 걸어가며 남긴 발의 흔적.",
+    "def": "사람이나 동물이 걸어가며 땅에 남긴 발의 자국.",
     "term": "발자국",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3072": {
-    "def": "눈처럼 매우 밝고 흰 빛을 띠다.",
+    "def": "눈이나 흰 종이처럼 밝고 흰 빛을 띠다.",
     "term": "하얗다",
     "pos": "ADJ",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3073": {
-    "def": "사람을 죽이는 나쁜 행동.",
+    "def": "사람을 죽이다.",
     "term": "살해하다",
     "lemma": "살해",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3074": {
-    "def": "놀라거나 당황할 때 내는 짧은 소리.",
+    "def": "놀라거나 다급할 때 내는 짧은 소리.",
     "term": "앗",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3075": {
-    "def": "오해나 의심을 풀기 위해 이유를 밝힘.",
+    "def": "이유나 사실을 풀어 밝히는 설명.",
     "term": "해명",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3076": {
     "def": "작은 자극에도 쉽게 반응하여 예민하다.",
     "term": "민감하다",
     "lemma": "민감",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3077": {
     "def": "전화로 서로 말을 주고받다.",
     "term": "통화하다",
     "lemma": "통화",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3078": {
-    "def": "예전에 한반도에 있던 삼국 중 하나의 나라 이름.",
+    "def": "옛날 한반도에 있었던 삼국 중 하나의 나라 이름.",
     "term": "신라",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3079": {
-    "def": "어른 여자에게 높여 부르는 말.",
+    "def": "나이든 여성을 높여 부르거나 직함 뒤에 붙이는 말.",
     "term": "여사",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3080": {
-    "def": "물을 산 값이나 카드로 값을 치르는 일.",
+    "def": "물건값이나 요금을 치르는 일.",
     "term": "결제",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3081": {
-    "def": "한 주의 마지막 날로 많은 사람이 쉬는 날.",
+    "def": "한 주의 일곱째 날로, 많은 사람이 쉬는 날.",
     "term": "일요일",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3082": {
-    "def": "옷차림을 꾸미고 맞춰 주는 일이나 그 일을 하는 사람.",
+    "def": "옷차림을 골라 입히거나 꾸며 주는 사람 또는 일.",
     "term": "코디",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3083": {
-    "def": "죽은 사람의 가족과 친척.",
+    "def": "죽은 사람의 가족.",
     "term": "유족",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3084": {
-    "def": "적은 힘과 시간으로 좋은 결과를 내는 성질.",
+    "def": "적은 노력으로 원하는 결과를 잘 내는 성질.",
     "term": "효과적",
     "lemma": "효과",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3085": {
-    "def": "머릿속이 어지럽고 정리가 되지 않아 갈피를 못 잡다.",
+    "def": "상황이 복잡해 뭘 해야 할지 머리가 어지럽다.",
     "term": "혼란스럽다",
     "lemma": "혼란",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3086": {
-    "def": "이미 한 말에 더하여 같은 성질의 것을 보태어 말함을 나타내는 말.",
+    "def": "앞의 내용에 더하여라는 뜻을 나타내는 말.",
     "term": "게다",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3087": {
     "def": "고등학교에 다니는 학생.",
     "term": "고등학생",
     "lemma": "고등",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3088": {
-    "def": "길에서 차나 사람이 부딪혀 다치거나 죽는 사고.",
+    "def": "길에서 자동차나 사람이 부딪쳐 나는 사고.",
     "term": "교통사고",
     "lemma": "교통",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3089": {
-    "def": "짧은 글을 올리고 소식을 나누는 온라인 서비스.",
+    "def": "짧은 글을 올리고 소식을 나누는 온라인 서비스 이름.",
     "term": "트위터",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3090": {
-    "def": "손가락 끝에 있는 단단한 부분.",
+    "def": "손가락 끝에 있는 딱딱한 부분.",
     "term": "손톱",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3091": {
     "def": "사실과 다르게 잘못 생각하다.",
     "term": "착각하다",
     "lemma": "착각",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3092": {
-    "def": "일을 해서 돈을 벌고 거래를 하는 활동.",
+    "def": "이익을 얻으려고 하는 일이나 거래.",
     "term": "비즈니스",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3093": {
-    "def": "군 복무를 마치고 부대에서 나옴.",
+    "def": "군 복무를 마치고 부대에서 나옴 또는 그 시간.",
     "term": "전역",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3094": {
-    "def": "빛이 약하거나 구름이 많아 선명하지 않게.",
+    "def": "빛이나 색이 맑지 않고 탁하게.",
     "term": "흐리다",
     "pos": "ADV",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3095": {
-    "def": "곧바로 다른 데로 가지 않고 바로.",
+    "def": "다른 데 들르지 않고 바로.",
     "term": "곧장",
     "pos": "ADV",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3096": {
     "def": "모든 사람이 평등하게 정치에 참여하는 제도와 생각.",
     "term": "민주주의",
     "lemma": "민주",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3097": {
-    "def": "놀라움이나 걱정을 나타낼 때 내는 감탄의 말.",
+    "def": "놀라움이나 실망을 강하게 나타낼 때 쓰는 감탄 말.",
     "term": "맙소사",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3098": {
-    "def": "여러 것 중에서 특별히 더 좋아하다.",
+    "def": "여러 가지 중에서 어떤 것을 더 좋아하다.",
     "term": "선호하다",
     "lemma": "선호",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3099": {
-    "def": "컴퓨터를 손으로 움직여 화면의 표시를 조종하는 기기.",
+    "def": "손으로 움직여 컴퓨터 화면의 표시를 조종하는 기기.",
     "term": "마우스",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3100": {
-    "def": "어떤 곳의 바깥쪽이나 밖에서 오는 것.",
+    "def": "바깥쪽이나 단체나 집단의 밖.",
     "term": "외부",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3101": {
-    "def": "속이기 위해 꾸민 어려운 자리나 위험한 상황.",
+    "def": "속이게 하여 빠지게 만드는 꾀나 위험한 자리.",
     "term": "함정",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3102": {
-    "def": "사람들이 모여 살며 문화와 제도를 이룬 상태.",
+    "def": "사람들이 모여 살아가며 만든 생활과 문화의 발전된 모습.",
     "term": "문명",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3103": {
-    "def": "목표를 이루어 내다.",
+    "def": "목표를 이루다.",
     "term": "달성하다",
     "lemma": "달성",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3104": {
-    "def": "햇빛이 가늘게 퍼져 내려오는 빛.",
+    "def": "햇빛이 비칠 때 퍼지는 따뜻한 빛.",
     "term": "햇살",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3105": {
-    "def": "있던 것을 없애서 치움.",
+    "def": "있던 것을 없애거나 치워 버림.",
     "term": "제거",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3106": {
-    "def": "취미나 같은 관심으로 모여 활동하는 모임.",
+    "def": "같은 관심이나 취미로 모인 모임.",
     "term": "동아리",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3107": {
-    "def": "사랑스럽게 느껴질 만큼 귀엽고 정이 가다.",
+    "def": "보기에 사랑이 느껴지고 몹시 귀엽다.",
     "term": "사랑스럽다",
     "lemma": "사랑",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3108": {
-    "def": "사람 이름이나 외국어 이름의 뒷부분으로 쓰이는 말.",
+    "def": "사람 이름이나 외래어의 한 부분으로 쓰이는 말.",
     "term": "론",
     "pos": "NOUN",
-    "defRequestId": "14bcdf62-ff1c-4e1a-a9fc-e66def6a8561",
-    "createdAt": "2025-11-29T16:43:12.162Z"
+    "defRequestId": "fe4b620e-0113-4b5a-b0c9-4efccb8449e5",
+    "createdAt": "2025-11-29T17:56:57.674Z"
   },
   "3109": {
     "def": "얼굴이나 턱에 자라는 굵은 털.",
@@ -26524,48 +26524,48 @@
     "createdAt": "2025-11-29T16:48:06.110Z"
   },
   "3712": {
-    "def": "개인만 알고 있어 계정이나 기기를 열 때 넣는 숫자나 글자이다.",
+    "def": "잠금 장치를 풀 때 쓰는 비밀스러운 숫자나 글자이다.",
     "term": "비밀번호",
     "lemma": "비밀",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3713": {
-    "def": "음악이나 리듬에 맞춰 몸을 움직이는 예술이나 활동이다.",
+    "def": "음악에 맞추어 몸을 리듬 있게 움직이는 행동이다.",
     "term": "춤",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3714": {
-    "def": "어떤 태도나 버릇으로 행동하다라는 뜻이다.",
+    "def": "어떤 태도나 버릇을 보이며 행동하다.",
     "term": "굴다",
     "pos": "VERB",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3715": {
-    "def": "열대 지역에서 자라며 달고 갈색인 큰 열매 또는 그 나무를 말한다.",
+    "def": "달콤한 갈색 열매이며 음료와 과자로 많이 쓰이는 열대 식물이다.",
     "term": "카카오",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3716": {
-    "def": "볼에 색을 더해 얼굴을 화사하게 보이게 하는 화장품이다.",
+    "def": "볼에 발라 얼굴에 혈색을 주는 화장품이다.",
     "term": "블러셔",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3717": {
-    "def": "어떤 행동이나 일을 하지 못하게 막는 것이다.",
+    "def": "어떤 행동을 하지 못하게 막다.",
     "term": "금지하다",
     "lemma": "금지",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3718": {
     "def": null,
@@ -26577,321 +26577,321 @@
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
   "3719": {
-    "def": "그림이나 음악, 영화 등을 보거나 들으면서 느낌을味わ고 평가하다.",
+    "def": "작품이나 경치 등을 보거나 들으며 즐기고 느끼다.",
     "term": "감상하다",
     "lemma": "감상",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3720": {
-    "def": "나라의 법과 중요한 일을 토론하고 정하는 사람들의 모임이다.",
+    "def": "법을 만들고 나라 일을 논의하는 사람들의 모임이다.",
     "term": "의회",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3721": {
-    "def": "왕의 아내로 나라의 여왕인 사람이다.",
+    "def": "왕의 아내로서 나라의 여왕인 사람이다.",
     "term": "왕비",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3722": {
-    "def": "잉크를 넣어 글씨를 쓰는 도구이다.",
+    "def": "잉크나 심으로 글씨를 쓰는 도구이다.",
     "term": "펜",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3723": {
-    "def": "겉으로 드러나는 마음이나 분위기의 흔적이다.",
+    "def": "겉으로 드러나는 느낌이나 분위기이다.",
     "term": "기색",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3724": {
-    "def": "손으로 들거나 올려두고 쓰는 화면이 있는 작은 컴퓨터이다.",
+    "def": "손에 들고 쓰는 큰 화면의 전자 기기이다.",
     "term": "태블릿",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3725": {
-    "def": "형편이나 조건이 다른 쪽보다 좋지 않은 상태이다.",
+    "def": "조건이나 형편이 다른 쪽보다 나쁘다.",
     "term": "불리하다",
     "lemma": "불리",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3726": {
-    "def": "노란빛을 띠는 귀한 금속 또는 그런 색을 말한다.",
+    "def": "빛나는 노란색의 금속 또는 그와 같은 색이다.",
     "term": "골드",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3727": {
-    "def": "조건이나 요구가 많아 만족시키기 어려운 성격이다.",
+    "def": "요구가 많고 만족시키기 어려운 성질이다.",
     "term": "까다롭다",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3728": {
-    "def": "정해진 기준에 따라 어떤 곳이나 사람으로 딱 정해지다.",
+    "def": "정해진 자리나 대상으로 선택되어 정해지다.",
     "term": "지정되다",
     "lemma": "지정",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3729": {
-    "def": "사실 그대로의 내용이나 근거를 뜻한다.",
+    "def": "거짓이 아닌 사실 그대로의 내용이다.",
     "term": "팩트",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3730": {
     "def": "두 나라를 함께 이르는 말이다.",
     "term": "양국",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3731": {
-    "def": "어떤 기준이나 한계를 지나 더 앞으로 나아가다.",
+    "def": "경계나 한계를 지나 더 앞으로 나아가다.",
     "term": "넘어서다",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3732": {
-    "def": "글이나 설명에 붙여 해설이나 참고로 덧붙이는 말이다.",
+    "def": "책이나 글에서 설명을 덧붙인 글이나 표시이다.",
     "term": "주석",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3733": {
-    "def": "몸에 입는 옷차림이나 차림새이다.",
+    "def": "몸에 걸치는 옷차림이다.",
     "term": "복장",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3734": {
-    "def": "비 온 뒤 하늘에 생기는 여러 색의 활 모양 빛이다.",
+    "def": "비 온 뒤 하늘에 나타나는 여러 색의 활 모양 빛줄기이다.",
     "term": "무지개",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3735": {
-    "def": "크고 위엄이 있어 보는 이가 압도당하는 느낌이다.",
+    "def": "크고 위엄이 있어 보는 이를 압도하는 상태이다.",
     "term": "웅장하다",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3736": {
-    "def": "고양이를 귀엽게 부를 때 쓰는 말이다.",
+    "def": "고양이를 귀엽게 부르는 말이다.",
     "term": "냥",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3737": {
-    "def": "넓지 않은 것을 더 넓게 만들다.",
+    "def": "넓지 않은 것을 더 크게 하다.",
     "term": "넓히다",
     "pos": "VERB",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3738": {
-    "def": "영화나 영상을 비추는 큰 화면이다.",
+    "def": "영상이나 글자를 비추거나 보여 주는 큰 화면이다.",
     "term": "스크린",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3739": {
-    "def": "흩어진 것이 한데 모여 단단하게 되다.",
+    "def": "여러 개가 하나로 모여 단단히 붙다.",
     "term": "뭉치다",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3740": {
-    "def": "몸에서 허리 위 부분을 이르는 말이다.",
+    "def": "몸에서 허리 위의 부분이다.",
     "term": "상체",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3741": {
-    "def": "세게 밀어 넣거나 부딪치게 하다.",
+    "def": "세게 밀어 넣거나 충격을 주어 부딪치다.",
     "term": "박다",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3742": {
-    "def": "뒤에서 따라오며 잡으려고 오다.",
+    "def": "앞서 가는 대상을 뒤에서 따라 오다.",
     "term": "쫓아오다",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3743": {
-    "def": "시험이나 심사에서 기준을 넘어 붙다.",
+    "def": "시험이나 심사를 통과하여 자격을 얻다.",
     "term": "합격하다",
     "lemma": "합격",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3744": {
-    "def": "공기나 정보, 생각 등이 막히지 않고 잘 오가다.",
+    "def": "공기나 생각 등이 막힘없이 오가다.",
     "term": "통하다",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3745": {
-    "def": "텔레비전이나 라디오 프로그램을 만들고 내보내는 곳이다.",
+    "def": "라디오나 텔레비전 프로그램을 만드는 기관이다.",
     "term": "방송국",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3746": {
     "def": "걱정이 없어져 마음이 놓이다.",
     "term": "안심하다",
     "lemma": "안심",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3747": {
-    "def": "한국의 도시 이름으로 충청북도의 도청 소재지이다.",
+    "def": "대한민국 충청북도에 있는 도시이다.",
     "term": "청주",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3748": {
-    "def": "특별한 자격이나 지위가 없는 보통 사람이다.",
+    "def": "특별한 자격이나 전문성이 없는 보통 사람이다.",
     "term": "일반인",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3749": {
-    "def": "매운 향이 나는 가루나 알갱이로 음식을 간하는 양념이다.",
+    "def": "음식의 맛과 향을 내는 매운 향신료이다.",
     "term": "후추",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3750": {
-    "def": "공격과 방어가 서로 오가는 싸움이나 논쟁을 말한다.",
+    "def": "공격과 방어를 주고받는 다툼 또는 손으로 만드는 작업 공간이다.",
     "term": "공방",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3751": {
-    "def": "지금으로부터 아주 오래 지난 때를 이르는 말이다.",
+    "def": "지금으로부터 아주 앞선 과거이다.",
     "term": "오래전",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3752": {
-    "def": "여럿 가운데서 기준에 맞는 것을 골라 정하다.",
+    "def": "여럿 가운데에서 골라 뽑다.",
     "term": "선정하다",
     "lemma": "선정",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3753": {
-    "def": "어떤 대상이나 상태를 눈에 보이게 드러내다.",
+    "def": "무엇을 알아보기 쉽도록 기호나 글로 드러내다.",
     "term": "표시하다",
     "lemma": "표시",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3754": {
-    "def": "두 팀이 공을 던지고 넣으며 점수를 겨루는 실내 구기 종목이다.",
+    "def": "둥근 공을 던지고 넣는 팀 경기이다.",
     "term": "농구",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3755": {
-    "def": "오래된 생물의 흔적이 땅속에서 굳어져 남은 것이다.",
+    "def": "오래된 생물의 흔적이 굳어 돌처럼 된 것이다.",
     "term": "화석",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3756": {
-    "def": "생명이나 결과에 큰 해를 줄 만큼 매우 위험한 성질이다.",
+    "def": "목숨이나 결과에 크게 해를 줄 정도로 매우 위험한 상태이다.",
     "term": "치명적",
     "pos": "ADJ",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3757": {
-    "def": "문제를 고치거나 기능을 더하려고 더하는 작은 수정 프로그램이나 조각이다.",
+    "def": "문제를 고치거나 보완하기 위해 더하는 조각이나 프로그램이다.",
     "term": "패치",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3758": {
-    "def": "목표를 똑바로 겨누어 맞추려 하다.",
+    "def": "목표를 겨누어 맞추려고 하다.",
     "term": "겨냥하다",
     "lemma": "겨냥",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3759": {
-    "def": "다른 작품의 바탕이 된 처음 만든 작품이다.",
+    "def": "처음에 만든 원래의 작품이다.",
     "term": "원작",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3760": {
-    "def": "나라 사이에 물건과 서비스를 사고파는 일이다.",
+    "def": "나라와 나라 사이에 물건이나 서비스를 사고파는 일이다.",
     "term": "무역",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3761": {
-    "def": "여러 조건을 생각에 넣어 따져 보다.",
+    "def": "여러 조건을 생각에 넣어 함께 고려하다.",
     "term": "감안하다",
     "lemma": "감안",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3762": {
-    "def": "학생들이 함께 살도록 마련한 학교 안팎의 집이다.",
+    "def": "학생들이 함께 지내며 생활하는 숙소이다.",
     "term": "기숙사",
     "pos": "NOUN",
-    "defRequestId": "77677917-eb7f-496a-8535-4c1b43579828",
-    "createdAt": "2025-11-29T16:48:30.682Z"
+    "defRequestId": "e3a3f948-13a6-4695-b726-1e7fee5b8d3e",
+    "createdAt": "2025-11-29T17:57:16.641Z"
   },
   "3763": {
     "def": "어떤 사실이나 감정, 상황이 그대로 드러나 보이게 하다.",
@@ -31914,243 +31914,243 @@
     "createdAt": "2025-11-29T16:53:30.515Z"
   },
   "4465": {
-    "def": "어떤 일을 할 수 있도록 법이나 규칙으로 인정된 힘이나 자격.",
+    "def": "어떤 일을 하거나 결정할 수 있는 권리와 힘.",
     "term": "권한",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4466": {
     "def": "음식의 맛이 좋지 않다.",
     "term": "맛없다",
     "pos": "ADJ",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4467": {
-    "def": "여러 것 중에서 하나를 골라 자리를 정하거나 맡김.",
+    "def": "어떤 대상을 골라서 자리나 역할을 정함.",
     "term": "지정",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4468": {
     "def": "만졌을 때 느껴지는 물건의 느낌.",
     "term": "질감",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4469": {
-    "def": "사람을 죽이는 일.",
+    "def": "사람을 죽이는 행위.",
     "term": "살해",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4470": {
-    "def": "북유럽에 있는 나라의 이름.",
+    "def": "북유럽에 있는 나라.",
     "term": "스웨덴",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4471": {
     "def": "비행기를 운항하는 회사.",
     "term": "항공사",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4472": {
     "def": "사람을 자리에 앉게 하다.",
     "term": "앉히다",
     "pos": "VERB",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4473": {
     "def": "놀라움이나 감탄을 나타내는 소리.",
     "term": "와아",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4474": {
-    "def": "기계나 차 등을 다루어 움직임을 마음대로 하게 함.",
+    "def": "탈것이나 기계를 다루어 움직임을 맡아 통제함.",
     "term": "조종하다",
     "lemma": "조종",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4475": {
     "def": "자유가 없이 남의 지시에 따라 일만 하는 사람.",
     "term": "노예",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4476": {
-    "def": "웃음을 주는 말을 직업으로 하는 남자 연예인.",
+    "def": "사람들을 웃기거나 재미있게 하는 일을 직업으로 하는 사람.",
     "term": "개그맨",
     "lemma": "개그",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4477": {
-    "def": "눈처럼 밝고 순수한 느낌의 흰빛.",
+    "def": "눈처럼 밝고 순백으로 보이는 색.",
     "term": "하얀색",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4478": {
-    "def": "사람이나 물건이 다른 사람에게 처음으로 알려지다.",
+    "def": "사람들에게 처음으로 알려지거나 보이게 됨.",
     "term": "소개되다",
     "lemma": "소개",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4479": {
-    "def": "무엇 위가 다른 것으로 가려져 덮히다.",
+    "def": "무엇이 위에서 덮여 가려짐.",
     "term": "덮이다",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4480": {
-    "def": "반죽을 모양 내어 만들다.",
+    "def": "모양을 빚거나 문제를 일으키다.",
     "term": "빚다",
     "pos": "VERB",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4481": {
     "def": "다른 것으로 바꾸어 대신 쓰다.",
     "term": "대체하다",
     "lemma": "대체",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4482": {
-    "def": "기계나 기기에서 정보를 잠시 저장하는 장치.",
+    "def": "컴퓨터나 기기에 정보를 잠시 또는 오래 보관하는 장치.",
     "term": "메모리",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4483": {
-    "def": "다친 사람이나 아픈 사람을 병원으로 급히 실어 나르는 차.",
+    "def": "다친 사람이나 아픈 사람을 급히 병원으로 옮기는 차.",
     "term": "구급차",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4484": {
-    "def": "서로 마주 보거나 직접 부딪치듯 만나게 되다.",
+    "def": "서로 마주 보거나 마주 닥치다.",
     "term": "마주하다",
     "lemma": "마주",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4485": {
-    "def": "사람이 먹는 모든 먹을거리.",
+    "def": "사람이 먹을 수 있는 것과 먹고 남은 찌꺼기.",
     "term": "음식물",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4486": {
     "def": "매우 급하게 서둘러.",
     "term": "황급히",
     "pos": "ADV",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4487": {
-    "def": "다른 나라에서 그 나라로 들어감.",
+    "def": "다른 나라로 들어옴.",
     "term": "입국",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4488": {
-    "def": "사람 이름의 하나.",
+    "def": "사람의 이름.",
     "term": "혜영",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4489": {
-    "def": "여러 사람이 모여 중요한 일을 토의하고 결정하는 단체.",
+    "def": "여러 사람이 모여 어떤 일을 심의하고 결정하는 기구.",
     "term": "위원회",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4490": {
-    "def": "다른 것이나 사람을 대신하여 일을 맡다.",
+    "def": "다른 사람이나 물건의 역할을 맡아 그 자리를 채우다.",
     "term": "대신하다",
     "lemma": "대신",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4491": {
-    "def": "좁은 틈이나 속으로 깊게 들어가다.",
+    "def": "좁은 틈이나 사이로 깊게 들어가다.",
     "term": "파고들다",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4492": {
-    "def": "힘이나 능력이 더 세지고 튼튼해지다.",
+    "def": "더 세고 튼튼해지도록 힘이 보태어짐.",
     "term": "강화되다",
     "lemma": "강화",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4493": {
-    "def": "다니던 학교에서 다른 학교로 옮김.",
+    "def": "다니던 학교를 바꾸어 옮김.",
     "term": "전학",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4494": {
-    "def": "식초 밥 위에 생선이나 다른 재료를 올려 만든 음식.",
+    "def": "식초 밥에 생선을 올려 만든 음식.",
     "term": "스시",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4495": {
-    "def": "믿기 어렵고 믿음이 가지 않는 느낌이다.",
+    "def": "믿기 어렵고 의심이 드는 상태다.",
     "term": "의심스럽다",
     "lemma": "의심",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4496": {
-    "def": "처음 만나는 남녀가 소개로 만나 함께 식사하거나 대화하는 약속.",
+    "def": "소개로 처음 만나는 사람과 하는 만남.",
     "term": "소개팅",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4497": {
-    "def": "마음을 가라앉히고 조용히 생각에 잠기는 일.",
+    "def": "마음을 가라앉히고 조용히 생각을 들여다보는 일.",
     "term": "명상",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4498": {
     "def": null,
@@ -32161,126 +32161,126 @@
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
   "4499": {
-    "def": "해산물과 고기가 함께 들어간 매운 국물 면 요리.",
+    "def": "매운 국물에 여러 재료를 넣어 만든 국수 요리.",
     "term": "짬뽕",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4500": {
-    "def": "숨겨진 사실이나 원인을 밝혀서 알아내다.",
+    "def": "숨겨진 사실을 찾아 밝혀 드러내다.",
     "term": "밝혀내다",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4501": {
-    "def": "사람이나 동물을 해치게 하는 해로운 물질.",
+    "def": "사람이나 동물을 해치게 하는 물질이나 독한 성분.",
     "term": "독",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4502": {
     "def": "가장 강함 또는 가장 강한 사람이나 팀.",
     "term": "최강",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4503": {
-    "def": "정보나 자료를 잃지 않도록 기기나 곳에 넣어 두다.",
+    "def": "정보나 물건을 남겨 두어 나중에 쓰도록 모아 둔다.",
     "term": "저장하다",
     "lemma": "저장",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4504": {
-    "def": "칼날처럼 얇고 날이 서 있는 부분이나 그런 모양의 물건.",
+    "def": "칼이나 프로펠러처럼 얇고 날카로운 넓은 판.",
     "term": "블레이드",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4505": {
-    "def": "마음에 깊이 새겨 두고 잊지 않다.",
+    "def": "마음에 깊이 새겨 꼭 기억하다.",
     "term": "명심하다",
     "lemma": "명심",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4506": {
-    "def": "환자가 누워 있는 침대와 그 주변 자리.",
+    "def": "병이 들어 누워 있는 자리나 병실의 침대.",
     "term": "병상",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4507": {
-    "def": "값을 일정한 비율이나 금액만큼 깎아 주는 것.",
+    "def": "값을 깎아 주거나 깎는 일.",
     "term": "할인",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4508": {
-    "def": "병에 감염된 사람.",
+    "def": "전염병에 감염된 사람.",
     "term": "감염자",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4509": {
-    "def": "사랑을 뜻하거나 사랑과 관련된 말이나 이름.",
+    "def": "사랑을 뜻하는 말이나 이름에 쓰이는 말.",
     "term": "러브",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4510": {
-    "def": "죄를 지었다고 법원에 재판을 요청받다.",
+    "def": "죄를 지었다고 법원에 넘겨짐.",
     "term": "기소되다",
     "lemma": "기소",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4511": {
-    "def": "몸집이 작고 회색 깃을 가진 집 주변에 자주 보이는 새.",
+    "def": "몸집이 작고 회색빛을 띠며 길에서 자주 보이는 새.",
     "term": "비둘기",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4512": {
     "def": "여럿이 한때에 함께.",
     "term": "일제히",
     "pos": "ADV",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4513": {
-    "def": "기쁜 마음으로 스스로.",
+    "def": "원해서 기쁜 마음으로.",
     "term": "기꺼이",
     "pos": "ADV",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4514": {
-    "def": "계획한 일을 실제로 하거나 컴퓨터가 프로그램을 돌리는 일.",
+    "def": "계획한 일을 실제로 해 나감.",
     "term": "실행",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4515": {
-    "def": "선택이나 찜을 뜻하는 말이나 어떤 것을 뽑았을 때 쓰는 말.",
+    "def": "골라 뽑는 선택이나 선택된 것.",
     "term": "픽",
     "pos": "NOUN",
-    "defRequestId": "84318455-7bb9-476f-8ee6-8c7709a85794",
-    "createdAt": "2025-11-29T16:53:47.822Z"
+    "defRequestId": "381615d8-9331-4cf5-88ee-e9922603e6c2",
+    "createdAt": "2025-11-29T17:57:34.697Z"
   },
   "4516": {
     "def": "빛이 없어 깜깜한 상태나 그런 느낌.",
@@ -33733,75 +33733,75 @@
     "createdAt": "2025-11-29T16:55:14.042Z"
   },
   "4718": {
-    "def": "하룻밤은 밤부터 다음 날 아침까지의 한 번의 밤이다.",
+    "def": "저녁부터 다음 날 아침까지의 한밤 시간.",
     "term": "하룻밤",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4719": {
-    "def": "샘플은 전체를 대표하게 조금 떼어 낸 물건이나 자료이다.",
+    "def": "물건이나 음악 등을 맛보기로 조금만 보여 주는 것.",
     "term": "샘플",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4720": {
-    "def": "퍼붓다는 비나 눈이나 말 따위를 매우 세게 계속 내리게 하거나 쏟는 것이다.",
+    "def": "비나 눈, 말이나 탄알 등을 한꺼번에 세게 많이 쏟아 붓다.",
     "term": "퍼붓다",
     "pos": "VERB",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4721": {
-    "def": "대거는 매우 많은 사람이나 것이 한꺼번에 움직이거나 나타남을 뜻한다.",
+    "def": "수나 사람이 매우 많이, 한꺼번에.",
     "term": "대거",
     "pos": "ADV",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4722": {
-    "def": "매달리다는 끈이나 손으로 잡고 아래로 달려 있거나 한 일에 계속 매어서 노력하는 것이다.",
+    "def": "도움이나 해결을 바라고 한곳에 붙어 계속 부탁하거나 의지하다.",
     "term": "매달리다",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4723": {
-    "def": "힘들어지다는 일이 더 어려워지거나 견디기 어려워지는 것이다.",
+    "def": "상황이나 일이 점점 더 어렵고 힘이 들게 되다.",
     "term": "힘들어지다",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4724": {
-    "def": "다듬다는 거친 것을 고르게 하거나 말을 더 알기 쉽게 고치는 것이다.",
+    "def": "모양이나 글 등을 고르게 하고 보기 좋게 손질하다.",
     "term": "다듬다",
     "pos": "VERB",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4725": {
-    "def": "신분증은 자신의 신분을 공식적으로 증명하는 카드나 증서이다.",
+    "def": "나이를 비롯해 내가 누구인지 증명하는 카드.",
     "term": "신분증",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4726": {
-    "def": "회복되다는 나빠졌던 몸이나 상태가 다시 예전의 좋은 상태로 돌아오는 것이다.",
+    "def": "아프거나 나빠진 상태가 다시 좋아지다.",
     "term": "회복되다",
     "lemma": "회복",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4727": {
-    "def": "당근은 주황색 뿌리를 먹는 채소로 달고 아삭한 맛이 나는 것이다.",
+    "def": "주황색 뿌리채소의 하나로 달고 아삭한 채소.",
     "term": "당근",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4728": {
     "def": null,
@@ -33813,40 +33813,40 @@
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
   "4729": {
-    "def": "주목받다는 많은 사람의 관심을 끌어 눈길을 받는 것이다.",
+    "def": "사람들의 관심을 많이 받다.",
     "term": "주목받다",
     "lemma": "주목",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4730": {
-    "def": "인자는 어떤 결과를 만드는 데 영향을 주는 요소나 성분이다.",
+    "def": "사람의 성질을 정하는 요인이나 생물학적 요소를 이르는 말.",
     "term": "인자",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4731": {
-    "def": "캐럿은 보석의 무게나 금의 순도를 나타내는 단위이다.",
+    "def": "보석의 무게나 크기를 나타내는 단위.",
     "term": "캐럿",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4732": {
-    "def": "책장은 책을 꽂아 두는 선반이나 책의 장을 뜻한다.",
+    "def": "책을 꽂아 두는 선반이나 가구.",
     "term": "책장",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4733": {
-    "def": "대상자는 어떤 조사나 치료 등 특정한 일의 목표가 되는 사람이다.",
+    "def": "어떤 일의 대상으로 뽑힌 사람.",
     "term": "대상자",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4734": {
     "def": null,
@@ -33857,255 +33857,255 @@
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
   "4735": {
-    "def": "빈은 안에 아무것도 들어 있지 않거나 사람이 살지 않는 상태를 뜻한다.",
+    "def": "속에 아무것도 들어 있지 않음.",
     "term": "빈",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4736": {
-    "def": "빡세다는 일이 매우 힘들고 버겁다는 뜻의 구어체 표현이다.",
+    "def": "일이나 훈련이 매우 힘들고 벅차다라는 뜻의 속된 말.",
     "term": "빡세다",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4737": {
-    "def": "단백질은 몸을 이루고 기능을 돕는 데 필요한 중요한 영양 성분이다.",
+    "def": "몸을 만들고 움직이는 데 필요한 영양 성분의 하나.",
     "term": "단백질",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4738": {
-    "def": "문화재는 역사나 예술 가치가 있어 보호해야 하는 물건이나 공간이다.",
+    "def": "역사적 또는 예술적 가치가 있어 보호해야 하는 물건이나 건물.",
     "term": "문화재",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4739": {
-    "def": "대꾸하다는 남의 말에 맞추어 말을 받아서 응답하는 것이다.",
+    "def": "상대의 말에 바로 받아서 말로 응답하다.",
     "term": "대꾸하다",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4740": {
-    "def": "어제저녁은 어제 날이 저물던 때부터 밤 사이를 이르는 말이다.",
+    "def": "어제의 저녁 시간.",
     "term": "어제저녁",
     "lemma": "어제",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4741": {
-    "def": "붙들다는 손으로 꽉 잡거나 사람을 떠나지 못하게 막는 것이다.",
+    "def": "도망가지 못하게 꽉 잡다 또는 버리지 않고 계속 잡고 있다.",
     "term": "붙들다",
     "pos": "VERB",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4742": {
-    "def": "양측은 서로 마주하는 두 편을 함께 이르는 말이다.",
+    "def": "서로 맞서는 두 편.",
     "term": "양측",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4743": {
-    "def": "모양새는 겉으로 보이는 모양이나 분위기의 느낌이다.",
+    "def": "겉으로 드러나는 모습이나 분위기.",
     "term": "모양새",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4744": {
-    "def": "킹은 서양식 놀이나 체계에서 가장 높은 지위를 가진 남자 임금을 뜻한다.",
+    "def": "왕을 뜻하거나 아주 뛰어난 사람을 비유적으로 이르는 말.",
     "term": "킹",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4745": {
-    "def": "도발은 상대를 자극해 공격하거나 반응을 끌어내려는 행동이다.",
+    "def": "상대를 자극하여 공격이나 반응을 유도하는 행동.",
     "term": "도발",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4746": {
-    "def": "스페이스는 빈 칸이나 공간을 뜻한다.",
+    "def": "빈 자리나 공간을 뜻하거나 글자 사이의 빈 칸.",
     "term": "스페이스",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4747": {
-    "def": "민원은 주민이 행정기관에 요구하거나 신고하는 일이다.",
+    "def": "행정기관에 내는 불편 해결 요청이나 상담.",
     "term": "민원",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4748": {
-    "def": "독도는 우리나라 동해에 있는 작은 섬이다.",
+    "def": "동해에 있는 우리나라 섬의 이름.",
     "term": "독도",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4749": {
-    "def": "뉴는 외래어에서 새로운 것이나 새로움을 나타내는 말 앞부분이다.",
+    "def": "새롭다는 뜻으로 이름 앞에 붙여 쓰는 말.",
     "term": "뉴",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4750": {
-    "def": "아트는 예술을 가리키는 외래어이다.",
+    "def": "그림, 음악, 춤 등 아름다움을 표현하는 활동이나 작품.",
     "term": "아트",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4751": {
-    "def": "호감은 마음에 들어 좋아하는 느낌이다.",
+    "def": "상대에게 느끼는 좋은 느낌.",
     "term": "호감",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4752": {
-    "def": "용돈은 생활 속 작은 지출을 위해 따로 받거나 쓰는 돈이다.",
+    "def": "부모나 어른에게서 받는 개인적 쓰임의 돈.",
     "term": "용돈",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4753": {
-    "def": "난감하다는 어떻게 해야 할지 몰라 곤란한 상태이다.",
+    "def": "어떻게 해야 할지 몰라 답답하고 곤란하다.",
     "term": "난감하다",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4754": {
-    "def": "드라이브는 차를 타고 바람을 쐬며 길을 달리는 일이다.",
+    "def": "차를 타고 바람을 쐬며 여기저기 달리는 일.",
     "term": "드라이브",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4755": {
-    "def": "세입자는 집이나 방을 빌려 사는 사람이다.",
+    "def": "집이나 방을 빌려 사는 사람.",
     "term": "세입자",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4756": {
-    "def": "울산은 대한민국 동남쪽에 있는 광역시이다.",
+    "def": "대한민국 동남쪽에 있는 큰 도시의 이름.",
     "term": "울산",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4757": {
-    "def": "입학하다는 학교에 들어가 학생이 되는 것이다.",
+    "def": "학교에 들어가서 학생이 되다.",
     "term": "입학하다",
     "lemma": "입학",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4758": {
-    "def": "자극적은 감각이나 마음을 강하게 흔들어 강한 반응을 일으키는 성질이다.",
+    "def": "맛이나 자극이 강해 강렬하게 느껴지는.",
     "term": "자극적",
     "pos": "ADJ",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4759": {
-    "def": "컨실러는 피부의 잡티나 어두운 부분을 가리는 화장품이다.",
+    "def": "피부의 잡티를 가리기 위해 바르는 화장품.",
     "term": "컨실러",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4760": {
-    "def": "소나무는 사철 푸른 잎을 가진 큰 나무로 우리나라에 흔한 수종이다.",
+    "def": "사철 푸른 잎을 가진 큰 나무의 하나.",
     "term": "소나무",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4761": {
-    "def": "쿠폰은 물건을 싸게 사거나 혜택을 받을 수 있게 하는 증표이다.",
+    "def": "할인이나 혜택을 받을 수 있는 증서나 코드.",
     "term": "쿠폰",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4762": {
-    "def": "창의적은 새로운 생각이나 색다른 방법을 잘 떠올리는 성질이다.",
+    "def": "새롭고 남다른 생각을 잘 해내는 성질.",
     "term": "창의적",
     "lemma": "창의",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4763": {
-    "def": "공정은 일이 정해진 순서와 방법으로 진행되는 과정이나 공평함을 뜻한다.",
+    "def": "일을 나누어 처리하는 과정이나 공평하고 바름.",
     "term": "공정",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4764": {
-    "def": "포근하다는 따뜻하고 부드러워 편안하게 느껴지는 상태이다.",
+    "def": "날씨나 옷감 등이 따뜻하고 포근한 느낌이 있다.",
     "term": "포근하다",
     "lemma": "포근",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4765": {
-    "def": "지멘은 전기 전도도의 국제 단위이다.",
+    "def": "큰 수치를 나타낼 때 쓰는 말로 십의 네 번 곱을 뜻함.",
     "term": "지멘",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4766": {
-    "def": "김치찌개는 김치와 고기나 두부 등을 넣어 끓인 찌개이다.",
+    "def": "김치와 고기를 넣고 끓인 얼큰한 찌개.",
     "term": "김치찌개",
     "lemma": "김치",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4767": {
-    "def": "단원은 모임이나 단체에 속한 구성원이다.",
+    "def": "모임이나 단체에 속한 사람.",
     "term": "단원",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4768": {
-    "def": "검사하다는 상태나 이상이 없는지 살펴보거나 시험하는 것이다.",
+    "def": "상태나 물건 등을 조사하여 이상이 있는지 알아보다.",
     "term": "검사하다",
     "lemma": "검사",
     "pos": "NOUN",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4769": {
-    "def": "의뢰는 다른 사람이나 기관에 일을 부탁하는 것이다.",
+    "def": "일을 해 달라고 부탁함 또는 그런 부탁을 받음.",
     "term": "의뢰",
     "pos": "VERB",
-    "defRequestId": "88edb4a9-5270-4329-ae6c-29b93c7a6e0f",
-    "createdAt": "2025-11-29T16:56:06.677Z"
+    "defRequestId": "c3b85f71-8836-49ac-b9ab-cb0615dd3b91",
+    "createdAt": "2025-11-29T17:57:53.575Z"
   },
   "4770": {
     "def": "이미 이렇게 된 바에는 라는 뜻으로, 한 번 시작했으니 계속하거나 더 하자는 말이다.",

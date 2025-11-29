@@ -22,6 +22,17 @@ and often ignore these:
  - "PUNCT"
  - "X"
 
+## TODO
+
+ - Batch proof-editor (POS, def) -> tag problematic attirbutes.
+ - Images
+ - Hanja
+ - Definition translation
+ - Term translation
+ - alternative forms: noun modifying, past tense, etc.
+ - Browser UI
+    - Approval UI.
+
 ## Setup
 
 - Copy `.env.example` to `.env` and fill in your keys (OpenAI + Google Cloud service account with the Natural Language API enabled).
