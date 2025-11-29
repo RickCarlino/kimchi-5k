@@ -1,0 +1,6858 @@
+[
+  {
+    "lemma": "이나",
+    "count": 1584
+  },
+  {
+    "lemma": "이다",
+    "count": 1210
+  },
+  {
+    "lemma": "한다",
+    "count": 516
+  },
+  {
+    "lemma": "으로",
+    "count": 498
+  },
+  {
+    "lemma": "에서",
+    "count": 468
+  },
+  {
+    "lemma": "하는",
+    "count": 462
+  },
+  {
+    "lemma": "어떤",
+    "count": 429
+  },
+  {
+    "lemma": "있는",
+    "count": 252
+  },
+  {
+    "lemma": "쓰는",
+    "count": 156
+  },
+  {
+    "lemma": "하거나",
+    "count": 145
+  },
+  {
+    "lemma": "또는",
+    "count": 140
+  },
+  {
+    "lemma": "여러",
+    "count": 130
+  },
+  {
+    "lemma": "다른",
+    "count": 128
+  },
+  {
+    "lemma": "하고",
+    "count": 128
+  },
+  {
+    "lemma": "일.",
+    "count": 118
+  },
+  {
+    "lemma": "나타내는",
+    "count": 117
+  },
+  {
+    "lemma": "이르는",
+    "count": 116
+  },
+  {
+    "lemma": "같은",
+    "count": 114
+  },
+  {
+    "lemma": "나라",
+    "count": 111
+  },
+  {
+    "lemma": "이른다",
+    "count": 106
+  },
+  {
+    "lemma": "위해",
+    "count": 99
+  },
+  {
+    "lemma": "만든",
+    "count": 97
+  },
+  {
+    "lemma": "되는",
+    "count": 87
+  },
+  {
+    "lemma": "않고",
+    "count": 85
+  },
+  {
+    "lemma": "하여",
+    "count": 85
+  },
+  {
+    "lemma": "매우",
+    "count": 82
+  },
+  {
+    "lemma": "사실",
+    "count": 76
+  },
+  {
+    "lemma": "에게",
+    "count": 74
+  },
+  {
+    "lemma": "사람들",
+    "count": 73
+  },
+  {
+    "lemma": "작은",
+    "count": 72
+  },
+  {
+    "lemma": "주는",
+    "count": 72
+  },
+  {
+    "lemma": "하지",
+    "count": 68
+  },
+  {
+    "lemma": "하게",
+    "count": 65
+  },
+  {
+    "lemma": "정해진",
+    "count": 60
+  },
+  {
+    "lemma": "가리키는",
+    "count": 54
+  },
+  {
+    "lemma": "가진",
+    "count": 53
+  },
+  {
+    "lemma": "사이",
+    "count": 52
+  },
+  {
+    "lemma": "필요",
+    "count": 51
+  },
+  {
+    "lemma": "크게",
+    "count": 50
+  },
+  {
+    "lemma": "바로",
+    "count": 49
+  },
+  {
+    "lemma": "하기",
+    "count": 46
+  },
+  {
+    "lemma": "않게",
+    "count": 44
+  },
+  {
+    "lemma": "처럼",
+    "count": 43
+  },
+  {
+    "lemma": "그런",
+    "count": 42
+  },
+  {
+    "lemma": "라는",
+    "count": 42
+  },
+  {
+    "lemma": "맡아",
+    "count": 42
+  },
+  {
+    "lemma": "까지",
+    "count": 41
+  },
+  {
+    "lemma": "많은",
+    "count": 40
+  },
+  {
+    "lemma": "이상",
+    "count": 40
+  },
+  {
+    "lemma": "높은",
+    "count": 39
+  },
+  {
+    "lemma": "자기",
+    "count": 39
+  },
+  {
+    "lemma": "모아",
+    "count": 38
+  },
+  {
+    "lemma": "모여",
+    "count": 38
+  },
+  {
+    "lemma": "부르는",
+    "count": 37
+  },
+  {
+    "lemma": "세게",
+    "count": 37
+  },
+  {
+    "lemma": "경기",
+    "count": 36
+  },
+  {
+    "lemma": "좋은",
+    "count": 36
+  },
+  {
+    "lemma": "보는",
+    "count": 34
+  },
+  {
+    "lemma": "아래",
+    "count": 34
+  },
+  {
+    "lemma": "장치",
+    "count": 34
+  },
+  {
+    "lemma": "대해",
+    "count": 33
+  },
+  {
+    "lemma": "있던",
+    "count": 33
+  },
+  {
+    "lemma": "넣어",
+    "count": 31
+  },
+  {
+    "lemma": "않은",
+    "count": 31
+  },
+  {
+    "lemma": "중요",
+    "count": 31
+  },
+  {
+    "lemma": "보이는",
+    "count": 30
+  },
+  {
+    "lemma": "쓰이는",
+    "count": 30
+  },
+  {
+    "lemma": "일정",
+    "count": 30
+  },
+  {
+    "lemma": "하며",
+    "count": 30
+  },
+  {
+    "lemma": "도움",
+    "count": 29
+  },
+  {
+    "lemma": "되어",
+    "count": 29
+  },
+  {
+    "lemma": "따라",
+    "count": 29
+  },
+  {
+    "lemma": "어려운",
+    "count": 29
+  },
+  {
+    "lemma": "크기",
+    "count": 29
+  },
+  {
+    "lemma": "가는",
+    "count": 28
+  },
+  {
+    "lemma": "가볍게",
+    "count": 28
+  },
+  {
+    "lemma": "먹는",
+    "count": 28
+  },
+  {
+    "lemma": "받는",
+    "count": 28
+  },
+  {
+    "lemma": "보기",
+    "count": 28
+  },
+  {
+    "lemma": "사물",
+    "count": 28
+  },
+  {
+    "lemma": "실제로",
+    "count": 28
+  },
+  {
+    "lemma": "않는",
+    "count": 28
+  },
+  {
+    "lemma": "있게",
+    "count": 28
+  },
+  {
+    "lemma": "해야",
+    "count": 28
+  },
+  {
+    "lemma": "나쁜",
+    "count": 27
+  },
+  {
+    "lemma": "노래",
+    "count": 27
+  },
+  {
+    "lemma": "사는",
+    "count": 27
+  },
+  {
+    "lemma": "여럿",
+    "count": 27
+  },
+  {
+    "lemma": "그렇게",
+    "count": 25
+  },
+  {
+    "lemma": "영상",
+    "count": 25
+  },
+  {
+    "lemma": "있어",
+    "count": 25
+  },
+  {
+    "lemma": "가지고",
+    "count": 24
+  },
+  {
+    "lemma": "만드는",
+    "count": 24
+  },
+  {
+    "lemma": "이거나",
+    "count": 24
+  },
+  {
+    "lemma": "갑자기",
+    "count": 23
+  },
+  {
+    "lemma": "기기",
+    "count": 23
+  },
+  {
+    "lemma": "보여",
+    "count": 23
+  },
+  {
+    "lemma": "없는",
+    "count": 23
+  },
+  {
+    "lemma": "다니는",
+    "count": 22
+  },
+  {
+    "lemma": "달라",
+    "count": 22
+  },
+  {
+    "lemma": "대로",
+    "count": 22
+  },
+  {
+    "lemma": "두는",
+    "count": 22
+  },
+  {
+    "lemma": "사건",
+    "count": 22
+  },
+  {
+    "lemma": "수나",
+    "count": 22
+  },
+  {
+    "lemma": "아닌",
+    "count": 22
+  },
+  {
+    "lemma": "움직이는",
+    "count": 22
+  },
+  {
+    "lemma": "이해",
+    "count": 22
+  },
+  {
+    "lemma": "좋게",
+    "count": 22
+  },
+  {
+    "lemma": "짧은",
+    "count": 22
+  },
+  {
+    "lemma": "하던",
+    "count": 22
+  },
+  {
+    "lemma": "가운데",
+    "count": 21
+  },
+  {
+    "lemma": "새로",
+    "count": 21
+  },
+  {
+    "lemma": "않아",
+    "count": 21
+  },
+  {
+    "lemma": "자주",
+    "count": 21
+  },
+  {
+    "lemma": "하려고",
+    "count": 21
+  },
+  {
+    "lemma": "움직임",
+    "count": 20
+  },
+  {
+    "lemma": "한쪽",
+    "count": 20
+  },
+  {
+    "lemma": "만들어",
+    "count": 19
+  },
+  {
+    "lemma": "새로운",
+    "count": 19
+  },
+  {
+    "lemma": "조건",
+    "count": 19
+  },
+  {
+    "lemma": "조직",
+    "count": 19
+  },
+  {
+    "lemma": "주다",
+    "count": 19
+  },
+  {
+    "lemma": "내어",
+    "count": 18
+  },
+  {
+    "lemma": "단단한",
+    "count": 18
+  },
+  {
+    "lemma": "들어가",
+    "count": 18
+  },
+  {
+    "lemma": "써서",
+    "count": 18
+  },
+  {
+    "lemma": "오래",
+    "count": 18
+  },
+  {
+    "lemma": "움직이게",
+    "count": 18
+  },
+  {
+    "lemma": "윗사람",
+    "count": 18
+  },
+  {
+    "lemma": "이루는",
+    "count": 18
+  },
+  {
+    "lemma": "되거나",
+    "count": 17
+  },
+  {
+    "lemma": "맡은",
+    "count": 17
+  },
+  {
+    "lemma": "위한",
+    "count": 17
+  },
+  {
+    "lemma": "인지",
+    "count": 17
+  },
+  {
+    "lemma": "나오는",
+    "count": 16
+  },
+  {
+    "lemma": "남을",
+    "count": 16
+  },
+  {
+    "lemma": "높여",
+    "count": 16
+  },
+  {
+    "lemma": "느끼는",
+    "count": 16
+  },
+  {
+    "lemma": "부터",
+    "count": 16
+  },
+  {
+    "lemma": "어린",
+    "count": 16
+  },
+  {
+    "lemma": "정해",
+    "count": 16
+  },
+  {
+    "lemma": "파는",
+    "count": 16
+  },
+  {
+    "lemma": "하려는",
+    "count": 16
+  },
+  {
+    "lemma": "해서",
+    "count": 16
+  },
+  {
+    "lemma": "넓은",
+    "count": 15
+  },
+  {
+    "lemma": "느껴지는",
+    "count": 15
+  },
+  {
+    "lemma": "따로",
+    "count": 15
+  },
+  {
+    "lemma": "맞게",
+    "count": 15
+  },
+  {
+    "lemma": "보고",
+    "count": 15
+  },
+  {
+    "lemma": "분위기",
+    "count": 15
+  },
+  {
+    "lemma": "쉽게",
+    "count": 15
+  },
+  {
+    "lemma": "싶은",
+    "count": 15
+  },
+  {
+    "lemma": "있거나",
+    "count": 15
+  },
+  {
+    "lemma": "작고",
+    "count": 15
+  },
+  {
+    "lemma": "크고",
+    "count": 15
+  },
+  {
+    "lemma": "가까운",
+    "count": 14
+  },
+  {
+    "lemma": "기대",
+    "count": 14
+  },
+  {
+    "lemma": "길고",
+    "count": 14
+  },
+  {
+    "lemma": "들어",
+    "count": 14
+  },
+  {
+    "lemma": "만들거나",
+    "count": 14
+  },
+  {
+    "lemma": "못하게",
+    "count": 14
+  },
+  {
+    "lemma": "물건.",
+    "count": 14
+  },
+  {
+    "lemma": "세는",
+    "count": 14
+  },
+  {
+    "lemma": "쓰거나",
+    "count": 14
+  },
+  {
+    "lemma": "않거나",
+    "count": 14
+  },
+  {
+    "lemma": "않음",
+    "count": 14
+  },
+  {
+    "lemma": "이끄는",
+    "count": 14
+  },
+  {
+    "lemma": "이어",
+    "count": 14
+  },
+  {
+    "lemma": "좋고",
+    "count": 14
+  },
+  {
+    "lemma": "주어",
+    "count": 14
+  },
+  {
+    "lemma": "흐름",
+    "count": 14
+  },
+  {
+    "lemma": "강한",
+    "count": 13
+  },
+  {
+    "lemma": "고기",
+    "count": 13
+  },
+  {
+    "lemma": "넣는",
+    "count": 13
+  },
+  {
+    "lemma": "놓은",
+    "count": 13
+  },
+  {
+    "lemma": "둥근",
+    "count": 13
+  },
+  {
+    "lemma": "드는",
+    "count": 13
+  },
+  {
+    "lemma": "문서",
+    "count": 13
+  },
+  {
+    "lemma": "보거나",
+    "count": 13
+  },
+  {
+    "lemma": "없거나",
+    "count": 13
+  },
+  {
+    "lemma": "있음",
+    "count": 13
+  },
+  {
+    "lemma": "정한",
+    "count": 13
+  },
+  {
+    "lemma": "탈것",
+    "count": 13
+  },
+  {
+    "lemma": "화면",
+    "count": 13
+  },
+  {
+    "lemma": "가거나",
+    "count": 12
+  },
+  {
+    "lemma": "곡식",
+    "count": 12
+  },
+  {
+    "lemma": "근거",
+    "count": 12
+  },
+  {
+    "lemma": "기호",
+    "count": 12
+  },
+  {
+    "lemma": "길게",
+    "count": 12
+  },
+  {
+    "lemma": "꾸미는",
+    "count": 12
+  },
+  {
+    "lemma": "나누는",
+    "count": 12
+  },
+  {
+    "lemma": "믿는",
+    "count": 12
+  },
+  {
+    "lemma": "보이거나",
+    "count": 12
+  },
+  {
+    "lemma": "알려",
+    "count": 12
+  },
+  {
+    "lemma": "이미",
+    "count": 12
+  },
+  {
+    "lemma": "조사",
+    "count": 12
+  },
+  {
+    "lemma": "주거나",
+    "count": 12
+  },
+  {
+    "lemma": "짧게",
+    "count": 12
+  },
+  {
+    "lemma": "기름",
+    "count": 11
+  },
+  {
+    "lemma": "내거나",
+    "count": 11
+  },
+  {
+    "lemma": "달콤한",
+    "count": 11
+  },
+  {
+    "lemma": "대한",
+    "count": 11
+  },
+  {
+    "lemma": "되지",
+    "count": 11
+  },
+  {
+    "lemma": "두고",
+    "count": 11
+  },
+  {
+    "lemma": "만들고",
+    "count": 11
+  },
+  {
+    "lemma": "모인",
+    "count": 11
+  },
+  {
+    "lemma": "받아",
+    "count": 11
+  },
+  {
+    "lemma": "빠르게",
+    "count": 11
+  },
+  {
+    "lemma": "사회",
+    "count": 11
+  },
+  {
+    "lemma": "아픈",
+    "count": 11
+  },
+  {
+    "lemma": "알맞은",
+    "count": 11
+  },
+  {
+    "lemma": "올려",
+    "count": 11
+  },
+  {
+    "lemma": "움직여",
+    "count": 11
+  },
+  {
+    "lemma": "의심",
+    "count": 11
+  },
+  {
+    "lemma": "이라는",
+    "count": 11
+  },
+  {
+    "lemma": "주고받는",
+    "count": 11
+  },
+  {
+    "lemma": "지난",
+    "count": 11
+  },
+  {
+    "lemma": "한곳",
+    "count": 11
+  },
+  {
+    "lemma": "갈래",
+    "count": 10
+  },
+  {
+    "lemma": "강하게",
+    "count": 10
+  },
+  {
+    "lemma": "나눈",
+    "count": 10
+  },
+  {
+    "lemma": "나타낼",
+    "count": 10
+  },
+  {
+    "lemma": "놀라거나",
+    "count": 10
+  },
+  {
+    "lemma": "달린",
+    "count": 10
+  },
+  {
+    "lemma": "드러나는",
+    "count": 10
+  },
+  {
+    "lemma": "떨어져",
+    "count": 10
+  },
+  {
+    "lemma": "맞추어",
+    "count": 10
+  },
+  {
+    "lemma": "배우는",
+    "count": 10
+  },
+  {
+    "lemma": "보이지",
+    "count": 10
+  },
+  {
+    "lemma": "붙여",
+    "count": 10
+  },
+  {
+    "lemma": "빛깔",
+    "count": 10
+  },
+  {
+    "lemma": "생긴",
+    "count": 10
+  },
+  {
+    "lemma": "심하게",
+    "count": 10
+  },
+  {
+    "lemma": "알고",
+    "count": 10
+  },
+  {
+    "lemma": "없고",
+    "count": 10
+  },
+  {
+    "lemma": "오는",
+    "count": 10
+  },
+  {
+    "lemma": "이어지는",
+    "count": 10
+  },
+  {
+    "lemma": "있고",
+    "count": 10
+  },
+  {
+    "lemma": "적은",
+    "count": 10
+  },
+  {
+    "lemma": "정치",
+    "count": 10
+  },
+  {
+    "lemma": "조각",
+    "count": 10
+  },
+  {
+    "lemma": "좋지",
+    "count": 10
+  },
+  {
+    "lemma": "줄기",
+    "count": 10
+  },
+  {
+    "lemma": "즐기는",
+    "count": 10
+  },
+  {
+    "lemma": "지나",
+    "count": 10
+  },
+  {
+    "lemma": "거의",
+    "count": 9
+  },
+  {
+    "lemma": "골라",
+    "count": 9
+  },
+  {
+    "lemma": "군대",
+    "count": 9
+  },
+  {
+    "lemma": "굳게",
+    "count": 9
+  },
+  {
+    "lemma": "남이",
+    "count": 9
+  },
+  {
+    "lemma": "내리는",
+    "count": 9
+  },
+  {
+    "lemma": "눌러",
+    "count": 9
+  },
+  {
+    "lemma": "다루는",
+    "count": 9
+  },
+  {
+    "lemma": "다르게",
+    "count": 9
+  },
+  {
+    "lemma": "담아",
+    "count": 9
+  },
+  {
+    "lemma": "듣는",
+    "count": 9
+  },
+  {
+    "lemma": "물고기",
+    "count": 9
+  },
+  {
+    "lemma": "믿고",
+    "count": 9
+  },
+  {
+    "lemma": "반대",
+    "count": 9
+  },
+  {
+    "lemma": "보내는",
+    "count": 9
+  },
+  {
+    "lemma": "보이게",
+    "count": 9
+  },
+  {
+    "lemma": "살아",
+    "count": 9
+  },
+  {
+    "lemma": "수량",
+    "count": 9
+  },
+  {
+    "lemma": "억지로",
+    "count": 9
+  },
+  {
+    "lemma": "없어",
+    "count": 9
+  },
+  {
+    "lemma": "에게서",
+    "count": 9
+  },
+  {
+    "lemma": "옳고",
+    "count": 9
+  },
+  {
+    "lemma": "이루어지는",
+    "count": 9
+  },
+  {
+    "lemma": "일어날",
+    "count": 9
+  },
+  {
+    "lemma": "좋아",
+    "count": 9
+  },
+  {
+    "lemma": "줄여",
+    "count": 9
+  },
+  {
+    "lemma": "지은",
+    "count": 9
+  },
+  {
+    "lemma": "크거나",
+    "count": 9
+  },
+  {
+    "lemma": "하다는",
+    "count": 9
+  },
+  {
+    "lemma": "하도록",
+    "count": 9
+  },
+  {
+    "lemma": "학문",
+    "count": 9
+  },
+  {
+    "lemma": "형편",
+    "count": 9
+  },
+  {
+    "lemma": "가르치는",
+    "count": 8
+  },
+  {
+    "lemma": "가리킨다",
+    "count": 8
+  },
+  {
+    "lemma": "가서",
+    "count": 8
+  },
+  {
+    "lemma": "가지는",
+    "count": 8
+  },
+  {
+    "lemma": "공손",
+    "count": 8
+  },
+  {
+    "lemma": "관한",
+    "count": 8
+  },
+  {
+    "lemma": "구조",
+    "count": 8
+  },
+  {
+    "lemma": "그럴",
+    "count": 8
+  },
+  {
+    "lemma": "나누어",
+    "count": 8
+  },
+  {
+    "lemma": "나온",
+    "count": 8
+  },
+  {
+    "lemma": "낮추어",
+    "count": 8
+  },
+  {
+    "lemma": "내고",
+    "count": 8
+  },
+  {
+    "lemma": "둘레",
+    "count": 8
+  },
+  {
+    "lemma": "들고",
+    "count": 8
+  },
+  {
+    "lemma": "떼어",
+    "count": 8
+  },
+  {
+    "lemma": "뜨거운",
+    "count": 8
+  },
+  {
+    "lemma": "마주",
+    "count": 8
+  },
+  {
+    "lemma": "막힌",
+    "count": 8
+  },
+  {
+    "lemma": "맞아",
+    "count": 8
+  },
+  {
+    "lemma": "먹을",
+    "count": 8
+  },
+  {
+    "lemma": "모든",
+    "count": 8
+  },
+  {
+    "lemma": "묻거나",
+    "count": 8
+  },
+  {
+    "lemma": "바깥쪽",
+    "count": 8
+  },
+  {
+    "lemma": "바꾸어",
+    "count": 8
+  },
+  {
+    "lemma": "번째",
+    "count": 8
+  },
+  {
+    "lemma": "부드러운",
+    "count": 8
+  },
+  {
+    "lemma": "부르거나",
+    "count": 8
+  },
+  {
+    "lemma": "붙어",
+    "count": 8
+  },
+  {
+    "lemma": "살피고",
+    "count": 8
+  },
+  {
+    "lemma": "생기는",
+    "count": 8
+  },
+  {
+    "lemma": "선거",
+    "count": 8
+  },
+  {
+    "lemma": "세고",
+    "count": 8
+  },
+  {
+    "lemma": "쉬고",
+    "count": 8
+  },
+  {
+    "lemma": "쉬는",
+    "count": 8
+  },
+  {
+    "lemma": "싶어",
+    "count": 8
+  },
+  {
+    "lemma": "아니라",
+    "count": 8
+  },
+  {
+    "lemma": "알맞게",
+    "count": 8
+  },
+  {
+    "lemma": "여기",
+    "count": 8
+  },
+  {
+    "lemma": "일어나는",
+    "count": 8
+  },
+  {
+    "lemma": "입는",
+    "count": 8
+  },
+  {
+    "lemma": "있을",
+    "count": 8
+  },
+  {
+    "lemma": "작용",
+    "count": 8
+  },
+  {
+    "lemma": "잡아",
+    "count": 8
+  },
+  {
+    "lemma": "적거나",
+    "count": 8
+  },
+  {
+    "lemma": "전하는",
+    "count": 8
+  },
+  {
+    "lemma": "제대로",
+    "count": 8
+  },
+  {
+    "lemma": "죽은",
+    "count": 8
+  },
+  {
+    "lemma": "타고",
+    "count": 8
+  },
+  {
+    "lemma": "퍼져",
+    "count": 8
+  },
+  {
+    "lemma": "한국",
+    "count": 8
+  },
+  {
+    "lemma": "가벼운",
+    "count": 7
+  },
+  {
+    "lemma": "겉모습",
+    "count": 7
+  },
+  {
+    "lemma": "겨루는",
+    "count": 7
+  },
+  {
+    "lemma": "구경",
+    "count": 7
+  },
+  {
+    "lemma": "그름",
+    "count": 7
+  },
+  {
+    "lemma": "기체",
+    "count": 7
+  },
+  {
+    "lemma": "나쁨",
+    "count": 7
+  },
+  {
+    "lemma": "나중",
+    "count": 7
+  },
+  {
+    "lemma": "나타낸다",
+    "count": 7
+  },
+  {
+    "lemma": "낮은",
+    "count": 7
+  },
+  {
+    "lemma": "놀람",
+    "count": 7
+  },
+  {
+    "lemma": "느끼고",
+    "count": 7
+  },
+  {
+    "lemma": "다스리는",
+    "count": 7
+  },
+  {
+    "lemma": "다치거나",
+    "count": 7
+  },
+  {
+    "lemma": "닿아",
+    "count": 7
+  },
+  {
+    "lemma": "돕는",
+    "count": 7
+  },
+  {
+    "lemma": "되풀이",
+    "count": 7
+  },
+  {
+    "lemma": "두거나",
+    "count": 7
+  },
+  {
+    "lemma": "드러나",
+    "count": 7
+  },
+  {
+    "lemma": "들어가다",
+    "count": 7
+  },
+  {
+    "lemma": "따르는",
+    "count": 7
+  },
+  {
+    "lemma": "따져",
+    "count": 7
+  },
+  {
+    "lemma": "막는",
+    "count": 7
+  },
+  {
+    "lemma": "만나는",
+    "count": 7
+  },
+  {
+    "lemma": "맞지",
+    "count": 7
+  },
+  {
+    "lemma": "머무는",
+    "count": 7
+  },
+  {
+    "lemma": "못하고",
+    "count": 7
+  },
+  {
+    "lemma": "무대",
+    "count": 7
+  },
+  {
+    "lemma": "부를",
+    "count": 7
+  },
+  {
+    "lemma": "부서",
+    "count": 7
+  },
+  {
+    "lemma": "뾰족",
+    "count": 7
+  },
+  {
+    "lemma": "살거나",
+    "count": 7
+  },
+  {
+    "lemma": "스럽게",
+    "count": 7
+  },
+  {
+    "lemma": "시기",
+    "count": 7
+  },
+  {
+    "lemma": "않도록",
+    "count": 7
+  },
+  {
+    "lemma": "알림",
+    "count": 7
+  },
+  {
+    "lemma": "어려움",
+    "count": 7
+  },
+  {
+    "lemma": "얻으려고",
+    "count": 7
+  },
+  {
+    "lemma": "올리거나",
+    "count": 7
+  },
+  {
+    "lemma": "옷차림",
+    "count": 7
+  },
+  {
+    "lemma": "움직이거나",
+    "count": 7
+  },
+  {
+    "lemma": "움직이지",
+    "count": 7
+  },
+  {
+    "lemma": "이루려고",
+    "count": 7
+  },
+  {
+    "lemma": "이어진",
+    "count": 7
+  },
+  {
+    "lemma": "이쪽",
+    "count": 7
+  },
+  {
+    "lemma": "잇는",
+    "count": 7
+  },
+  {
+    "lemma": "적어",
+    "count": 7
+  },
+  {
+    "lemma": "전자",
+    "count": 7
+  },
+  {
+    "lemma": "정하는",
+    "count": 7
+  },
+  {
+    "lemma": "지켜야",
+    "count": 7
+  },
+  {
+    "lemma": "직책",
+    "count": 7
+  },
+  {
+    "lemma": "차갑게",
+    "count": 7
+  },
+  {
+    "lemma": "찾아",
+    "count": 7
+  },
+  {
+    "lemma": "틀림",
+    "count": 7
+  },
+  {
+    "lemma": "편안",
+    "count": 7
+  },
+  {
+    "lemma": "풀어",
+    "count": 7
+  },
+  {
+    "lemma": "향해",
+    "count": 7
+  },
+  {
+    "lemma": "힘들고",
+    "count": 7
+  },
+  {
+    "lemma": "가리거나",
+    "count": 6
+  },
+  {
+    "lemma": "간단한",
+    "count": 6
+  },
+  {
+    "lemma": "구운",
+    "count": 6
+  },
+  {
+    "lemma": "깊은",
+    "count": 6
+  },
+  {
+    "lemma": "나눌",
+    "count": 6
+  },
+  {
+    "lemma": "나르는",
+    "count": 6
+  },
+  {
+    "lemma": "나쁘게",
+    "count": 6
+  },
+  {
+    "lemma": "나쁘고",
+    "count": 6
+  },
+  {
+    "lemma": "나서",
+    "count": 6
+  },
+  {
+    "lemma": "나타나는",
+    "count": 6
+  },
+  {
+    "lemma": "낮잡아",
+    "count": 6
+  },
+  {
+    "lemma": "낳아",
+    "count": 6
+  },
+  {
+    "lemma": "높고",
+    "count": 6
+  },
+  {
+    "lemma": "느껴지",
+    "count": 6
+  },
+  {
+    "lemma": "다친",
+    "count": 6
+  },
+  {
+    "lemma": "달콤",
+    "count": 6
+  },
+  {
+    "lemma": "둥글게",
+    "count": 6
+  },
+  {
+    "lemma": "들어가는",
+    "count": 6
+  },
+  {
+    "lemma": "들여",
+    "count": 6
+  },
+  {
+    "lemma": "딱딱한",
+    "count": 6
+  },
+  {
+    "lemma": "뜻밖",
+    "count": 6
+  },
+  {
+    "lemma": "마다",
+    "count": 6
+  },
+  {
+    "lemma": "마시는",
+    "count": 6
+  },
+  {
+    "lemma": "맞는지",
+    "count": 6
+  },
+  {
+    "lemma": "맞서",
+    "count": 6
+  },
+  {
+    "lemma": "매운",
+    "count": 6
+  },
+  {
+    "lemma": "먹거나",
+    "count": 6
+  },
+  {
+    "lemma": "먹고",
+    "count": 6
+  },
+  {
+    "lemma": "몰래",
+    "count": 6
+  },
+  {
+    "lemma": "무겁고",
+    "count": 6
+  },
+  {
+    "lemma": "무섭고",
+    "count": 6
+  },
+  {
+    "lemma": "묶음",
+    "count": 6
+  },
+  {
+    "lemma": "물음",
+    "count": 6
+  },
+  {
+    "lemma": "바라는",
+    "count": 6
+  },
+  {
+    "lemma": "받은",
+    "count": 6
+  },
+  {
+    "lemma": "밝고",
+    "count": 6
+  },
+  {
+    "lemma": "배우고",
+    "count": 6
+  },
+  {
+    "lemma": "붙이는",
+    "count": 6
+  },
+  {
+    "lemma": "살펴",
+    "count": 6
+  },
+  {
+    "lemma": "섞인",
+    "count": 6
+  },
+  {
+    "lemma": "세상",
+    "count": 6
+  },
+  {
+    "lemma": "세차게",
+    "count": 6
+  },
+  {
+    "lemma": "실어",
+    "count": 6
+  },
+  {
+    "lemma": "알게",
+    "count": 6
+  },
+  {
+    "lemma": "알려진",
+    "count": 6
+  },
+  {
+    "lemma": "알리는",
+    "count": 6
+  },
+  {
+    "lemma": "알아내는",
+    "count": 6
+  },
+  {
+    "lemma": "얇고",
+    "count": 6
+  },
+  {
+    "lemma": "어렵게",
+    "count": 6
+  },
+  {
+    "lemma": "얻는",
+    "count": 6
+  },
+  {
+    "lemma": "얼마나",
+    "count": 6
+  },
+  {
+    "lemma": "없게",
+    "count": 6
+  },
+  {
+    "lemma": "없음",
+    "count": 6
+  },
+  {
+    "lemma": "여겨지는",
+    "count": 6
+  },
+  {
+    "lemma": "열매",
+    "count": 6
+  },
+  {
+    "lemma": "옮겨",
+    "count": 6
+  },
+  {
+    "lemma": "이끌어",
+    "count": 6
+  },
+  {
+    "lemma": "이는",
+    "count": 6
+  },
+  {
+    "lemma": "이루기",
+    "count": 6
+  },
+  {
+    "lemma": "이루다",
+    "count": 6
+  },
+  {
+    "lemma": "이전",
+    "count": 6
+  },
+  {
+    "lemma": "일어난",
+    "count": 6
+  },
+  {
+    "lemma": "있도록",
+    "count": 6
+  },
+  {
+    "lemma": "정함",
+    "count": 6
+  },
+  {
+    "lemma": "조금씩",
+    "count": 6
+  },
+  {
+    "lemma": "주고받으며",
+    "count": 6
+  },
+  {
+    "lemma": "즐겁고",
+    "count": 6
+  },
+  {
+    "lemma": "첫째",
+    "count": 6
+  },
+  {
+    "lemma": "편하게",
+    "count": 6
+  },
+  {
+    "lemma": "편하지",
+    "count": 6
+  },
+  {
+    "lemma": "평평한",
+    "count": 6
+  },
+  {
+    "lemma": "하려던",
+    "count": 6
+  },
+  {
+    "lemma": "한데",
+    "count": 6
+  },
+  {
+    "lemma": "해도",
+    "count": 6
+  },
+  {
+    "lemma": "가슴",
+    "count": 5
+  },
+  {
+    "lemma": "간절히",
+    "count": 5
+  },
+  {
+    "lemma": "갈라",
+    "count": 5
+  },
+  {
+    "lemma": "갈라져",
+    "count": 5
+  },
+  {
+    "lemma": "갖추어",
+    "count": 5
+  },
+  {
+    "lemma": "같아",
+    "count": 5
+  },
+  {
+    "lemma": "구별",
+    "count": 5
+  },
+  {
+    "lemma": "그러함",
+    "count": 5
+  },
+  {
+    "lemma": "기쁘고",
+    "count": 5
+  },
+  {
+    "lemma": "깨끗하게",
+    "count": 5
+  },
+  {
+    "lemma": "꼼꼼",
+    "count": 5
+  },
+  {
+    "lemma": "꾸며",
+    "count": 5
+  },
+  {
+    "lemma": "나게",
+    "count": 5
+  },
+  {
+    "lemma": "나고",
+    "count": 5
+  },
+  {
+    "lemma": "나뉜",
+    "count": 5
+  },
+  {
+    "lemma": "납작한",
+    "count": 5
+  },
+  {
+    "lemma": "넓게",
+    "count": 5
+  },
+  {
+    "lemma": "넣고",
+    "count": 5
+  },
+  {
+    "lemma": "다니며",
+    "count": 5
+  },
+  {
+    "lemma": "다루어",
+    "count": 5
+  },
+  {
+    "lemma": "다투는",
+    "count": 5
+  },
+  {
+    "lemma": "달리는",
+    "count": 5
+  },
+  {
+    "lemma": "대고",
+    "count": 5
+  },
+  {
+    "lemma": "더러운",
+    "count": 5
+  },
+  {
+    "lemma": "돌보는",
+    "count": 5
+  },
+  {
+    "lemma": "동남아시아",
+    "count": 5
+  },
+  {
+    "lemma": "되기",
+    "count": 5
+  },
+  {
+    "lemma": "둥글고",
+    "count": 5
+  },
+  {
+    "lemma": "드러내어",
+    "count": 5
+  },
+  {
+    "lemma": "떠서",
+    "count": 5
+  },
+  {
+    "lemma": "떨어진",
+    "count": 5
+  },
+  {
+    "lemma": "뛰어난",
+    "count": 5
+  },
+  {
+    "lemma": "마치고",
+    "count": 5
+  },
+  {
+    "lemma": "막거나",
+    "count": 5
+  },
+  {
+    "lemma": "막기",
+    "count": 5
+  },
+  {
+    "lemma": "만나",
+    "count": 5
+  },
+  {
+    "lemma": "많거나",
+    "count": 5
+  },
+  {
+    "lemma": "맞는",
+    "count": 5
+  },
+  {
+    "lemma": "먹거리",
+    "count": 5
+  },
+  {
+    "lemma": "못해",
+    "count": 5
+  },
+  {
+    "lemma": "무기",
+    "count": 5
+  },
+  {
+    "lemma": "미치는",
+    "count": 5
+  },
+  {
+    "lemma": "바꾸는",
+    "count": 5
+  },
+  {
+    "lemma": "바르게",
+    "count": 5
+  },
+  {
+    "lemma": "받고",
+    "count": 5
+  },
+  {
+    "lemma": "받아들",
+    "count": 5
+  },
+  {
+    "lemma": "밝은",
+    "count": 5
+  },
+  {
+    "lemma": "부류",
+    "count": 5
+  },
+  {
+    "lemma": "붙는",
+    "count": 5
+  },
+  {
+    "lemma": "비슷한",
+    "count": 5
+  },
+  {
+    "lemma": "빛나는",
+    "count": 5
+  },
+  {
+    "lemma": "빠르고",
+    "count": 5
+  },
+  {
+    "lemma": "빠짐없이",
+    "count": 5
+  },
+  {
+    "lemma": "뽑아",
+    "count": 5
+  },
+  {
+    "lemma": "사거나",
+    "count": 5
+  },
+  {
+    "lemma": "사고파",
+    "count": 5
+  },
+  {
+    "lemma": "살아가는",
+    "count": 5
+  },
+  {
+    "lemma": "새롭고",
+    "count": 5
+  },
+  {
+    "lemma": "세거나",
+    "count": 5
+  },
+  {
+    "lemma": "세운",
+    "count": 5
+  },
+  {
+    "lemma": "세워",
+    "count": 5
+  },
+  {
+    "lemma": "속한",
+    "count": 5
+  },
+  {
+    "lemma": "싫은",
+    "count": 5
+  },
+  {
+    "lemma": "쓰게",
+    "count": 5
+  },
+  {
+    "lemma": "쓰기",
+    "count": 5
+  },
+  {
+    "lemma": "쓰임",
+    "count": 5
+  },
+  {
+    "lemma": "쓴다",
+    "count": 5
+  },
+  {
+    "lemma": "아이들",
+    "count": 5
+  },
+  {
+    "lemma": "알리거나",
+    "count": 5
+  },
+  {
+    "lemma": "앞일",
+    "count": 5
+  },
+  {
+    "lemma": "얇은",
+    "count": 5
+  },
+  {
+    "lemma": "어떻게",
+    "count": 5
+  },
+  {
+    "lemma": "올리고",
+    "count": 5
+  },
+  {
+    "lemma": "올리는",
+    "count": 5
+  },
+  {
+    "lemma": "이루어져",
+    "count": 5
+  },
+  {
+    "lemma": "이어져",
+    "count": 5
+  },
+  {
+    "lemma": "입거나",
+    "count": 5
+  },
+  {
+    "lemma": "입은",
+    "count": 5
+  },
+  {
+    "lemma": "있었던",
+    "count": 5
+  },
+  {
+    "lemma": "있지",
+    "count": 5
+  },
+  {
+    "lemma": "자세한",
+    "count": 5
+  },
+  {
+    "lemma": "잘게",
+    "count": 5
+  },
+  {
+    "lemma": "잡는",
+    "count": 5
+  },
+  {
+    "lemma": "좋아지",
+    "count": 5
+  },
+  {
+    "lemma": "좋아하는",
+    "count": 5
+  },
+  {
+    "lemma": "즐거운",
+    "count": 5
+  },
+  {
+    "lemma": "증명",
+    "count": 5
+  },
+  {
+    "lemma": "지나가는",
+    "count": 5
+  },
+  {
+    "lemma": "지체",
+    "count": 5
+  },
+  {
+    "lemma": "지키는",
+    "count": 5
+  },
+  {
+    "lemma": "질서",
+    "count": 5
+  },
+  {
+    "lemma": "치르는",
+    "count": 5
+  },
+  {
+    "lemma": "태어난",
+    "count": 5
+  },
+  {
+    "lemma": "팔거나",
+    "count": 5
+  },
+  {
+    "lemma": "풀기",
+    "count": 5
+  },
+  {
+    "lemma": "하라",
+    "count": 5
+  },
+  {
+    "lemma": "확실하지",
+    "count": 5
+  },
+  {
+    "lemma": "휴대",
+    "count": 5
+  },
+  {
+    "lemma": "가꾸는",
+    "count": 4
+  },
+  {
+    "lemma": "가려",
+    "count": 4
+  },
+  {
+    "lemma": "가로",
+    "count": 4
+  },
+  {
+    "lemma": "가르침",
+    "count": 4
+  },
+  {
+    "lemma": "가며",
+    "count": 4
+  },
+  {
+    "lemma": "가지게",
+    "count": 4
+  },
+  {
+    "lemma": "거래",
+    "count": 4
+  },
+  {
+    "lemma": "검은",
+    "count": 4
+  },
+  {
+    "lemma": "겉옷",
+    "count": 4
+  },
+  {
+    "lemma": "격려",
+    "count": 4
+  },
+  {
+    "lemma": "경찰",
+    "count": 4
+  },
+  {
+    "lemma": "경치",
+    "count": 4
+  },
+  {
+    "lemma": "고르게",
+    "count": 4
+  },
+  {
+    "lemma": "고유",
+    "count": 4
+  },
+  {
+    "lemma": "곧게",
+    "count": 4
+  },
+  {
+    "lemma": "공통",
+    "count": 4
+  },
+  {
+    "lemma": "구분",
+    "count": 4
+  },
+  {
+    "lemma": "구조물",
+    "count": 4
+  },
+  {
+    "lemma": "그려",
+    "count": 4
+  },
+  {
+    "lemma": "근본",
+    "count": 4
+  },
+  {
+    "lemma": "기르는",
+    "count": 4
+  },
+  {
+    "lemma": "깊게",
+    "count": 4
+  },
+  {
+    "lemma": "껍데기",
+    "count": 4
+  },
+  {
+    "lemma": "꾸밈",
+    "count": 4
+  },
+  {
+    "lemma": "끄는",
+    "count": 4
+  },
+  {
+    "lemma": "끼워",
+    "count": 4
+  },
+  {
+    "lemma": "나아가다",
+    "count": 4
+  },
+  {
+    "lemma": "나타내어",
+    "count": 4
+  },
+  {
+    "lemma": "나타낸",
+    "count": 4
+  },
+  {
+    "lemma": "남는",
+    "count": 4
+  },
+  {
+    "lemma": "남은",
+    "count": 4
+  },
+  {
+    "lemma": "낫게",
+    "count": 4
+  },
+  {
+    "lemma": "내기",
+    "count": 4
+  },
+  {
+    "lemma": "내지",
+    "count": 4
+  },
+  {
+    "lemma": "넓고",
+    "count": 4
+  },
+  {
+    "lemma": "넓이",
+    "count": 4
+  },
+  {
+    "lemma": "넘겨",
+    "count": 4
+  },
+  {
+    "lemma": "네모",
+    "count": 4
+  },
+  {
+    "lemma": "놀라운",
+    "count": 4
+  },
+  {
+    "lemma": "놀라움",
+    "count": 4
+  },
+  {
+    "lemma": "높거나",
+    "count": 4
+  },
+  {
+    "lemma": "다치게",
+    "count": 4
+  },
+  {
+    "lemma": "답게",
+    "count": 4
+  },
+  {
+    "lemma": "도는",
+    "count": 4
+  },
+  {
+    "lemma": "돌아오는",
+    "count": 4
+  },
+  {
+    "lemma": "돌아옴",
+    "count": 4
+  },
+  {
+    "lemma": "두려운",
+    "count": 4
+  },
+  {
+    "lemma": "두루",
+    "count": 4
+  },
+  {
+    "lemma": "두어",
+    "count": 4
+  },
+  {
+    "lemma": "들어가거나",
+    "count": 4
+  },
+  {
+    "lemma": "들어간",
+    "count": 4
+  },
+  {
+    "lemma": "따뜻한",
+    "count": 4
+  },
+  {
+    "lemma": "떠오르게",
+    "count": 4
+  },
+  {
+    "lemma": "떨어지거나",
+    "count": 4
+  },
+  {
+    "lemma": "또렷하고",
+    "count": 4
+  },
+  {
+    "lemma": "마실",
+    "count": 4
+  },
+  {
+    "lemma": "만나거나",
+    "count": 4
+  },
+  {
+    "lemma": "많게",
+    "count": 4
+  },
+  {
+    "lemma": "많지",
+    "count": 4
+  },
+  {
+    "lemma": "맞다는",
+    "count": 4
+  },
+  {
+    "lemma": "맞대어",
+    "count": 4
+  },
+  {
+    "lemma": "맞춰",
+    "count": 4
+  },
+  {
+    "lemma": "매일",
+    "count": 4
+  },
+  {
+    "lemma": "먹을거리",
+    "count": 4
+  },
+  {
+    "lemma": "멈추는",
+    "count": 4
+  },
+  {
+    "lemma": "메시지",
+    "count": 4
+  },
+  {
+    "lemma": "모래",
+    "count": 4
+  },
+  {
+    "lemma": "모으는",
+    "count": 4
+  },
+  {
+    "lemma": "모자람",
+    "count": 4
+  },
+  {
+    "lemma": "몰라",
+    "count": 4
+  },
+  {
+    "lemma": "묻는",
+    "count": 4
+  },
+  {
+    "lemma": "믿기",
+    "count": 4
+  },
+  {
+    "lemma": "밀어",
+    "count": 4
+  },
+  {
+    "lemma": "바꾸다",
+    "count": 4
+  },
+  {
+    "lemma": "바꿈",
+    "count": 4
+  },
+  {
+    "lemma": "바뀌는",
+    "count": 4
+  },
+  {
+    "lemma": "발로",
+    "count": 4
+  },
+  {
+    "lemma": "밝히는",
+    "count": 4
+  },
+  {
+    "lemma": "벌어져",
+    "count": 4
+  },
+  {
+    "lemma": "변하는",
+    "count": 4
+  },
+  {
+    "lemma": "보관",
+    "count": 4
+  },
+  {
+    "lemma": "보내고",
+    "count": 4
+  },
+  {
+    "lemma": "보려고",
+    "count": 4
+  },
+  {
+    "lemma": "보며",
+    "count": 4
+  },
+  {
+    "lemma": "보태어",
+    "count": 4
+  },
+  {
+    "lemma": "복잡하지",
+    "count": 4
+  },
+  {
+    "lemma": "부담",
+    "count": 4
+  },
+  {
+    "lemma": "부름",
+    "count": 4
+  },
+  {
+    "lemma": "부품",
+    "count": 4
+  },
+  {
+    "lemma": "북아메리카",
+    "count": 4
+  },
+  {
+    "lemma": "붉은",
+    "count": 4
+  },
+  {
+    "lemma": "비슷하게",
+    "count": 4
+  },
+  {
+    "lemma": "빌려",
+    "count": 4
+  },
+  {
+    "lemma": "뽑는",
+    "count": 4
+  },
+  {
+    "lemma": "뿌리채소",
+    "count": 4
+  },
+  {
+    "lemma": "살갗",
+    "count": 4
+  },
+  {
+    "lemma": "살피는",
+    "count": 4
+  },
+  {
+    "lemma": "새롭게",
+    "count": 4
+  },
+  {
+    "lemma": "생기",
+    "count": 4
+  },
+  {
+    "lemma": "생길",
+    "count": 4
+  },
+  {
+    "lemma": "서둘러",
+    "count": 4
+  },
+  {
+    "lemma": "세부",
+    "count": 4
+  },
+  {
+    "lemma": "쉬지",
+    "count": 4
+  },
+  {
+    "lemma": "싣고",
+    "count": 4
+  },
+  {
+    "lemma": "아끼고",
+    "count": 4
+  },
+  {
+    "lemma": "아닌지",
+    "count": 4
+  },
+  {
+    "lemma": "아들",
+    "count": 4
+  },
+  {
+    "lemma": "아프게",
+    "count": 4
+  },
+  {
+    "lemma": "앉거나",
+    "count": 4
+  },
+  {
+    "lemma": "않지만",
+    "count": 4
+  },
+  {
+    "lemma": "알기",
+    "count": 4
+  },
+  {
+    "lemma": "알아보기",
+    "count": 4
+  },
+  {
+    "lemma": "알아보는",
+    "count": 4
+  },
+  {
+    "lemma": "앞서",
+    "count": 4
+  },
+  {
+    "lemma": "앞선",
+    "count": 4
+  },
+  {
+    "lemma": "약물",
+    "count": 4
+  },
+  {
+    "lemma": "어떠한",
+    "count": 4
+  },
+  {
+    "lemma": "어지러운",
+    "count": 4
+  },
+  {
+    "lemma": "얻은",
+    "count": 4
+  },
+  {
+    "lemma": "얼음",
+    "count": 4
+  },
+  {
+    "lemma": "없는지",
+    "count": 4
+  },
+  {
+    "lemma": "없어져",
+    "count": 4
+  },
+  {
+    "lemma": "여는",
+    "count": 4
+  },
+  {
+    "lemma": "오가며",
+    "count": 4
+  },
+  {
+    "lemma": "오게",
+    "count": 4
+  },
+  {
+    "lemma": "오랜",
+    "count": 4
+  },
+  {
+    "lemma": "와서",
+    "count": 4
+  },
+  {
+    "lemma": "움직이기",
+    "count": 4
+  },
+  {
+    "lemma": "움직이며",
+    "count": 4
+  },
+  {
+    "lemma": "웃음",
+    "count": 4
+  },
+  {
+    "lemma": "유지",
+    "count": 4
+  },
+  {
+    "lemma": "의해",
+    "count": 4
+  },
+  {
+    "lemma": "이겨",
+    "count": 4
+  },
+  {
+    "lemma": "이라고",
+    "count": 4
+  },
+  {
+    "lemma": "이루어지",
+    "count": 4
+  },
+  {
+    "lemma": "이른",
+    "count": 4
+  },
+  {
+    "lemma": "이며",
+    "count": 4
+  },
+  {
+    "lemma": "이자",
+    "count": 4
+  },
+  {
+    "lemma": "이치",
+    "count": 4
+  },
+  {
+    "lemma": "일본",
+    "count": 4
+  },
+  {
+    "lemma": "일부",
+    "count": 4
+  },
+  {
+    "lemma": "일어나거나",
+    "count": 4
+  },
+  {
+    "lemma": "일으키는",
+    "count": 4
+  },
+  {
+    "lemma": "자라",
+    "count": 4
+  },
+  {
+    "lemma": "자매",
+    "count": 4
+  },
+  {
+    "lemma": "잡고",
+    "count": 4
+  },
+  {
+    "lemma": "주고",
+    "count": 4
+  },
+  {
+    "lemma": "지내며",
+    "count": 4
+  },
+  {
+    "lemma": "지는",
+    "count": 4
+  },
+  {
+    "lemma": "짓는",
+    "count": 4
+  },
+  {
+    "lemma": "차서",
+    "count": 4
+  },
+  {
+    "lemma": "축하",
+    "count": 4
+  },
+  {
+    "lemma": "치우치지",
+    "count": 4
+  },
+  {
+    "lemma": "친근하게",
+    "count": 4
+  },
+  {
+    "lemma": "통틀어",
+    "count": 4
+  },
+  {
+    "lemma": "튀어",
+    "count": 4
+  },
+  {
+    "lemma": "편지",
+    "count": 4
+  },
+  {
+    "lemma": "피하려고",
+    "count": 4
+  },
+  {
+    "lemma": "해내는",
+    "count": 4
+  },
+  {
+    "lemma": "했다",
+    "count": 4
+  },
+  {
+    "lemma": "허가",
+    "count": 4
+  },
+  {
+    "lemma": "혹은",
+    "count": 4
+  },
+  {
+    "lemma": "흐르는",
+    "count": 4
+  },
+  {
+    "lemma": "힘든",
+    "count": 4
+  },
+  {
+    "lemma": "힘들어도",
+    "count": 4
+  },
+  {
+    "lemma": "가깝게",
+    "count": 3
+  },
+  {
+    "lemma": "가끔",
+    "count": 3
+  },
+  {
+    "lemma": "가르는",
+    "count": 3
+  },
+  {
+    "lemma": "가르치고",
+    "count": 3
+  },
+  {
+    "lemma": "가리는",
+    "count": 3
+  },
+  {
+    "lemma": "가리키거나",
+    "count": 3
+  },
+  {
+    "lemma": "가리킬",
+    "count": 3
+  },
+  {
+    "lemma": "가볍고",
+    "count": 3
+  },
+  {
+    "lemma": "가지거나",
+    "count": 3
+  },
+  {
+    "lemma": "감고",
+    "count": 3
+  },
+  {
+    "lemma": "강조",
+    "count": 3
+  },
+  {
+    "lemma": "거두어",
+    "count": 3
+  },
+  {
+    "lemma": "거친",
+    "count": 3
+  },
+  {
+    "lemma": "거칠게",
+    "count": 3
+  },
+  {
+    "lemma": "걷기",
+    "count": 3
+  },
+  {
+    "lemma": "걸어",
+    "count": 3
+  },
+  {
+    "lemma": "걸치는",
+    "count": 3
+  },
+  {
+    "lemma": "걸친",
+    "count": 3
+  },
+  {
+    "lemma": "격식",
+    "count": 3
+  },
+  {
+    "lemma": "겪는",
+    "count": 3
+  },
+  {
+    "lemma": "겪어",
+    "count": 3
+  },
+  {
+    "lemma": "견디기",
+    "count": 3
+  },
+  {
+    "lemma": "고등",
+    "count": 3
+  },
+  {
+    "lemma": "고마움",
+    "count": 3
+  },
+  {
+    "lemma": "고쳐",
+    "count": 3
+  },
+  {
+    "lemma": "고치거나",
+    "count": 3
+  },
+  {
+    "lemma": "고치는",
+    "count": 3
+  },
+  {
+    "lemma": "곤란",
+    "count": 3
+  },
+  {
+    "lemma": "골라서",
+    "count": 3
+  },
+  {
+    "lemma": "곱고",
+    "count": 3
+  },
+  {
+    "lemma": "공공",
+    "count": 3
+  },
+  {
+    "lemma": "괴로운",
+    "count": 3
+  },
+  {
+    "lemma": "구속",
+    "count": 3
+  },
+  {
+    "lemma": "구체",
+    "count": 3
+  },
+  {
+    "lemma": "구획",
+    "count": 3
+  },
+  {
+    "lemma": "굵고",
+    "count": 3
+  },
+  {
+    "lemma": "굵은",
+    "count": 3
+  },
+  {
+    "lemma": "귀엽게",
+    "count": 3
+  },
+  {
+    "lemma": "그다지",
+    "count": 3
+  },
+  {
+    "lemma": "그때그때",
+    "count": 3
+  },
+  {
+    "lemma": "그렇지",
+    "count": 3
+  },
+  {
+    "lemma": "그리는",
+    "count": 3
+  },
+  {
+    "lemma": "그만두고",
+    "count": 3
+  },
+  {
+    "lemma": "급하게",
+    "count": 3
+  },
+  {
+    "lemma": "급하고",
+    "count": 3
+  },
+  {
+    "lemma": "기쁜",
+    "count": 3
+  },
+  {
+    "lemma": "기쁨",
+    "count": 3
+  },
+  {
+    "lemma": "깨달음",
+    "count": 3
+  },
+  {
+    "lemma": "꾸민",
+    "count": 3
+  },
+  {
+    "lemma": "끊는",
+    "count": 3
+  },
+  {
+    "lemma": "끊어지지",
+    "count": 3
+  },
+  {
+    "lemma": "끌리는",
+    "count": 3
+  },
+  {
+    "lemma": "끌어",
+    "count": 3
+  },
+  {
+    "lemma": "끓인",
+    "count": 3
+  },
+  {
+    "lemma": "끝나는",
+    "count": 3
+  },
+  {
+    "lemma": "나가게",
+    "count": 3
+  },
+  {
+    "lemma": "나가는",
+    "count": 3
+  },
+  {
+    "lemma": "나거나",
+    "count": 3
+  },
+  {
+    "lemma": "나사",
+    "count": 3
+  },
+  {
+    "lemma": "나아가는",
+    "count": 3
+  },
+  {
+    "lemma": "나오게",
+    "count": 3
+  },
+  {
+    "lemma": "나올",
+    "count": 3
+  },
+  {
+    "lemma": "나타난",
+    "count": 3
+  },
+  {
+    "lemma": "남동생",
+    "count": 3
+  },
+  {
+    "lemma": "낮아",
+    "count": 3
+  },
+  {
+    "lemma": "낮춰",
+    "count": 3
+  },
+  {
+    "lemma": "낱말",
+    "count": 3
+  },
+  {
+    "lemma": "낳는",
+    "count": 3
+  },
+  {
+    "lemma": "내려온",
+    "count": 3
+  },
+  {
+    "lemma": "내세우는",
+    "count": 3
+  },
+  {
+    "lemma": "내쉬는",
+    "count": 3
+  },
+  {
+    "lemma": "내용물",
+    "count": 3
+  },
+  {
+    "lemma": "넣거나",
+    "count": 3
+  },
+  {
+    "lemma": "넣은",
+    "count": 3
+  },
+  {
+    "lemma": "노는",
+    "count": 3
+  },
+  {
+    "lemma": "놀랄",
+    "count": 3
+  },
+  {
+    "lemma": "놀랍거나",
+    "count": 3
+  },
+  {
+    "lemma": "높게",
+    "count": 3
+  },
+  {
+    "lemma": "놓아",
+    "count": 3
+  },
+  {
+    "lemma": "놓음",
+    "count": 3
+  },
+  {
+    "lemma": "놓이다",
+    "count": 3
+  },
+  {
+    "lemma": "누군",
+    "count": 3
+  },
+  {
+    "lemma": "누르는",
+    "count": 3
+  },
+  {
+    "lemma": "느끼며",
+    "count": 3
+  },
+  {
+    "lemma": "느낄",
+    "count": 3
+  },
+  {
+    "lemma": "다르지",
+    "count": 3
+  },
+  {
+    "lemma": "다정",
+    "count": 3
+  },
+  {
+    "lemma": "다짐",
+    "count": 3
+  },
+  {
+    "lemma": "단단하게",
+    "count": 3
+  },
+  {
+    "lemma": "단단하고",
+    "count": 3
+  },
+  {
+    "lemma": "달고",
+    "count": 3
+  },
+  {
+    "lemma": "달아",
+    "count": 3
+  },
+  {
+    "lemma": "담긴",
+    "count": 3
+  },
+  {
+    "lemma": "담는",
+    "count": 3
+  },
+  {
+    "lemma": "담은",
+    "count": 3
+  },
+  {
+    "lemma": "답답할",
+    "count": 3
+  },
+  {
+    "lemma": "닿거나",
+    "count": 3
+  },
+  {
+    "lemma": "대어",
+    "count": 3
+  },
+  {
+    "lemma": "더운",
+    "count": 3
+  },
+  {
+    "lemma": "던지는",
+    "count": 3
+  },
+  {
+    "lemma": "덩어리나",
+    "count": 3
+  },
+  {
+    "lemma": "덮어",
+    "count": 3
+  },
+  {
+    "lemma": "데서",
+    "count": 3
+  },
+  {
+    "lemma": "도와",
+    "count": 3
+  },
+  {
+    "lemma": "도와주는",
+    "count": 3
+  },
+  {
+    "lemma": "돌려",
+    "count": 3
+  },
+  {
+    "lemma": "돌보고",
+    "count": 3
+  },
+  {
+    "lemma": "되게",
+    "count": 3
+  },
+  {
+    "lemma": "되고",
+    "count": 3
+  },
+  {
+    "lemma": "되어야",
+    "count": 3
+  },
+  {
+    "lemma": "될까",
+    "count": 3
+  },
+  {
+    "lemma": "두려워하지",
+    "count": 3
+  },
+  {
+    "lemma": "둘러",
+    "count": 3
+  },
+  {
+    "lemma": "드러내는",
+    "count": 3
+  },
+  {
+    "lemma": "드러냄",
+    "count": 3
+  },
+  {
+    "lemma": "들거나",
+    "count": 3
+  },
+  {
+    "lemma": "들어가기",
+    "count": 3
+  },
+  {
+    "lemma": "들어감",
+    "count": 3
+  },
+  {
+    "lemma": "들어와",
+    "count": 3
+  },
+  {
+    "lemma": "들이는",
+    "count": 3
+  },
+  {
+    "lemma": "따뜻하게",
+    "count": 3
+  },
+  {
+    "lemma": "따져서",
+    "count": 3
+  },
+  {
+    "lemma": "때리거나",
+    "count": 3
+  },
+  {
+    "lemma": "떨어지게",
+    "count": 3
+  },
+  {
+    "lemma": "떨어지는",
+    "count": 3
+  },
+  {
+    "lemma": "똑똑하고",
+    "count": 3
+  },
+  {
+    "lemma": "뜨겁게",
+    "count": 3
+  },
+  {
+    "lemma": "로운",
+    "count": 3
+  },
+  {
+    "lemma": "마땅히",
+    "count": 3
+  },
+  {
+    "lemma": "마친",
+    "count": 3
+  },
+  {
+    "lemma": "막아",
+    "count": 3
+  },
+  {
+    "lemma": "만족",
+    "count": 3
+  },
+  {
+    "lemma": "만함",
+    "count": 3
+  },
+  {
+    "lemma": "많아",
+    "count": 3
+  },
+  {
+    "lemma": "많음",
+    "count": 3
+  },
+  {
+    "lemma": "맞음",
+    "count": 3
+  },
+  {
+    "lemma": "맡는",
+    "count": 3
+  },
+  {
+    "lemma": "맺음",
+    "count": 3
+  },
+  {
+    "lemma": "머무르다",
+    "count": 3
+  },
+  {
+    "lemma": "먹지",
+    "count": 3
+  },
+  {
+    "lemma": "먼지",
+    "count": 3
+  },
+  {
+    "lemma": "멈추게",
+    "count": 3
+  },
+  {
+    "lemma": "멈추어",
+    "count": 3
+  },
+  {
+    "lemma": "멈추지",
+    "count": 3
+  },
+  {
+    "lemma": "모르는",
+    "count": 3
+  },
+  {
+    "lemma": "모음",
+    "count": 3
+  },
+  {
+    "lemma": "모이는",
+    "count": 3
+  },
+  {
+    "lemma": "모자라거나",
+    "count": 3
+  },
+  {
+    "lemma": "못하는",
+    "count": 3
+  },
+  {
+    "lemma": "무거운",
+    "count": 3
+  },
+  {
+    "lemma": "무서운",
+    "count": 3
+  },
+  {
+    "lemma": "무섭거나",
+    "count": 3
+  },
+  {
+    "lemma": "묶어",
+    "count": 3
+  },
+  {
+    "lemma": "미안",
+    "count": 3
+  },
+  {
+    "lemma": "바꾸거나",
+    "count": 3
+  },
+  {
+    "lemma": "바꾸지",
+    "count": 3
+  },
+  {
+    "lemma": "바라",
+    "count": 3
+  },
+  {
+    "lemma": "바르거나",
+    "count": 3
+  },
+  {
+    "lemma": "바르고",
+    "count": 3
+  },
+  {
+    "lemma": "바르는",
+    "count": 3
+  },
+  {
+    "lemma": "받아들이는",
+    "count": 3
+  },
+  {
+    "lemma": "받으려고",
+    "count": 3
+  },
+  {
+    "lemma": "받음",
+    "count": 3
+  },
+  {
+    "lemma": "받지",
+    "count": 3
+  },
+  {
+    "lemma": "밝힘",
+    "count": 3
+  },
+  {
+    "lemma": "방.",
+    "count": 3
+  },
+  {
+    "lemma": "배우자",
+    "count": 3
+  },
+  {
+    "lemma": "배워서",
+    "count": 3
+  },
+  {
+    "lemma": "벌어진",
+    "count": 3
+  },
+  {
+    "lemma": "보이도록",
+    "count": 3
+  },
+  {
+    "lemma": "보지",
+    "count": 3
+  },
+  {
+    "lemma": "보태",
+    "count": 3
+  },
+  {
+    "lemma": "복무",
+    "count": 3
+  },
+  {
+    "lemma": "본보기",
+    "count": 3
+  },
+  {
+    "lemma": "볼일",
+    "count": 3
+  },
+  {
+    "lemma": "부드럽게",
+    "count": 3
+  },
+  {
+    "lemma": "부드럽고",
+    "count": 3
+  },
+  {
+    "lemma": "부딪치는",
+    "count": 3
+  },
+  {
+    "lemma": "부딪칠",
+    "count": 3
+  },
+  {
+    "lemma": "부딪혀",
+    "count": 3
+  },
+  {
+    "lemma": "비나",
+    "count": 3
+  },
+  {
+    "lemma": "비치거나",
+    "count": 3
+  },
+  {
+    "lemma": "빌린",
+    "count": 3
+  },
+  {
+    "lemma": "빌며",
+    "count": 3
+  },
+  {
+    "lemma": "빚어",
+    "count": 3
+  },
+  {
+    "lemma": "빠르기",
+    "count": 3
+  },
+  {
+    "lemma": "빠른",
+    "count": 3
+  },
+  {
+    "lemma": "빨간",
+    "count": 3
+  },
+  {
+    "lemma": "빨강",
+    "count": 3
+  },
+  {
+    "lemma": "빼고",
+    "count": 3
+  },
+  {
+    "lemma": "빼서",
+    "count": 3
+  },
+  {
+    "lemma": "뽑거나",
+    "count": 3
+  },
+  {
+    "lemma": "뽑기",
+    "count": 3
+  },
+  {
+    "lemma": "뽑히려고",
+    "count": 3
+  },
+  {
+    "lemma": "사서",
+    "count": 3
+  },
+  {
+    "lemma": "살고",
+    "count": 3
+  },
+  {
+    "lemma": "살림살이",
+    "count": 3
+  },
+  {
+    "lemma": "상표",
+    "count": 3
+  },
+  {
+    "lemma": "생겨",
+    "count": 3
+  },
+  {
+    "lemma": "생기거나",
+    "count": 3
+  },
+  {
+    "lemma": "생기게",
+    "count": 3
+  },
+  {
+    "lemma": "생기지",
+    "count": 3
+  },
+  {
+    "lemma": "생김새",
+    "count": 3
+  },
+  {
+    "lemma": "섞어",
+    "count": 3
+  },
+  {
+    "lemma": "성별",
+    "count": 3
+  },
+  {
+    "lemma": "소의",
+    "count": 3
+  },
+  {
+    "lemma": "숨겨진",
+    "count": 3
+  },
+  {
+    "lemma": "숨긴",
+    "count": 3
+  },
+  {
+    "lemma": "쉬게",
+    "count": 3
+  },
+  {
+    "lemma": "쉬운",
+    "count": 3
+  },
+  {
+    "lemma": "스러운",
+    "count": 3
+  },
+  {
+    "lemma": "스러워",
+    "count": 3
+  },
+  {
+    "lemma": "스럽고",
+    "count": 3
+  },
+  {
+    "lemma": "슬프거나",
+    "count": 3
+  },
+  {
+    "lemma": "신고",
+    "count": 3
+  },
+  {
+    "lemma": "신는",
+    "count": 3
+  },
+  {
+    "lemma": "심하거나",
+    "count": 3
+  },
+  {
+    "lemma": "싸우는",
+    "count": 3
+  },
+  {
+    "lemma": "쓰고",
+    "count": 3
+  },
+  {
+    "lemma": "쓰도록",
+    "count": 3
+  },
+  {
+    "lemma": "쓰러지",
+    "count": 3
+  },
+  {
+    "lemma": "아니지만",
+    "count": 3
+  },
+  {
+    "lemma": "아님",
+    "count": 3
+  },
+  {
+    "lemma": "아랫",
+    "count": 3
+  },
+  {
+    "lemma": "아파서",
+    "count": 3
+  },
+  {
+    "lemma": "아프고",
+    "count": 3
+  },
+  {
+    "lemma": "아픔",
+    "count": 3
+  },
+  {
+    "lemma": "악한",
+    "count": 3
+  },
+  {
+    "lemma": "알리고",
+    "count": 3
+  },
+  {
+    "lemma": "알맞다",
+    "count": 3
+  },
+  {
+    "lemma": "알아차리는",
+    "count": 3
+  },
+  {
+    "lemma": "어기",
+    "count": 3
+  },
+  {
+    "lemma": "어두운",
+    "count": 3
+  },
+  {
+    "lemma": "어렵고",
+    "count": 3
+  },
+  {
+    "lemma": "어색하고",
+    "count": 3
+  },
+  {
+    "lemma": "어지럽고",
+    "count": 3
+  },
+  {
+    "lemma": "얻어",
+    "count": 3
+  },
+  {
+    "lemma": "없던",
+    "count": 3
+  },
+  {
+    "lemma": "없도록",
+    "count": 3
+  },
+  {
+    "lemma": "없애는",
+    "count": 3
+  },
+  {
+    "lemma": "없을",
+    "count": 3
+  },
+  {
+    "lemma": "연필",
+    "count": 3
+  },
+  {
+    "lemma": "열두",
+    "count": 3
+  },
+  {
+    "lemma": "열리는",
+    "count": 3
+  },
+  {
+    "lemma": "영상물",
+    "count": 3
+  },
+  {
+    "lemma": "예고",
+    "count": 3
+  },
+  {
+    "lemma": "예배",
+    "count": 3
+  },
+  {
+    "lemma": "오르는",
+    "count": 3
+  },
+  {
+    "lemma": "올린",
+    "count": 3
+  },
+  {
+    "lemma": "옮기",
+    "count": 3
+  },
+  {
+    "lemma": "옮기거나",
+    "count": 3
+  },
+  {
+    "lemma": "옳지",
+    "count": 3
+  },
+  {
+    "lemma": "완전",
+    "count": 3
+  },
+  {
+    "lemma": "왔다",
+    "count": 3
+  },
+  {
+    "lemma": "외래어",
+    "count": 3
+  },
+  {
+    "lemma": "우는",
+    "count": 3
+  },
+  {
+    "lemma": "우두머리",
+    "count": 3
+  },
+  {
+    "lemma": "울음",
+    "count": 3
+  },
+  {
+    "lemma": "위나",
+    "count": 3
+  },
+  {
+    "lemma": "윗부분",
+    "count": 3
+  },
+  {
+    "lemma": "윗옷",
+    "count": 3
+  },
+  {
+    "lemma": "이것",
+    "count": 3
+  },
+  {
+    "lemma": "이고",
+    "count": 3
+  },
+  {
+    "lemma": "이기고",
+    "count": 3
+  },
+  {
+    "lemma": "이라",
+    "count": 3
+  },
+  {
+    "lemma": "이렇게",
+    "count": 3
+  },
+  {
+    "lemma": "이루고",
+    "count": 3
+  },
+  {
+    "lemma": "이루어진",
+    "count": 3
+  },
+  {
+    "lemma": "이르거나",
+    "count": 3
+  },
+  {
+    "lemma": "이어지지",
+    "count": 3
+  },
+  {
+    "lemma": "익혀",
+    "count": 3
+  },
+  {
+    "lemma": "일어남",
+    "count": 3
+  },
+  {
+    "lemma": "잊지",
+    "count": 3
+  },
+  {
+    "lemma": "자라게",
+    "count": 3
+  },
+  {
+    "lemma": "자라는",
+    "count": 3
+  },
+  {
+    "lemma": "장신구",
+    "count": 3
+  },
+  {
+    "lemma": "재미있게",
+    "count": 3
+  },
+  {
+    "lemma": "저지른",
+    "count": 3
+  },
+  {
+    "lemma": "적게",
+    "count": 3
+  },
+  {
+    "lemma": "적는",
+    "count": 3
+  },
+  {
+    "lemma": "전해지는",
+    "count": 3
+  },
+  {
+    "lemma": "젊은",
+    "count": 3
+  },
+  {
+    "lemma": "정중",
+    "count": 3
+  },
+  {
+    "lemma": "정하고",
+    "count": 3
+  },
+  {
+    "lemma": "정하여",
+    "count": 3
+  },
+  {
+    "lemma": "정해지",
+    "count": 3
+  },
+  {
+    "lemma": "정해지지",
+    "count": 3
+  },
+  {
+    "lemma": "조용하고",
+    "count": 3
+  },
+  {
+    "lemma": "조종",
+    "count": 3
+  },
+  {
+    "lemma": "좋아하고",
+    "count": 3
+  },
+  {
+    "lemma": "주머니",
+    "count": 3
+  },
+  {
+    "lemma": "죽지",
+    "count": 3
+  },
+  {
+    "lemma": "준다",
+    "count": 3
+  },
+  {
+    "lemma": "줄이거나",
+    "count": 3
+  },
+  {
+    "lemma": "즐거움",
+    "count": 3
+  },
+  {
+    "lemma": "즐기거나",
+    "count": 3
+  },
+  {
+    "lemma": "지고",
+    "count": 3
+  },
+  {
+    "lemma": "지나가게",
+    "count": 3
+  },
+  {
+    "lemma": "지나가다",
+    "count": 3
+  },
+  {
+    "lemma": "지나치게",
+    "count": 3
+  },
+  {
+    "lemma": "지어",
+    "count": 3
+  },
+  {
+    "lemma": "지켜",
+    "count": 3
+  },
+  {
+    "lemma": "진한",
+    "count": 3
+  },
+  {
+    "lemma": "짐작",
+    "count": 3
+  },
+  {
+    "lemma": "집어",
+    "count": 3
+  },
+  {
+    "lemma": "짙은",
+    "count": 3
+  },
+  {
+    "lemma": "짚어",
+    "count": 3
+  },
+  {
+    "lemma": "찍는",
+    "count": 3
+  },
+  {
+    "lemma": "찍어",
+    "count": 3
+  },
+  {
+    "lemma": "차갑고",
+    "count": 3
+  },
+  {
+    "lemma": "차지",
+    "count": 3
+  },
+  {
+    "lemma": "찾거나",
+    "count": 3
+  },
+  {
+    "lemma": "찾기",
+    "count": 3
+  },
+  {
+    "lemma": "찾는",
+    "count": 3
+  },
+  {
+    "lemma": "찾아보고",
+    "count": 3
+  },
+  {
+    "lemma": "채워",
+    "count": 3
+  },
+  {
+    "lemma": "책임지고",
+    "count": 3
+  },
+  {
+    "lemma": "천체",
+    "count": 3
+  },
+  {
+    "lemma": "총괄",
+    "count": 3
+  },
+  {
+    "lemma": "통하게",
+    "count": 3
+  },
+  {
+    "lemma": "통하는",
+    "count": 3
+  },
+  {
+    "lemma": "투명",
+    "count": 3
+  },
+  {
+    "lemma": "틀린",
+    "count": 3
+  },
+  {
+    "lemma": "파랑",
+    "count": 3
+  },
+  {
+    "lemma": "팔기",
+    "count": 3
+  },
+  {
+    "lemma": "퍼지는",
+    "count": 3
+  },
+  {
+    "lemma": "펴서",
+    "count": 3
+  },
+  {
+    "lemma": "편리",
+    "count": 3
+  },
+  {
+    "lemma": "포함",
+    "count": 3
+  },
+  {
+    "lemma": "표면",
+    "count": 3
+  },
+  {
+    "lemma": "품위",
+    "count": 3
+  },
+  {
+    "lemma": "하나하나",
+    "count": 3
+  },
+  {
+    "lemma": "하러",
+    "count": 3
+  },
+  {
+    "lemma": "학생들",
+    "count": 3
+  },
+  {
+    "lemma": "학위",
+    "count": 3
+  },
+  {
+    "lemma": "한때",
+    "count": 3
+  },
+  {
+    "lemma": "함부로",
+    "count": 3
+  },
+  {
+    "lemma": "해당",
+    "count": 3
+  },
+  {
+    "lemma": "행방",
+    "count": 3
+  },
+  {
+    "lemma": "흉내",
+    "count": 3
+  },
+  {
+    "lemma": "흩어진",
+    "count": 3
+  },
+  {
+    "lemma": "힘차게",
+    "count": 3
+  },
+  {
+    "lemma": "가기",
+    "count": 2
+  },
+  {
+    "lemma": "가깝고",
+    "count": 2
+  },
+  {
+    "lemma": "가늘고",
+    "count": 2
+  },
+  {
+    "lemma": "가늠",
+    "count": 2
+  },
+  {
+    "lemma": "가두어",
+    "count": 2
+  },
+  {
+    "lemma": "가라앉아",
+    "count": 2
+  },
+  {
+    "lemma": "가려져",
+    "count": 2
+  },
+  {
+    "lemma": "가리기",
+    "count": 2
+  },
+  {
+    "lemma": "가축",
+    "count": 2
+  },
+  {
+    "lemma": "간행물",
+    "count": 2
+  },
+  {
+    "lemma": "갈아",
+    "count": 2
+  },
+  {
+    "lemma": "갈아서",
+    "count": 2
+  },
+  {
+    "lemma": "감당",
+    "count": 2
+  },
+  {
+    "lemma": "감탄사",
+    "count": 2
+  },
+  {
+    "lemma": "갔다",
+    "count": 2
+  },
+  {
+    "lemma": "강해",
+    "count": 2
+  },
+  {
+    "lemma": "갖추고",
+    "count": 2
+  },
+  {
+    "lemma": "갖추어져",
+    "count": 2
+  },
+  {
+    "lemma": "갖추어짐",
+    "count": 2
+  },
+  {
+    "lemma": "갖춘",
+    "count": 2
+  },
+  {
+    "lemma": "같거나",
+    "count": 2
+  },
+  {
+    "lemma": "같고",
+    "count": 2
+  },
+  {
+    "lemma": "같지",
+    "count": 2
+  },
+  {
+    "lemma": "갚아야",
+    "count": 2
+  },
+  {
+    "lemma": "거치지",
+    "count": 2
+  },
+  {
+    "lemma": "거칠고",
+    "count": 2
+  },
+  {
+    "lemma": "건반",
+    "count": 2
+  },
+  {
+    "lemma": "걷는",
+    "count": 2
+  },
+  {
+    "lemma": "걸거나",
+    "count": 2
+  },
+  {
+    "lemma": "걸을",
+    "count": 2
+  },
+  {
+    "lemma": "걸쭉",
+    "count": 2
+  },
+  {
+    "lemma": "걸쳐",
+    "count": 2
+  },
+  {
+    "lemma": "겉면",
+    "count": 2
+  },
+  {
+    "lemma": "겪거나",
+    "count": 2
+  },
+  {
+    "lemma": "견주어",
+    "count": 2
+  },
+  {
+    "lemma": "견줄",
+    "count": 2
+  },
+  {
+    "lemma": "경상북도",
+    "count": 2
+  },
+  {
+    "lemma": "계급",
+    "count": 2
+  },
+  {
+    "lemma": "계획.",
+    "count": 2
+  },
+  {
+    "lemma": "고된",
+    "count": 2
+  },
+  {
+    "lemma": "고려",
+    "count": 2
+  },
+  {
+    "lemma": "고를",
+    "count": 2
+  },
+  {
+    "lemma": "고맙게",
+    "count": 2
+  },
+  {
+    "lemma": "고유명",
+    "count": 2
+  },
+  {
+    "lemma": "고치고",
+    "count": 2
+  },
+  {
+    "lemma": "공손히",
+    "count": 2
+  },
+  {
+    "lemma": "광물",
+    "count": 2
+  },
+  {
+    "lemma": "괴롭게",
+    "count": 2
+  },
+  {
+    "lemma": "괴롭히는",
+    "count": 2
+  },
+  {
+    "lemma": "구름",
+    "count": 2
+  },
+  {
+    "lemma": "구성원",
+    "count": 2
+  },
+  {
+    "lemma": "구함",
+    "count": 2
+  },
+  {
+    "lemma": "군데",
+    "count": 2
+  },
+  {
+    "lemma": "굽혀",
+    "count": 2
+  },
+  {
+    "lemma": "귀하고",
+    "count": 2
+  },
+  {
+    "lemma": "그러한",
+    "count": 2
+  },
+  {
+    "lemma": "그렇지만",
+    "count": 2
+  },
+  {
+    "lemma": "그린",
+    "count": 2
+  },
+  {
+    "lemma": "그만두기",
+    "count": 2
+  },
+  {
+    "lemma": "그만큼",
+    "count": 2
+  },
+  {
+    "lemma": "급하지",
+    "count": 2
+  },
+  {
+    "lemma": "긍정",
+    "count": 2
+  },
+  {
+    "lemma": "기대어",
+    "count": 2
+  },
+  {
+    "lemma": "기른",
+    "count": 2
+  },
+  {
+    "lemma": "기쁘게",
+    "count": 2
+  },
+  {
+    "lemma": "기울어지는",
+    "count": 2
+  },
+  {
+    "lemma": "길러",
+    "count": 2
+  },
+  {
+    "lemma": "길쭉",
+    "count": 2
+  },
+  {
+    "lemma": "까는",
+    "count": 2
+  },
+  {
+    "lemma": "깔끔하고",
+    "count": 2
+  },
+  {
+    "lemma": "깨뜨려",
+    "count": 2
+  },
+  {
+    "lemma": "꽂아",
+    "count": 2
+  },
+  {
+    "lemma": "끊이지",
+    "count": 2
+  },
+  {
+    "lemma": "끌어당기는",
+    "count": 2
+  },
+  {
+    "lemma": "끓는",
+    "count": 2
+  },
+  {
+    "lemma": "끓여",
+    "count": 2
+  },
+  {
+    "lemma": "끓이거나",
+    "count": 2
+  },
+  {
+    "lemma": "끝난",
+    "count": 2
+  },
+  {
+    "lemma": "끝내고",
+    "count": 2
+  },
+  {
+    "lemma": "끝내는",
+    "count": 2
+  },
+  {
+    "lemma": "끝내어",
+    "count": 2
+  },
+  {
+    "lemma": "끝냄",
+    "count": 2
+  },
+  {
+    "lemma": "끼는",
+    "count": 2
+  },
+  {
+    "lemma": "나가서",
+    "count": 2
+  },
+  {
+    "lemma": "나누거나",
+    "count": 2
+  },
+  {
+    "lemma": "나머지",
+    "count": 2
+  },
+  {
+    "lemma": "나빠지거나",
+    "count": 2
+  },
+  {
+    "lemma": "나빠진",
+    "count": 2
+  },
+  {
+    "lemma": "나아가",
+    "count": 2
+  },
+  {
+    "lemma": "나아가게",
+    "count": 2
+  },
+  {
+    "lemma": "나아지게",
+    "count": 2
+  },
+  {
+    "lemma": "나아지고",
+    "count": 2
+  },
+  {
+    "lemma": "나옴",
+    "count": 2
+  },
+  {
+    "lemma": "나와서",
+    "count": 2
+  },
+  {
+    "lemma": "나타남",
+    "count": 2
+  },
+  {
+    "lemma": "나타내거나",
+    "count": 2
+  },
+  {
+    "lemma": "나타냄",
+    "count": 2
+  },
+  {
+    "lemma": "날아가",
+    "count": 2
+  },
+  {
+    "lemma": "날카로운",
+    "count": 2
+  },
+  {
+    "lemma": "남겨",
+    "count": 2
+  },
+  {
+    "lemma": "남기",
+    "count": 2
+  },
+  {
+    "lemma": "남긴",
+    "count": 2
+  },
+  {
+    "lemma": "남김",
+    "count": 2
+  },
+  {
+    "lemma": "남다른",
+    "count": 2
+  },
+  {
+    "lemma": "남동쪽",
+    "count": 2
+  },
+  {
+    "lemma": "남서쪽",
+    "count": 2
+  },
+  {
+    "lemma": "남아메리카",
+    "count": 2
+  },
+  {
+    "lemma": "납작",
+    "count": 2
+  },
+  {
+    "lemma": "낮고",
+    "count": 2
+  },
+  {
+    "lemma": "낮음",
+    "count": 2
+  },
+  {
+    "lemma": "낱개",
+    "count": 2
+  },
+  {
+    "lemma": "낱낱",
+    "count": 2
+  },
+  {
+    "lemma": "낳은",
+    "count": 2
+  },
+  {
+    "lemma": "내놓음",
+    "count": 2
+  },
+  {
+    "lemma": "내려가다",
+    "count": 2
+  },
+  {
+    "lemma": "내리거나",
+    "count": 2
+  },
+  {
+    "lemma": "내보내는",
+    "count": 2
+  },
+  {
+    "lemma": "넓힘",
+    "count": 2
+  },
+  {
+    "lemma": "노란",
+    "count": 2
+  },
+  {
+    "lemma": "놀라서",
+    "count": 2
+  },
+  {
+    "lemma": "놀릴",
+    "count": 2
+  },
+  {
+    "lemma": "높아",
+    "count": 2
+  },
+  {
+    "lemma": "높이고",
+    "count": 2
+  },
+  {
+    "lemma": "놓는",
+    "count": 2
+  },
+  {
+    "lemma": "눌리거나",
+    "count": 2
+  },
+  {
+    "lemma": "눕거나",
+    "count": 2
+  },
+  {
+    "lemma": "느껴",
+    "count": 2
+  },
+  {
+    "lemma": "느껴질",
+    "count": 2
+  },
+  {
+    "lemma": "느리게",
+    "count": 2
+  },
+  {
+    "lemma": "늘어남",
+    "count": 2
+  },
+  {
+    "lemma": "늘어놓은",
+    "count": 2
+  },
+  {
+    "lemma": "능숙하게",
+    "count": 2
+  },
+  {
+    "lemma": "다스리고",
+    "count": 2
+  },
+  {
+    "lemma": "다양",
+    "count": 2
+  },
+  {
+    "lemma": "다쳐서",
+    "count": 2
+  },
+  {
+    "lemma": "닫혀",
+    "count": 2
+  },
+  {
+    "lemma": "달거나",
+    "count": 2
+  },
+  {
+    "lemma": "달라서",
+    "count": 2
+  },
+  {
+    "lemma": "달라지는",
+    "count": 2
+  },
+  {
+    "lemma": "달아남",
+    "count": 2
+  },
+  {
+    "lemma": "담거나",
+    "count": 2
+  },
+  {
+    "lemma": "답답하거나",
+    "count": 2
+  },
+  {
+    "lemma": "답답하고",
+    "count": 2
+  },
+  {
+    "lemma": "답답하여",
+    "count": 2
+  },
+  {
+    "lemma": "닿는",
+    "count": 2
+  },
+  {
+    "lemma": "대단함",
+    "count": 2
+  },
+  {
+    "lemma": "대수",
+    "count": 2
+  },
+  {
+    "lemma": "대우",
+    "count": 2
+  },
+  {
+    "lemma": "대하며",
+    "count": 2
+  },
+  {
+    "lemma": "더럽거나",
+    "count": 2
+  },
+  {
+    "lemma": "더럽지",
+    "count": 2
+  },
+  {
+    "lemma": "더하기",
+    "count": 2
+  },
+  {
+    "lemma": "덩이",
+    "count": 2
+  },
+  {
+    "lemma": "덮고",
+    "count": 2
+  },
+  {
+    "lemma": "덮은",
+    "count": 2
+  },
+  {
+    "lemma": "도망가지",
+    "count": 2
+  },
+  {
+    "lemma": "독특",
+    "count": 2
+  },
+  {
+    "lemma": "돌아",
+    "count": 2
+  },
+  {
+    "lemma": "돌아다니며",
+    "count": 2
+  },
+  {
+    "lemma": "돕기",
+    "count": 2
+  },
+  {
+    "lemma": "동아시아",
+    "count": 2
+  },
+  {
+    "lemma": "돼지",
+    "count": 2
+  },
+  {
+    "lemma": "되도록",
+    "count": 2
+  },
+  {
+    "lemma": "된다",
+    "count": 2
+  },
+  {
+    "lemma": "두꺼운",
+    "count": 2
+  },
+  {
+    "lemma": "두껍게",
+    "count": 2
+  },
+  {
+    "lemma": "두껍고",
+    "count": 2
+  },
+  {
+    "lemma": "두드러지게",
+    "count": 2
+  },
+  {
+    "lemma": "두드려",
+    "count": 2
+  },
+  {
+    "lemma": "두려움",
+    "count": 2
+  },
+  {
+    "lemma": "두렵게",
+    "count": 2
+  },
+  {
+    "lemma": "둘러싸인",
+    "count": 2
+  },
+  {
+    "lemma": "드디어",
+    "count": 2
+  },
+  {
+    "lemma": "드러나게",
+    "count": 2
+  },
+  {
+    "lemma": "드러내",
+    "count": 2
+  },
+  {
+    "lemma": "드러내지",
+    "count": 2
+  },
+  {
+    "lemma": "드리는",
+    "count": 2
+  },
+  {
+    "lemma": "든다",
+    "count": 2
+  },
+  {
+    "lemma": "듣고",
+    "count": 2
+  },
+  {
+    "lemma": "들게",
+    "count": 2
+  },
+  {
+    "lemma": "들어가고",
+    "count": 2
+  },
+  {
+    "lemma": "들어온",
+    "count": 2
+  },
+  {
+    "lemma": "들으며",
+    "count": 2
+  },
+  {
+    "lemma": "들을",
+    "count": 2
+  },
+  {
+    "lemma": "들지",
+    "count": 2
+  },
+  {
+    "lemma": "따라야",
+    "count": 2
+  },
+  {
+    "lemma": "따르거나",
+    "count": 2
+  },
+  {
+    "lemma": "따르게",
+    "count": 2
+  },
+  {
+    "lemma": "따른",
+    "count": 2
+  },
+  {
+    "lemma": "딱딱",
+    "count": 2
+  },
+  {
+    "lemma": "딱딱하게",
+    "count": 2
+  },
+  {
+    "lemma": "때로부터",
+    "count": 2
+  },
+  {
+    "lemma": "떠나는",
+    "count": 2
+  },
+  {
+    "lemma": "떨어지지",
+    "count": 2
+  },
+  {
+    "lemma": "뛰어",
+    "count": 2
+  },
+  {
+    "lemma": "뛰어나고",
+    "count": 2
+  },
+  {
+    "lemma": "뜨기",
+    "count": 2
+  },
+  {
+    "lemma": "로워",
+    "count": 2
+  },
+  {
+    "lemma": "롭지",
+    "count": 2
+  },
+  {
+    "lemma": "마시고",
+    "count": 2
+  },
+  {
+    "lemma": "마음가짐",
+    "count": 2
+  },
+  {
+    "lemma": "마음씨",
+    "count": 2
+  },
+  {
+    "lemma": "마침",
+    "count": 2
+  },
+  {
+    "lemma": "막대",
+    "count": 2
+  },
+  {
+    "lemma": "막대기",
+    "count": 2
+  },
+  {
+    "lemma": "막음",
+    "count": 2
+  },
+  {
+    "lemma": "막힘",
+    "count": 2
+  },
+  {
+    "lemma": "만나고",
+    "count": 2
+  },
+  {
+    "lemma": "만나서",
+    "count": 2
+  },
+  {
+    "lemma": "만남",
+    "count": 2
+  },
+  {
+    "lemma": "만들어져",
+    "count": 2
+  },
+  {
+    "lemma": "많고",
+    "count": 2
+  },
+  {
+    "lemma": "많아지거나",
+    "count": 2
+  },
+  {
+    "lemma": "말라",
+    "count": 2
+  },
+  {
+    "lemma": "말랑",
+    "count": 2
+  },
+  {
+    "lemma": "말아",
+    "count": 2
+  },
+  {
+    "lemma": "맑고",
+    "count": 2
+  },
+  {
+    "lemma": "망가지거나",
+    "count": 2
+  },
+  {
+    "lemma": "맞고",
+    "count": 2
+  },
+  {
+    "lemma": "맞닿아",
+    "count": 2
+  },
+  {
+    "lemma": "맞서서",
+    "count": 2
+  },
+  {
+    "lemma": "맞은",
+    "count": 2
+  },
+  {
+    "lemma": "맞장구",
+    "count": 2
+  },
+  {
+    "lemma": "맞추는",
+    "count": 2
+  },
+  {
+    "lemma": "맞춘",
+    "count": 2
+  },
+  {
+    "lemma": "맞춤",
+    "count": 2
+  },
+  {
+    "lemma": "맡기고",
+    "count": 2
+  },
+  {
+    "lemma": "매끈하고",
+    "count": 2
+  },
+  {
+    "lemma": "맺어진",
+    "count": 2
+  },
+  {
+    "lemma": "머물",
+    "count": 2
+  },
+  {
+    "lemma": "먹게",
+    "count": 2
+  },
+  {
+    "lemma": "먹기",
+    "count": 2
+  },
+  {
+    "lemma": "멀지",
+    "count": 2
+  },
+  {
+    "lemma": "멈추고",
+    "count": 2
+  },
+  {
+    "lemma": "명부",
+    "count": 2
+  },
+  {
+    "lemma": "모서리",
+    "count": 2
+  },
+  {
+    "lemma": "모여서",
+    "count": 2
+  },
+  {
+    "lemma": "모욕",
+    "count": 2
+  },
+  {
+    "lemma": "모은",
+    "count": 2
+  },
+  {
+    "lemma": "모이게",
+    "count": 2
+  },
+  {
+    "lemma": "몰아",
+    "count": 2
+  },
+  {
+    "lemma": "못마땅",
+    "count": 2
+  },
+  {
+    "lemma": "못한",
+    "count": 2
+  },
+  {
+    "lemma": "무서울",
+    "count": 2
+  },
+  {
+    "lemma": "무섭게",
+    "count": 2
+  },
+  {
+    "lemma": "무언",
+    "count": 2
+  },
+  {
+    "lemma": "묶은",
+    "count": 2
+  },
+  {
+    "lemma": "문질러",
+    "count": 2
+  },
+  {
+    "lemma": "물기",
+    "count": 2
+  },
+  {
+    "lemma": "물러나",
+    "count": 2
+  },
+  {
+    "lemma": "물방울",
+    "count": 2
+  },
+  {
+    "lemma": "뭉쳐",
+    "count": 2
+  },
+  {
+    "lemma": "미루어",
+    "count": 2
+  },
+  {
+    "lemma": "미생물",
+    "count": 2
+  },
+  {
+    "lemma": "미치지",
+    "count": 2
+  },
+  {
+    "lemma": "미혼",
+    "count": 2
+  },
+  {
+    "lemma": "밀려",
+    "count": 2
+  },
+  {
+    "lemma": "밀어붙이는",
+    "count": 2
+  },
+  {
+    "lemma": "바꾸기",
+    "count": 2
+  },
+  {
+    "lemma": "바뀌거나",
+    "count": 2
+  },
+  {
+    "lemma": "바라고",
+    "count": 2
+  },
+  {
+    "lemma": "바람직하지",
+    "count": 2
+  },
+  {
+    "lemma": "바로잡음",
+    "count": 2
+  },
+  {
+    "lemma": "바른",
+    "count": 2
+  },
+  {
+    "lemma": "바쁜",
+    "count": 2
+  },
+  {
+    "lemma": "바지",
+    "count": 2
+  },
+  {
+    "lemma": "박자",
+    "count": 2
+  },
+  {
+    "lemma": "받아들여",
+    "count": 2
+  },
+  {
+    "lemma": "받아들여져",
+    "count": 2
+  },
+  {
+    "lemma": "받아들이지",
+    "count": 2
+  },
+  {
+    "lemma": "받아서",
+    "count": 2
+  },
+  {
+    "lemma": "받을",
+    "count": 2
+  },
+  {
+    "lemma": "받쳐",
+    "count": 2
+  },
+  {
+    "lemma": "밝게",
+    "count": 2
+  },
+  {
+    "lemma": "밝혀",
+    "count": 2
+  },
+  {
+    "lemma": "밝히기",
+    "count": 2
+  },
+  {
+    "lemma": "밝히려고",
+    "count": 2
+  },
+  {
+    "lemma": "배운",
+    "count": 2
+  },
+  {
+    "lemma": "버는",
+    "count": 2
+  },
+  {
+    "lemma": "버리거나",
+    "count": 2
+  },
+  {
+    "lemma": "버림",
+    "count": 2
+  },
+  {
+    "lemma": "버티",
+    "count": 2
+  },
+  {
+    "lemma": "버티는",
+    "count": 2
+  },
+  {
+    "lemma": "버티어",
+    "count": 2
+  },
+  {
+    "lemma": "번갈아",
+    "count": 2
+  },
+  {
+    "lemma": "벌거나",
+    "count": 2
+  },
+  {
+    "lemma": "벌어지거나",
+    "count": 2
+  },
+  {
+    "lemma": "벌어지는",
+    "count": 2
+  },
+  {
+    "lemma": "벌이나",
+    "count": 2
+  },
+  {
+    "lemma": "베거나",
+    "count": 2
+  },
+  {
+    "lemma": "변하지",
+    "count": 2
+  },
+  {
+    "lemma": "병균",
+    "count": 2
+  },
+  {
+    "lemma": "보게",
+    "count": 2
+  },
+  {
+    "lemma": "보내",
+    "count": 2
+  },
+  {
+    "lemma": "보러",
+    "count": 2
+  },
+  {
+    "lemma": "보려는",
+    "count": 2
+  },
+  {
+    "lemma": "보아",
+    "count": 2
+  },
+  {
+    "lemma": "보았을",
+    "count": 2
+  },
+  {
+    "lemma": "보이고",
+    "count": 2
+  },
+  {
+    "lemma": "보이기",
+    "count": 2
+  },
+  {
+    "lemma": "보이며",
+    "count": 2
+  },
+  {
+    "lemma": "보이지만",
+    "count": 2
+  },
+  {
+    "lemma": "보탬",
+    "count": 2
+  },
+  {
+    "lemma": "볶아",
+    "count": 2
+  },
+  {
+    "lemma": "볼록",
+    "count": 2
+  },
+  {
+    "lemma": "부서지지",
+    "count": 2
+  },
+  {
+    "lemma": "붉은색",
+    "count": 2
+  },
+  {
+    "lemma": "붙이거나",
+    "count": 2
+  },
+  {
+    "lemma": "비벼",
+    "count": 2
+  },
+  {
+    "lemma": "비싼",
+    "count": 2
+  },
+  {
+    "lemma": "비유",
+    "count": 2
+  },
+  {
+    "lemma": "빌리거나",
+    "count": 2
+  },
+  {
+    "lemma": "빗나",
+    "count": 2
+  },
+  {
+    "lemma": "빠져서",
+    "count": 2
+  },
+  {
+    "lemma": "빨아들이는",
+    "count": 2
+  },
+  {
+    "lemma": "빻아",
+    "count": 2
+  },
+  {
+    "lemma": "빼는",
+    "count": 2
+  },
+  {
+    "lemma": "빼앗는",
+    "count": 2
+  },
+  {
+    "lemma": "사방",
+    "count": 2
+  },
+  {
+    "lemma": "사정",
+    "count": 2
+  },
+  {
+    "lemma": "살기",
+    "count": 2
+  },
+  {
+    "lemma": "살던",
+    "count": 2
+  },
+  {
+    "lemma": "살림",
+    "count": 2
+  },
+  {
+    "lemma": "살아서",
+    "count": 2
+  },
+  {
+    "lemma": "살펴봄",
+    "count": 2
+  },
+  {
+    "lemma": "살피거나",
+    "count": 2
+  },
+  {
+    "lemma": "살피며",
+    "count": 2
+  },
+  {
+    "lemma": "삼아",
+    "count": 2
+  },
+  {
+    "lemma": "삼키다",
+    "count": 2
+  },
+  {
+    "lemma": "상대편",
+    "count": 2
+  },
+  {
+    "lemma": "상영",
+    "count": 2
+  },
+  {
+    "lemma": "상하거나",
+    "count": 2
+  },
+  {
+    "lemma": "상한",
+    "count": 2
+  },
+  {
+    "lemma": "상해",
+    "count": 2
+  },
+  {
+    "lemma": "새겨",
+    "count": 2
+  },
+  {
+    "lemma": "생겨남",
+    "count": 2
+  },
+  {
+    "lemma": "생겼을",
+    "count": 2
+  },
+  {
+    "lemma": "생길까",
+    "count": 2
+  },
+  {
+    "lemma": "생김",
+    "count": 2
+  },
+  {
+    "lemma": "생동감",
+    "count": 2
+  },
+  {
+    "lemma": "생물학",
+    "count": 2
+  },
+  {
+    "lemma": "서거나",
+    "count": 2
+  },
+  {
+    "lemma": "서고",
+    "count": 2
+  },
+  {
+    "lemma": "서남아시아",
+    "count": 2
+  },
+  {
+    "lemma": "서는",
+    "count": 2
+  },
+  {
+    "lemma": "섞여",
+    "count": 2
+  },
+  {
+    "lemma": "설비",
+    "count": 2
+  },
+  {
+    "lemma": "설치",
+    "count": 2
+  },
+  {
+    "lemma": "섬나라",
+    "count": 2
+  },
+  {
+    "lemma": "세다",
+    "count": 2
+  },
+  {
+    "lemma": "세대",
+    "count": 2
+  },
+  {
+    "lemma": "세우거나",
+    "count": 2
+  },
+  {
+    "lemma": "세우는",
+    "count": 2
+  },
+  {
+    "lemma": "속뜻",
+    "count": 2
+  },
+  {
+    "lemma": "속해",
+    "count": 2
+  },
+  {
+    "lemma": "손끝",
+    "count": 2
+  },
+  {
+    "lemma": "손질",
+    "count": 2
+  },
+  {
+    "lemma": "솟아오른",
+    "count": 2
+  },
+  {
+    "lemma": "쇠로",
+    "count": 2
+  },
+  {
+    "lemma": "쇠붙이",
+    "count": 2
+  },
+  {
+    "lemma": "수다",
+    "count": 2
+  },
+  {
+    "lemma": "숨겨져",
+    "count": 2
+  },
+  {
+    "lemma": "숨기던",
+    "count": 2
+  },
+  {
+    "lemma": "숨기지",
+    "count": 2
+  },
+  {
+    "lemma": "숨어",
+    "count": 2
+  },
+  {
+    "lemma": "쉬거나",
+    "count": 2
+  },
+  {
+    "lemma": "스럽지",
+    "count": 2
+  },
+  {
+    "lemma": "스물",
+    "count": 2
+  },
+  {
+    "lemma": "스쳐서",
+    "count": 2
+  },
+  {
+    "lemma": "슬픔",
+    "count": 2
+  },
+  {
+    "lemma": "시끄럽게",
+    "count": 2
+  },
+  {
+    "lemma": "시대",
+    "count": 2
+  },
+  {
+    "lemma": "시원하게",
+    "count": 2
+  },
+  {
+    "lemma": "시킴",
+    "count": 2
+  },
+  {
+    "lemma": "식용",
+    "count": 2
+  },
+  {
+    "lemma": "식재료",
+    "count": 2
+  },
+  {
+    "lemma": "신기하고",
+    "count": 2
+  },
+  {
+    "lemma": "싫어하는",
+    "count": 2
+  },
+  {
+    "lemma": "심고",
+    "count": 2
+  },
+  {
+    "lemma": "심하다는",
+    "count": 2
+  },
+  {
+    "lemma": "심하여",
+    "count": 2
+  },
+  {
+    "lemma": "심함",
+    "count": 2
+  },
+  {
+    "lemma": "싶거나",
+    "count": 2
+  },
+  {
+    "lemma": "싸거나",
+    "count": 2
+  },
+  {
+    "lemma": "싸고",
+    "count": 2
+  },
+  {
+    "lemma": "싸서",
+    "count": 2
+  },
+  {
+    "lemma": "쌓아",
+    "count": 2
+  },
+  {
+    "lemma": "쌓은",
+    "count": 2
+  },
+  {
+    "lemma": "쏘아",
+    "count": 2
+  },
+  {
+    "lemma": "쓰던",
+    "count": 2
+  },
+  {
+    "lemma": "쓰레기",
+    "count": 2
+  },
+  {
+    "lemma": "쓰려고",
+    "count": 2
+  },
+  {
+    "lemma": "쓰이거나",
+    "count": 2
+  },
+  {
+    "lemma": "쓰이게",
+    "count": 2
+  },
+  {
+    "lemma": "쓰지",
+    "count": 2
+  },
+  {
+    "lemma": "씹을",
+    "count": 2
+  },
+  {
+    "lemma": "씻고",
+    "count": 2
+  },
+  {
+    "lemma": "씻는",
+    "count": 2
+  },
+  {
+    "lemma": "씻을",
+    "count": 2
+  },
+  {
+    "lemma": "아기",
+    "count": 2
+  },
+  {
+    "lemma": "아는",
+    "count": 2
+  },
+  {
+    "lemma": "아들딸",
+    "count": 2
+  },
+  {
+    "lemma": "아름다운",
+    "count": 2
+  },
+  {
+    "lemma": "아름다움",
+    "count": 2
+  },
+  {
+    "lemma": "아쉬워",
+    "count": 2
+  },
+  {
+    "lemma": "아우르는",
+    "count": 2
+  },
+  {
+    "lemma": "아프지",
+    "count": 2
+  },
+  {
+    "lemma": "안건",
+    "count": 2
+  },
+  {
+    "lemma": "앉는",
+    "count": 2
+  },
+  {
+    "lemma": "않기",
+    "count": 2
+  },
+  {
+    "lemma": "않는다",
+    "count": 2
+  },
+  {
+    "lemma": "않아도",
+    "count": 2
+  },
+  {
+    "lemma": "않으려는",
+    "count": 2
+  },
+  {
+    "lemma": "않은데",
+    "count": 2
+  },
+  {
+    "lemma": "알갱이",
+    "count": 2
+  },
+  {
+    "lemma": "알려지거나",
+    "count": 2
+  },
+  {
+    "lemma": "알로",
+    "count": 2
+  },
+  {
+    "lemma": "알맹이",
+    "count": 2
+  },
+  {
+    "lemma": "알아내거나",
+    "count": 2
+  },
+  {
+    "lemma": "알아보다",
+    "count": 2
+  },
+  {
+    "lemma": "알아보려고",
+    "count": 2
+  },
+  {
+    "lemma": "알아봄",
+    "count": 2
+  },
+  {
+    "lemma": "알아서",
+    "count": 2
+  },
+  {
+    "lemma": "알아야",
+    "count": 2
+  },
+  {
+    "lemma": "암수",
+    "count": 2
+  },
+  {
+    "lemma": "압도",
+    "count": 2
+  },
+  {
+    "lemma": "앞날",
+    "count": 2
+  },
+  {
+    "lemma": "앞서서",
+    "count": 2
+  },
+  {
+    "lemma": "앞자리",
+    "count": 2
+  },
+  {
+    "lemma": "약한",
+    "count": 2
+  },
+  {
+    "lemma": "어겼을",
+    "count": 2
+  },
+  {
+    "lemma": "어긋난",
+    "count": 2
+  },
+  {
+    "lemma": "어기거나",
+    "count": 2
+  },
+  {
+    "lemma": "어긴",
+    "count": 2
+  },
+  {
+    "lemma": "어려워",
+    "count": 2
+  },
+  {
+    "lemma": "어렵다는",
+    "count": 2
+  },
+  {
+    "lemma": "얻기",
+    "count": 2
+  },
+  {
+    "lemma": "얽매",
+    "count": 2
+  },
+  {
+    "lemma": "얽어",
+    "count": 2
+  },
+  {
+    "lemma": "없애거나",
+    "count": 2
+  },
+  {
+    "lemma": "없앰",
+    "count": 2
+  },
+  {
+    "lemma": "없어지",
+    "count": 2
+  },
+  {
+    "lemma": "없어지지",
+    "count": 2
+  },
+  {
+    "lemma": "없으면",
+    "count": 2
+  },
+  {
+    "lemma": "에는",
+    "count": 2
+  },
+  {
+    "lemma": "여기고",
+    "count": 2
+  },
+  {
+    "lemma": "여닫거나",
+    "count": 2
+  },
+  {
+    "lemma": "여닫는",
+    "count": 2
+  },
+  {
+    "lemma": "연한",
+    "count": 2
+  },
+  {
+    "lemma": "열거나",
+    "count": 2
+  },
+  {
+    "lemma": "열대",
+    "count": 2
+  },
+  {
+    "lemma": "열려",
+    "count": 2
+  },
+  {
+    "lemma": "열어",
+    "count": 2
+  },
+  {
+    "lemma": "영양",
+    "count": 2
+  },
+  {
+    "lemma": "옆자리",
+    "count": 2
+  },
+  {
+    "lemma": "오빠",
+    "count": 2
+  },
+  {
+    "lemma": "오직",
+    "count": 2
+  },
+  {
+    "lemma": "올라",
+    "count": 2
+  },
+  {
+    "lemma": "올라가",
+    "count": 2
+  },
+  {
+    "lemma": "올라와",
+    "count": 2
+  },
+  {
+    "lemma": "옮기기",
+    "count": 2
+  },
+  {
+    "lemma": "옮길",
+    "count": 2
+  },
+  {
+    "lemma": "옷감",
+    "count": 2
+  },
+  {
+    "lemma": "우울",
+    "count": 2
+  },
+  {
+    "lemma": "움직이던",
+    "count": 2
+  },
+  {
+    "lemma": "움직일",
+    "count": 2
+  },
+  {
+    "lemma": "웃기려는",
+    "count": 2
+  },
+  {
+    "lemma": "웃는",
+    "count": 2
+  },
+  {
+    "lemma": "위하여",
+    "count": 2
+  },
+  {
+    "lemma": "으로부터",
+    "count": 2
+  },
+  {
+    "lemma": "응답",
+    "count": 2
+  },
+  {
+    "lemma": "의논",
+    "count": 2
+  },
+  {
+    "lemma": "의지",
+    "count": 2
+  },
+  {
+    "lemma": "이겨서",
+    "count": 2
+  },
+  {
+    "lemma": "이곳저곳",
+    "count": 2
+  },
+  {
+    "lemma": "이기",
+    "count": 2
+  },
+  {
+    "lemma": "이기기",
+    "count": 2
+  },
+  {
+    "lemma": "이기려고",
+    "count": 2
+  },
+  {
+    "lemma": "이긴",
+    "count": 2
+  },
+  {
+    "lemma": "이동",
+    "count": 2
+  },
+  {
+    "lemma": "이라면",
+    "count": 2
+  },
+  {
+    "lemma": "이런",
+    "count": 2
+  },
+  {
+    "lemma": "이루어",
+    "count": 2
+  },
+  {
+    "lemma": "이루어지기",
+    "count": 2
+  },
+  {
+    "lemma": "이루어짐",
+    "count": 2
+  },
+  {
+    "lemma": "이룸",
+    "count": 2
+  },
+  {
+    "lemma": "이마",
+    "count": 2
+  },
+  {
+    "lemma": "이어짐",
+    "count": 2
+  },
+  {
+    "lemma": "일반",
+    "count": 2
+  },
+  {
+    "lemma": "일어나",
+    "count": 2
+  },
+  {
+    "lemma": "일어나게",
+    "count": 2
+  },
+  {
+    "lemma": "일어나기",
+    "count": 2
+  },
+  {
+    "lemma": "일터",
+    "count": 2
+  },
+  {
+    "lemma": "읽는",
+    "count": 2
+  },
+  {
+    "lemma": "잃거나",
+    "count": 2
+  },
+  {
+    "lemma": "잃고",
+    "count": 2
+  },
+  {
+    "lemma": "잃어",
+    "count": 2
+  },
+  {
+    "lemma": "잃은",
+    "count": 2
+  },
+  {
+    "lemma": "임명",
+    "count": 2
+  },
+  {
+    "lemma": "잊었던",
+    "count": 2
+  },
+  {
+    "lemma": "자갈",
+    "count": 2
+  },
+  {
+    "lemma": "자라서",
+    "count": 2
+  },
+  {
+    "lemma": "자르거나",
+    "count": 2
+  },
+  {
+    "lemma": "자리나",
+    "count": 2
+  },
+  {
+    "lemma": "자세하고",
+    "count": 2
+  },
+  {
+    "lemma": "작게",
+    "count": 2
+  },
+  {
+    "lemma": "작별",
+    "count": 2
+  },
+  {
+    "lemma": "잘라",
+    "count": 2
+  },
+  {
+    "lemma": "잠금",
+    "count": 2
+  },
+  {
+    "lemma": "잡거나",
+    "count": 2
+  },
+  {
+    "lemma": "잡지",
+    "count": 2
+  },
+  {
+    "lemma": "잡히지",
+    "count": 2
+  },
+  {
+    "lemma": "잡힘",
+    "count": 2
+  },
+  {
+    "lemma": "장.",
+    "count": 2
+  },
+  {
+    "lemma": "재는",
+    "count": 2
+  },
+  {
+    "lemma": "재생",
+    "count": 2
+  },
+  {
+    "lemma": "재주",
+    "count": 2
+  },
+  {
+    "lemma": "저지르는",
+    "count": 2
+  },
+  {
+    "lemma": "적을",
+    "count": 2
+  },
+  {
+    "lemma": "전문",
+    "count": 2
+  },
+  {
+    "lemma": "전하기",
+    "count": 2
+  },
+  {
+    "lemma": "전해",
+    "count": 2
+  },
+  {
+    "lemma": "전화기",
+    "count": 2
+  },
+  {
+    "lemma": "접힌",
+    "count": 2
+  },
+  {
+    "lemma": "정말로",
+    "count": 2
+  },
+  {
+    "lemma": "정하기",
+    "count": 2
+  },
+  {
+    "lemma": "정해져",
+    "count": 2
+  },
+  {
+    "lemma": "정확",
+    "count": 2
+  },
+  {
+    "lemma": "제외",
+    "count": 2
+  },
+  {
+    "lemma": "조건.",
+    "count": 2
+  },
+  {
+    "lemma": "조리",
+    "count": 2
+  },
+  {
+    "lemma": "조상",
+    "count": 2
+  },
+  {
+    "lemma": "조작",
+    "count": 2
+  },
+  {
+    "lemma": "좁고",
+    "count": 2
+  },
+  {
+    "lemma": "좋아지는",
+    "count": 2
+  },
+  {
+    "lemma": "좋아하거나",
+    "count": 2
+  },
+  {
+    "lemma": "좋아한다",
+    "count": 2
+  },
+  {
+    "lemma": "좋을",
+    "count": 2
+  },
+  {
+    "lemma": "주어진",
+    "count": 2
+  },
+  {
+    "lemma": "주황색",
+    "count": 2
+  },
+  {
+    "lemma": "죽는",
+    "count": 2
+  },
+  {
+    "lemma": "죽을",
+    "count": 2
+  },
+  {
+    "lemma": "죽이는",
+    "count": 2
+  },
+  {
+    "lemma": "줄어드는",
+    "count": 2
+  },
+  {
+    "lemma": "줄임말",
+    "count": 2
+  },
+  {
+    "lemma": "줄지어",
+    "count": 2
+  },
+  {
+    "lemma": "즐겁게",
+    "count": 2
+  },
+  {
+    "lemma": "지나가",
+    "count": 2
+  },
+  {
+    "lemma": "지나면서",
+    "count": 2
+  },
+  {
+    "lemma": "지내는",
+    "count": 2
+  },
+  {
+    "lemma": "지니고",
+    "count": 2
+  },
+  {
+    "lemma": "지니는",
+    "count": 2
+  },
+  {
+    "lemma": "지명",
+    "count": 2
+  },
+  {
+    "lemma": "지지",
+    "count": 2
+  },
+  {
+    "lemma": "지키게",
+    "count": 2
+  },
+  {
+    "lemma": "지키기",
+    "count": 2
+  },
+  {
+    "lemma": "지탱",
+    "count": 2
+  },
+  {
+    "lemma": "직급",
+    "count": 2
+  },
+  {
+    "lemma": "집권",
+    "count": 2
+  },
+  {
+    "lemma": "쪄서",
+    "count": 2
+  },
+  {
+    "lemma": "찌개",
+    "count": 2
+  },
+  {
+    "lemma": "찍은",
+    "count": 2
+  },
+  {
+    "lemma": "차고",
+    "count": 2
+  },
+  {
+    "lemma": "차려",
+    "count": 2
+  },
+  {
+    "lemma": "찬반",
+    "count": 2
+  },
+  {
+    "lemma": "찾아가서",
+    "count": 2
+  },
+  {
+    "lemma": "찾아내는",
+    "count": 2
+  },
+  {
+    "lemma": "찾지",
+    "count": 2
+  },
+  {
+    "lemma": "책임지는",
+    "count": 2
+  },
+  {
+    "lemma": "책자",
+    "count": 2
+  },
+  {
+    "lemma": "챙기는",
+    "count": 2
+  },
+  {
+    "lemma": "철로",
+    "count": 2
+  },
+  {
+    "lemma": "철저",
+    "count": 2
+  },
+  {
+    "lemma": "체육",
+    "count": 2
+  },
+  {
+    "lemma": "총알",
+    "count": 2
+  },
+  {
+    "lemma": "총액",
+    "count": 2
+  },
+  {
+    "lemma": "충청북도",
+    "count": 2
+  },
+  {
+    "lemma": "치거나",
+    "count": 2
+  },
+  {
+    "lemma": "치고",
+    "count": 2
+  },
+  {
+    "lemma": "치는",
+    "count": 2
+  },
+  {
+    "lemma": "커다란",
+    "count": 2
+  },
+  {
+    "lemma": "커서",
+    "count": 2
+  },
+  {
+    "lemma": "커지",
+    "count": 2
+  },
+  {
+    "lemma": "켜거나",
+    "count": 2
+  },
+  {
+    "lemma": "코로",
+    "count": 2
+  },
+  {
+    "lemma": "타게",
+    "count": 2
+  },
+  {
+    "lemma": "탄산",
+    "count": 2
+  },
+  {
+    "lemma": "태어나거나",
+    "count": 2
+  },
+  {
+    "lemma": "태어나서",
+    "count": 2
+  },
+  {
+    "lemma": "태어날",
+    "count": 2
+  },
+  {
+    "lemma": "태우고",
+    "count": 2
+  },
+  {
+    "lemma": "터져",
+    "count": 2
+  },
+  {
+    "lemma": "터지는",
+    "count": 2
+  },
+  {
+    "lemma": "통과",
+    "count": 2
+  },
+  {
+    "lemma": "틀리거나",
+    "count": 2
+  },
+  {
+    "lemma": "틀린지",
+    "count": 2
+  },
+  {
+    "lemma": "퍼뜨리는",
+    "count": 2
+  },
+  {
+    "lemma": "퍼진",
+    "count": 2
+  },
+  {
+    "lemma": "퍼짐",
+    "count": 2
+  },
+  {
+    "lemma": "페이지",
+    "count": 2
+  },
+  {
+    "lemma": "편하고",
+    "count": 2
+  },
+  {
+    "lemma": "편한",
+    "count": 2
+  },
+  {
+    "lemma": "펼쳐진",
+    "count": 2
+  },
+  {
+    "lemma": "평범",
+    "count": 2
+  },
+  {
+    "lemma": "평안",
+    "count": 2
+  },
+  {
+    "lemma": "포근",
+    "count": 2
+  },
+  {
+    "lemma": "표기",
+    "count": 2
+  },
+  {
+    "lemma": "표지",
+    "count": 2
+  },
+  {
+    "lemma": "푸른색",
+    "count": 2
+  },
+  {
+    "lemma": "풀거나",
+    "count": 2
+  },
+  {
+    "lemma": "풀고",
+    "count": 2
+  },
+  {
+    "lemma": "풀리지",
+    "count": 2
+  },
+  {
+    "lemma": "풀어서",
+    "count": 2
+  },
+  {
+    "lemma": "풀이나",
+    "count": 2
+  },
+  {
+    "lemma": "피곤",
+    "count": 2
+  },
+  {
+    "lemma": "피는",
+    "count": 2
+  },
+  {
+    "lemma": "하겠다",
+    "count": 2
+  },
+  {
+    "lemma": "하나님",
+    "count": 2
+  },
+  {
+    "lemma": "하다가",
+    "count": 2
+  },
+  {
+    "lemma": "하면",
+    "count": 2
+  },
+  {
+    "lemma": "하얀",
+    "count": 2
+  },
+  {
+    "lemma": "하얗게",
+    "count": 2
+  },
+  {
+    "lemma": "하자",
+    "count": 2
+  },
+  {
+    "lemma": "하자는",
+    "count": 2
+  },
+  {
+    "lemma": "한 곳",
+    "count": 2
+  },
+  {
+    "lemma": "한가운데",
+    "count": 2
+  },
+  {
+    "lemma": "한다는",
+    "count": 2
+  },
+  {
+    "lemma": "한순간",
+    "count": 2
+  },
+  {
+    "lemma": "할지",
+    "count": 2
+  },
+  {
+    "lemma": "해낼",
+    "count": 2
+  },
+  {
+    "lemma": "해로움",
+    "count": 2
+  },
+  {
+    "lemma": "해마다",
+    "count": 2
+  },
+  {
+    "lemma": "해지는",
+    "count": 2
+  },
+  {
+    "lemma": "해짐",
+    "count": 2
+  },
+  {
+    "lemma": "해치거나",
+    "count": 2
+  },
+  {
+    "lemma": "했던",
+    "count": 2
+  },
+  {
+    "lemma": "향신료",
+    "count": 2
+  },
+  {
+    "lemma": "헤아려",
+    "count": 2
+  },
+  {
+    "lemma": "헤어질",
+    "count": 2
+  },
+  {
+    "lemma": "호칭",
+    "count": 2
+  },
+  {
+    "lemma": "화려한",
+    "count": 2
+  },
+  {
+    "lemma": "활기",
+    "count": 2
+  },
+  {
+    "lemma": "흔들리는",
+    "count": 2
+  },
+  {
+    "lemma": "흔들리지",
+    "count": 2
+  },
+  {
+    "lemma": "흔들림",
+    "count": 2
+  },
+  {
+    "lemma": "흡족",
+    "count": 2
+  },
+  {
+    "lemma": "흩어져",
+    "count": 2
+  },
+  {
+    "lemma": "흩어지게",
+    "count": 2
+  },
+  {
+    "lemma": "힘내라",
+    "count": 2
+  },
+  {
+    "lemma": "힘들",
+    "count": 2
+  }
+]
