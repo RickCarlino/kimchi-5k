@@ -30,8 +30,8 @@ type PosFix = {
 
 const ROOT_DIR = fileURLToPath(new URL("..", import.meta.url));
 const DEFINITIONS_PATH = join(ROOT_DIR, "data", "2-definitions.json");
-const BATCH_SIZE = 20;
-const MODEL = "gpt-5";
+const BATCH_SIZE = 25;
+const MODEL = "gpt-5.1";
 
 // Edit this prompt to fine‑tune how the LLM evaluates entries.
 const USER_PROMPT = `
@@ -109,6 +109,9 @@ const auditBatch = async (
 
   const response = await client.responses.create({
     model: MODEL,
+    reasoning: {
+      effort: "low"
+    },
     metadata: { patrolRequestId: requestId },
     input: prompt,
     text: {
@@ -187,11 +190,14 @@ const main = async () => {
   console.log(`Auditing ${pending.length} entries in ${batches.length} batch(es).`);
 
   const allConcerns: Concern[] = [];
+  let totalElapsedMs = 0;
+  let totalEntries = 0;
 
   for (let i = 0; i < batches.length; i += 1) {
     const batch = batches[i];
     const requestId = randomUUID();
     console.log(`Starting batch ${i + 1}/${batches.length} (requestId: ${requestId})...`);
+    const started = Date.now();
     const { concerns, posFixes } = await auditBatch(batch!, requestId);
     allConcerns.push(...concerns);
     const concernsByRank = groupConcernsByRank(concerns);
@@ -210,8 +216,16 @@ const main = async () => {
       }
     }
     await persistRecord(record);
+    const elapsedMs = Date.now() - started;
+    totalElapsedMs += elapsedMs;
+    totalEntries += batch!.length;
+    const entriesPerSec = Math.round((batch!.length / Math.max(elapsedMs, 1)) * 1000 * 10) / 10; // one decimal
+    const avgEntriesPerSec = Math.round((totalEntries / Math.max(totalElapsedMs, 1)) * 1000 * 10) / 10;
+    const remainingEntries = pending.length - totalEntries;
+    const etaSec = remainingEntries > 0 && avgEntriesPerSec > 0 ? Math.ceil(remainingEntries / avgEntriesPerSec) : 0;
+    const etaStr = new Date(etaSec * 1000).toISOString().substring(11, 19);
     console.log(
-      `Finished batch ${i + 1}/${batches.length}: ${concerns.length} def concern(s), ${posFixes.length} pos fix(es).`,
+      `Finished batch ${i + 1}/${batches.length}: ${concerns.length} def concern(s), ${posFixes.length} pos fix(es), ${elapsedMs} ms, ~${entriesPerSec} entries/sec (avg ~${avgEntriesPerSec}/sec), ETA ~${etaStr}.`,
     );
   }
 
