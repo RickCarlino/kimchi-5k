@@ -112,7 +112,7 @@ const runCLI = async () => {
   if (!text) {
     console.error("Provide text to process.");
     printUsage();
-    Bun.exit(1);
+    process.exit(1);
   }
 
   if (mode === "summary") {
@@ -129,12 +129,12 @@ const runCLI = async () => {
 
   console.error(`Unknown mode: ${mode}`);
   printUsage();
-  Bun.exit(1);
+  process.exit(1);
 };
 
 if (import.meta.main) {
   runCLI().catch((error) => {
     console.error(error.message);
-    Bun.exit(1);
+    process.exit(1);
   });
 }

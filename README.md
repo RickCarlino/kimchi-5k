@@ -11,5 +11,6 @@ Toolkit for experimenting with the [Kimchi Reader](https://kimchi-reader.app/) w
 
 - Summaries via OpenAI: `bun run index.ts summary "Kimchi Reader contains high-frequency Korean vocabulary..."`
 - Lemmatization via Google NLP: `bun run index.ts lemmas "Kimchi Reader contains high-frequency Korean vocabulary..."`
+- Build combined JSON from `raw/*.txt`: `bun run utils/to-json.ts` (writes `data/terms.json`)
 
 The CLI prints a usage hint when run without arguments.

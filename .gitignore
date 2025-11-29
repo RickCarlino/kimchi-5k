@@ -10,7 +10,6 @@ next-env.d.ts
 key.json
 db/
 db-data/*
-data/
 /out/
 /node_modules
 /coverage
