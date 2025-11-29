@@ -4,14 +4,24 @@
     "term": "있다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:19:44.715Z",
+    "concerns": [
+      {
+        "rank": 1,
+        "key": "def",
+        "why": "정의가 표제어 ‘있다’를 그대로 사용해 순환 정의가 됨."
+      }
+    ]
   },
   "2": {
     "def": "정해지지 않은 일이나 상태를 가리키는 말.",
     "term": "것",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:19:44.715Z",
+    "concerns": []
   },
   "3": {
     "def": null,
@@ -25,14 +35,24 @@
     "term": "없다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:19:44.715Z",
+    "concerns": [
+      {
+        "rank": 4,
+        "key": "def",
+        "why": "정의가 표제어 ‘없다’를 그대로 사용해 순환 정의가 됨."
+      }
+    ]
   },
   "5": {
     "def": "비슷하게 느껴지거나 그렇게 보이다.",
     "term": "같다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:19:44.715Z",
+    "concerns": []
   },
   "6": {
     "def": null,
@@ -46,14 +66,18 @@
     "term": "않다",
     "pos": "VERB",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:19:44.715Z",
+    "concerns": []
   },
   "8": {
     "def": "부르거나 놀랄 때 내는 소리.",
     "term": "아",
-    "pos": "NOUN",
+    "pos": "X",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:19:44.715Z",
+    "concerns": []
   },
   "9": {
     "def": null,
@@ -67,14 +91,18 @@
     "term": "되다",
     "pos": "VERB",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:19:44.715Z",
+    "concerns": []
   },
   "11": {
     "def": "지금 보고 말하는 것이 이와 같은 상태이다.",
     "term": "이렇다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:19:44.715Z",
+    "concerns": []
   },
   "12": {
     "def": null,
@@ -88,112 +116,162 @@
     "term": "진짜",
     "pos": "ADV",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:19:44.715Z",
+    "concerns": []
   },
   "14": {
     "def": "지금보다 더 많이 또는 더 높게.",
     "term": "더",
     "pos": "ADV",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:19:44.715Z",
+    "concerns": [
+      {
+        "rank": 14,
+        "key": "def",
+        "why": "정의가 표제어 ‘더’를 그대로 사용해 순환 정의가 됨."
+      }
+    ]
   },
   "15": {
     "def": "정도나 양이 아주 크다.",
     "term": "너무",
     "pos": "ADV",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:20:17.534Z",
+    "concerns": []
   },
   "16": {
     "def": "것을 줄여 이르는 말로, 어떤 일이나 대상을 가리킨다.",
     "term": "거",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:20:17.534Z",
+    "concerns": []
   },
   "17": {
     "def": "한 번에 더하여 거듭 또는 다시.",
     "term": "또",
     "pos": "ADV",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:20:17.534Z",
+    "concerns": []
   },
   "18": {
     "def": "앞에서 말한 상태와 같다.",
     "term": "그렇다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:20:17.534Z",
+    "concerns": []
   },
   "19": {
     "def": "음식을 입에 넣어 씹어서 삼키다.",
     "term": "먹다",
     "pos": "VERB",
     "defRequestId": "fd4dfaaa-7910-4f25-b4b1-79fe5c5f34b3",
-    "createdAt": "2025-11-29T17:59:33.537Z"
+    "createdAt": "2025-11-29T17:59:33.537Z",
+    "llmCheckOn": "2025-11-29T18:20:17.534Z",
+    "concerns": []
   },
   "20": {
     "def": "마음에 들거나 이롭고 바람직하다.",
     "term": "좋다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:20:17.534Z",
+    "concerns": []
   },
   "21": {
     "def": "사람이라는 존재를 이르는 말.",
     "term": "사람",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:20:17.534Z",
+    "concerns": [
+      {
+        "rank": 21,
+        "key": "def",
+        "why": "표제어를 그대로 사용한 순환 정의로 의미를 제공하지 않음."
+      }
+    ]
   },
   "22": {
     "def": "상태나 성질이 어떠한지 묻거나 말하다.",
     "term": "어떻다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:20:17.534Z",
+    "concerns": [
+      {
+        "rank": 22,
+        "key": "def",
+        "why": "형용사의 뜻을 ‘묻거나 말하다’라는 행위로 잘못 정의함."
+      }
+    ]
   },
   "23": {
     "def": "양이나 정도가 크게 또는 자주.",
     "term": "많이",
     "pos": "ADV",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:20:17.534Z",
+    "concerns": []
   },
   "24": {
     "def": "수나 양이 크다.",
     "term": "많다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:20:17.534Z",
+    "concerns": []
   },
   "25": {
     "def": "어떤 일을 하고 싶은 마음이 있다.",
     "term": "싶다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:13.692Z",
+    "concerns": []
   },
   "26": {
     "def": "오늘이라는 하루를 가리키는 말.",
     "term": "오늘",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:13.692Z",
+    "concerns": []
   },
   "27": {
     "def": "원인이나 이유가 되는 것.",
     "term": "때문",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:13.692Z",
+    "concerns": []
   },
   "28": {
     "def": "남이 준 것을 가지거나 받아 들이다.",
     "term": "받다",
     "pos": "VERB",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:13.692Z",
+    "concerns": []
   },
   "29": {
     "def": null,
@@ -207,78 +285,100 @@
     "term": "알다",
     "pos": "VERB",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:13.692Z",
+    "concerns": []
   },
   "31": {
     "def": "다른 이유 없이 습관처럼 또는 가볍게.",
     "term": "그냥",
     "pos": "ADV",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:13.692Z",
+    "concerns": []
   },
   "32": {
     "def": "재료나 생각을 모아 새로 이루다.",
     "term": "만들다",
     "pos": "VERB",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:13.692Z",
+    "concerns": []
   },
   "33": {
     "def": "머릿속에 떠오르는 의견이나 마음속 내용.",
     "term": "생각",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:13.692Z",
+    "concerns": []
   },
   "34": {
     "def": "이야기에서 친근하게 부르거나 다짐할 때 쓰는 끝맺음 말.",
     "term": "야",
-    "pos": "VERB",
+    "pos": "PRT",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:13.692Z",
+    "concerns": []
   },
   "35": {
     "def": "사람 이름 뒤에 붙여 예의를 나타내는 말.",
     "term": "씨",
-    "pos": "NOUN",
+    "pos": "AFFIX",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:13.692Z",
+    "concerns": []
   },
   "36": {
     "def": "어떤 일에 대해 머릿속으로 따지거나 떠올리다.",
     "term": "생각하다",
     "lemma": "생각",
-    "pos": "NOUN",
+    "pos": "VERB",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:53.837Z",
+    "concerns": []
   },
   "37": {
     "def": "안에서 밖으로 또는 한곳에서 밖으로 움직여 나타나다.",
     "term": "나오다",
     "pos": "VERB",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:53.837Z",
+    "concerns": []
   },
   "38": {
     "def": "어떤 곳을 향해 이쪽으로 움직이다.",
     "term": "오다",
     "pos": "VERB",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:53.837Z",
+    "concerns": []
   },
   "39": {
     "def": "뉴스나 방송에서 진행하며 말을 전하는 사람.",
     "term": "앵커",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:53.837Z",
+    "concerns": []
   },
   "40": {
     "def": "여러 가지 중의 다른 것들을 함께 묶어 이르는 말.",
     "term": "등",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:53.837Z",
+    "concerns": []
   },
   "41": {
     "def": null,
@@ -292,98 +392,126 @@
     "term": "못",
     "pos": "ADV",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:53.837Z",
+    "concerns": []
   },
   "43": {
     "def": "한 번 했던 일을 또 하다.",
     "term": "다시",
     "pos": "ADV",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:53.837Z",
+    "concerns": []
   },
   "44": {
     "def": "앞에서 말한 그것을 가리키는 말.",
     "term": "그거",
-    "pos": "ADJ",
+    "pos": "PRON",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:53.837Z",
+    "concerns": []
   },
   "45": {
     "def": "생각이나 내용을 입으로 말하여 전하다.",
     "term": "말하다",
-    "pos": "NOUN",
+    "pos": "VERB",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:53.837Z",
+    "concerns": []
   },
   "46": {
     "def": "말을 듣는 여러 사람을 함께 부르는 말.",
     "term": "여러분",
-    "pos": "ADV",
+    "pos": "PRON",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:21:53.837Z",
+    "concerns": []
   },
   "47": {
     "def": "옳거나 사실에 알맞다.",
     "term": "맞다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:22:52.722Z",
+    "concerns": []
   },
   "48": {
     "def": "예의를 나타내거나 대답할 때 쓰는 말.",
     "term": "예",
-    "pos": "NOUN",
+    "pos": "X",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:22:52.722Z",
+    "concerns": []
   },
   "49": {
     "def": "가깝게 지내며 서로 아는 사이인 사람.",
     "term": "친구",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:22:52.722Z",
+    "concerns": []
   },
   "50": {
     "def": "사람이 살거나 머무는 곳.",
     "term": "집",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:22:52.722Z",
+    "concerns": []
   },
   "51": {
     "def": "음식의 맛이 좋아 먹기에 즐겁다.",
     "term": "맛있다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:22:52.722Z",
+    "concerns": []
   },
   "52": {
     "def": "양이나 정도가 적게.",
     "term": "조금",
     "pos": "ADV",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:22:52.722Z",
+    "concerns": []
   },
   "53": {
     "def": "능력이 모자라거나 상황이 안 되어 잘하지 못하다.",
     "term": "못하다",
     "pos": "VERB",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:22:52.722Z",
+    "concerns": []
   },
   "54": {
     "def": "기준이 되는 것의 바깥쪽 앞부분이나 앞자리.",
     "term": "앞",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:22:52.722Z",
+    "concerns": []
   },
   "55": {
     "def": "어떤 일이 이루어지는 동안이나 시각.",
     "term": "시간",
     "pos": "NOUN",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:22:52.722Z",
+    "concerns": []
   },
   "56": {
     "def": null,
@@ -397,63 +525,81 @@
     "term": "괜찮다",
     "pos": "ADJ",
     "defRequestId": "0c077014-b842-489b-b7da-39006d26d6e7",
-    "createdAt": "2025-11-29T16:21:10.871Z"
+    "createdAt": "2025-11-29T16:21:10.871Z",
+    "llmCheckOn": "2025-11-29T18:22:52.722Z",
+    "concerns": []
   },
   "58": {
     "def": "어떤 일이나 시간의 가운데 부분을 뜻한다.",
     "term": "중",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:23:40.025Z",
+    "concerns": []
   },
   "59": {
     "def": "자기를 낳아 준 여자를 친근하게 부르는 말이다.",
     "term": "엄마",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:23:40.025Z",
+    "concerns": []
   },
   "60": {
     "def": "사람이나 물건에서 나는 들을 수 있는 것을 말한다.",
     "term": "소리",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:23:40.025Z",
+    "concerns": []
   },
   "61": {
     "def": "나이가 어린 사람을 가리키는 말이다.",
     "term": "아이",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:23:40.025Z",
+    "concerns": []
   },
   "62": {
     "def": "두 사람이나 두 가지가 함께 하거나 비슷함을 나타내는 말이다.",
     "term": "같이",
     "pos": "ADV",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:23:40.025Z",
+    "concerns": []
   },
   "63": {
     "def": "맨 처음의 때나 시작되는 순간을 뜻한다.",
     "term": "처음",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:23:40.025Z",
+    "concerns": []
   },
   "64": {
     "def": "상대의 말에 짧게 긍정하여 대답할 때 쓰는 말이다.",
     "term": "응",
-    "pos": "VERB",
+    "pos": "X",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:23:40.025Z",
+    "concerns": []
   },
   "65": {
     "def": "어떤 것의 등이나 뒤쪽, 또는 지나간 다음의 때를 뜻한다.",
     "term": "뒤",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:23:40.025Z",
+    "concerns": []
   },
   "66": {
     "def": null,
@@ -467,14 +613,18 @@
     "term": "찾다",
     "pos": "VERB",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:23:40.025Z",
+    "concerns": []
   },
   "68": {
     "def": "해결해야 할 일이나 곤란한 상태를 뜻한다.",
     "term": "문제",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:23:40.025Z",
+    "concerns": []
   },
   "69": {
     "def": null,
@@ -488,127 +638,169 @@
     "term": "정도",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:27.027Z",
+    "concerns": []
   },
   "71": {
     "def": "가운데서 제일 크거나 높거나 중요함을 나타내는 말이다.",
     "term": "가장",
     "pos": "ADV",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:27.027Z",
+    "concerns": []
   },
   "72": {
     "def": "이때까지는 그렇지만 앞으로는 달라질 수 있음을 나타내는 말이다.",
     "term": "아직",
     "pos": "ADV",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:27.027Z",
+    "concerns": []
   },
   "73": {
     "def": "어떤 곳이나 목표를 향해 움직여 나아가다.",
     "term": "가다",
     "pos": "VERB",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:27.027Z",
+    "concerns": []
   },
   "74": {
     "def": "어떤 일을 새로 시작함을 뜻한다.",
     "term": "시작하다",
     "lemma": "시작",
-    "pos": "NOUN",
+    "pos": "VERB",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:27.027Z",
+    "concerns": []
   },
   "75": {
     "def": "사람이나 동물이 보는 기관을 뜻한다.",
     "term": "눈",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:27.027Z",
+    "concerns": []
   },
   "76": {
     "def": "남자 형제를 높이거나 친근하게 부르는 말이다.",
     "term": "형",
-    "pos": "VERB",
+    "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:27.027Z",
+    "concerns": []
   },
   "77": {
     "def": "끊어지지 않고 이어짐을 뜻한다.",
     "term": "계속",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:27.027Z",
+    "concerns": []
   },
   "78": {
     "def": "속이나 틈에 어떤 것을 집어들어가게 하다.",
     "term": "넣다",
     "pos": "VERB",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:27.027Z",
+    "concerns": [
+      {
+        "rank": 78,
+        "key": "def",
+        "why": "정의가 한국어 문법을 위반함: '집어들어가게'는 비문이다."
+      }
+    ]
   },
   "79": {
     "def": "사람의 수를 세는 단위이다.",
     "term": "명",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:27.027Z",
+    "concerns": []
   },
   "80": {
     "def": "그 시기의 바로 그때를 가리키는 말이다.",
     "term": "그때",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:55.134Z",
+    "concerns": []
   },
   "81": {
     "def": "사람이나 물건이 있는 위치나 자리이다.",
     "term": "곳",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:55.134Z",
+    "concerns": []
   },
   "82": {
     "def": "어떤 일이나 일이 벌어진 형편과 환경을 뜻한다.",
     "term": "상황",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:55.134Z",
+    "concerns": []
   },
   "83": {
     "def": "북아메리카에 있는 큰 나라를 뜻한다.",
     "term": "미국",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:55.134Z",
+    "concerns": []
   },
   "84": {
     "def": "어떤 조건이나 상태에서 나타나는 일이나 사례를 뜻한다.",
     "term": "경우",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:55.134Z",
+    "concerns": []
   },
   "85": {
     "def": "앞의 말이 이유나 근거임을 나타낼 때 쓰는 말이다.",
     "term": "라",
-    "pos": "VERB",
+    "pos": "AFFIX",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:55.134Z",
+    "concerns": []
   },
   "86": {
     "def": "능숙하게 일을 잘함을 뜻한다.",
     "term": "잘하다",
-    "pos": "NOUN",
+    "pos": "VERB",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:55.134Z",
+    "concerns": []
   },
   "87": {
     "def": "정확하고 꼭 맞게 또는 아주 갑자기라는 뜻으로 쓴다.",
     "term": "딱",
     "pos": "ADV",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:55.134Z",
+    "concerns": []
   },
   "88": {
     "def": null,
@@ -622,71 +814,109 @@
     "term": "아주",
     "pos": "ADV",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:55.134Z",
+    "concerns": []
   },
   "90": {
     "def": "사람이 부르거나 연주하여 듣는 예술을 뜻한다.",
     "term": "음악",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:24:55.134Z",
+    "concerns": []
   },
   "91": {
     "def": "어떤 일을 하지 않음을 나타내는 말이다.",
     "term": "안",
     "pos": "ADV",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:25:51.189Z",
+    "concerns": []
   },
   "92": {
     "def": "바로 지금 갑자기 또는 아무렇게나 함을 나타내는 말이다.",
     "term": "막",
     "pos": "ADV",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:25:51.189Z",
+    "concerns": []
   },
   "93": {
     "def": "겉으로 드러나는 생김새나 행동의 모양을 뜻한다.",
     "term": "모습",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:25:51.189Z",
+    "concerns": []
   },
   "94": {
     "def": "어떤 일이 일어나는 때나 기간을 뜻한다.",
     "term": "때",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:25:51.189Z",
+    "concerns": [
+      {
+        "rank": 94,
+        "key": "def",
+        "why": "표제어를 그대로 뜻풀이에 사용한 순환 정의."
+      }
+    ]
   },
   "95": {
     "def": "여럿 중에서 순서가 앞섰음을 나타내는 말이다.",
     "term": "먼저",
     "pos": "ADV",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:25:51.189Z",
+    "concerns": []
   },
   "96": {
     "def": "한글 자모의 하나이거나 5라는 수를 가리키는 말이다.",
     "term": "오",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:25:51.189Z",
+    "concerns": [
+      {
+        "rank": 96,
+        "key": "def",
+        "why": "서로 다른 품사(글자 이름과 수사)를 한 정의에 섞어 놓음."
+      }
+    ]
   },
   "97": {
     "def": "고맙게 여기는 마음이나 인사를 뜻한다.",
     "term": "감사하다",
     "lemma": "감사",
-    "pos": "NOUN",
+    "pos": "ADJ",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:25:51.189Z",
+    "concerns": [
+      {
+        "rank": 97,
+        "key": "def",
+        "why": "용언 표제어인데 명사 풀이로 되어 있음."
+      }
+    ]
   },
   "98": {
     "def": "시간을 짧게 들여 서둘러 하는 모양을 뜻한다.",
     "term": "빨리",
     "pos": "ADV",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:25:51.189Z",
+    "concerns": []
   },
   "99": {
     "def": null,
@@ -700,28 +930,42 @@
     "term": "대통령",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:25:51.189Z",
+    "concerns": []
   },
   "101": {
     "def": "사람이나 물건이나 말을 다른 곳으로 보내다.",
     "term": "보내다",
     "pos": "VERB",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:25:51.189Z",
+    "concerns": [
+      {
+        "rank": 101,
+        "key": "def",
+        "why": "표제어를 그대로 반복해 풀이함(순환 정의)."
+      }
+    ]
   },
   "102": {
     "def": "정도가 보통보다 매우 큼을 나타내는 말이다.",
     "term": "굉장히",
     "pos": "ADV",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:26:46.250Z",
+    "concerns": []
   },
   "103": {
     "def": "바로 이 순간이나 현재를 뜻한다.",
     "term": "지금",
     "pos": "ADV",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:26:46.250Z",
+    "concerns": []
   },
   "104": {
     "def": null,
@@ -734,158 +978,226 @@
     "def": "평안하고 걱정이 없는 상태나 인사를 뜻한다.",
     "term": "안녕하다",
     "lemma": "안녕",
-    "pos": "NOUN",
+    "pos": "ADJ",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:26:46.250Z",
+    "concerns": [
+      {
+        "rank": 105,
+        "key": "def",
+        "why": "표제어 '안녕하다'에는 '인사' 의미가 없어 정의가 표제어와 불일치함."
+      }
+    ]
   },
   "106": {
     "def": "해의 수를 세는 단위이거나 그 기간을 뜻한다.",
     "term": "년",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:26:46.250Z",
+    "concerns": []
   },
   "107": {
     "def": "눈에 보이게 드러나다 또는 그렇게 느껴지다.",
     "term": "보이다",
     "pos": "VERB",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:26:46.250Z",
+    "concerns": []
   },
   "108": {
     "def": "사람의 눈, 코, 입이 있는 앞쪽 부분을 뜻한다.",
     "term": "얼굴",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:26:46.250Z",
+    "concerns": []
   },
   "109": {
     "def": "밖에서 안으로 들어오는 일을 뜻한다.",
     "term": "들어오다",
-    "pos": "NOUN",
+    "pos": "VERB",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:26:46.250Z",
+    "concerns": [
+      {
+        "rank": 109,
+        "key": "def",
+        "why": "표제어 '들어오다'인데 정의가 '들어오는 일'로 되어 있어 표제어와 불일치함."
+      }
+    ]
   },
   "110": {
     "def": "반드시 필요하고 가치가 큼을 뜻한다.",
     "term": "중요하다",
     "lemma": "중요",
-    "pos": "NOUN",
+    "pos": "ADJ",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:26:46.250Z",
+    "concerns": []
   },
   "111": {
     "def": "모양이나 느낌이 곱고 보기 좋다.",
     "term": "예쁘다",
     "pos": "ADJ",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:26:46.250Z",
+    "concerns": []
   },
   "112": {
     "def": "학생을 가르치는 일을 하는 사람을 높여 부르는 말이다.",
     "term": "선생님",
     "pos": "NOUN",
     "defRequestId": "d1d984c7-c194-46c6-a0cd-39c3f233f19d",
-    "createdAt": "2025-11-29T16:21:28.764Z"
+    "createdAt": "2025-11-29T16:21:28.764Z",
+    "llmCheckOn": "2025-11-29T18:26:46.250Z",
+    "concerns": []
   },
   "113": {
     "def": "가정에서 자녀가 부르는 남자 부모를 뜻한다.",
     "term": "아빠",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:27:31.709Z",
+    "concerns": []
   },
   "114": {
     "def": "일정한 지역이나 사회를 다스리는 가장 낮은 행정 단위를 뜻한다.",
     "term": "시",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:27:31.709Z",
+    "concerns": [
+      {
+        "rank": 114,
+        "key": "def",
+        "why": "‘시(市)’를 가장 낮은 행정 단위라고 하여 의미가 사실과 명백히 다름."
+      }
+    ]
   },
   "115": {
     "def": "사람끼리 말로 서로 생각이나 소식을 주고받는 일을 뜻한다.",
     "term": "얘기하다",
     "lemma": "얘기",
-    "pos": "NOUN",
+    "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:27:31.709Z",
+    "concerns": [
+      {
+        "rank": 115,
+        "key": "def",
+        "why": "단어 ‘얘기하다’(동사)가 아니라 명사 ‘얘기’의 의미를 정의함."
+      }
+    ]
   },
   "116": {
     "def": "몸이나 마음이 지치고 버겁게 느껴지는 상태이다.",
     "term": "힘들다",
     "pos": "ADJ",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:27:31.709Z",
+    "concerns": []
   },
   "117": {
     "def": "하던 일이 마무리되어 더 하지 않게 되다.",
     "term": "끝나다",
     "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:27:31.709Z",
+    "concerns": []
   },
   "118": {
     "def": "사람의 팔 끝에 있는, 물건을 잡거나 만지는 부분이다.",
     "term": "손",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:27:31.709Z",
+    "concerns": []
   },
   "119": {
     "def": "어떤 일이나 줄의 맨 끝에 있는 차례나 부분이다.",
     "term": "마지막",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:27:31.709Z",
+    "concerns": []
   },
   "120": {
     "def": "전체를 이루는 여러 조각 중 하나의 덩어리나 구획이다.",
     "term": "부분",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:27:31.709Z",
+    "concerns": []
   },
   "121": {
     "def": "가까이 있는 사람을 다정하게 부를 때 쓰는 말이다.",
     "term": "얘",
-    "pos": "ADV",
+    "pos": "PRON",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:27:31.709Z",
+    "concerns": []
   },
   "122": {
     "def": "높은 곳에서 낮은 곳으로 아래로 가다.",
     "term": "떨어지다",
     "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:27:31.709Z",
+    "concerns": []
   },
   "123": {
     "def": "몸에서 생각을 하거나 감각을 느끼는 기관이 들어 있는 윗부분이다.",
     "term": "머리",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:28:33.087Z",
+    "concerns": []
   },
   "124": {
     "def": "반드시 그러해야 함을 강하게 나타낼 때 쓰는 말이다.",
     "term": "꼭",
     "pos": "ADV",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:28:33.087Z",
+    "concerns": []
   },
   "125": {
     "def": "손으로 물건이나 사람을 꽉 쥐다.",
     "term": "잡다",
     "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:28:33.087Z",
+    "concerns": []
   },
   "126": {
     "def": "겉으로 보이지 않는 안쪽의 공간이나 마음의 안을 뜻한다.",
     "term": "속",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:28:33.087Z",
+    "concerns": []
   },
   "127": {
     "def": null,
@@ -899,63 +1211,93 @@
     "term": "엄청",
     "pos": "ADV",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:28:33.087Z",
+    "concerns": []
   },
   "129": {
     "def": "시간이나 일의 진행에서 더 이어지지 않는 마지막 지점이다.",
     "term": "끝",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:28:33.087Z",
+    "concerns": []
   },
   "130": {
     "def": "어떤 것을 손에 넣어 소유하다.",
     "term": "갖다",
     "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:28:33.087Z",
+    "concerns": [
+      {
+        "rank": 130,
+        "key": "def",
+        "why": "‘갖다’는 ‘가지다(소유하다)’의 뜻이 아니며, ‘갖고’의 준말로 다른 동사와 결합해 쓰입니다. 정의가 전혀 다른 단어를 설명합니다."
+      }
+    ]
   },
   "131": {
     "def": "어떤 일이 일어나는 까닭이나 근거이다.",
     "term": "이유",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:28:33.087Z",
+    "concerns": []
   },
   "132": {
     "def": "도구로 눌러 표시를 남기거나 사진이나 영상을 만들다.",
     "term": "찍다",
     "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:28:33.087Z",
+    "concerns": []
   },
   "133": {
     "def": "여자 형제 중에서 나보다 나이가 많은 사람을 뜻한다.",
     "term": "언니",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:28:33.087Z",
+    "concerns": [
+      {
+        "rank": 133,
+        "key": "def",
+        "why": "‘언니’는 여자 화자가 자기보다 나이가 많은 여자 형제를 이르는 말입니다. 화자 성별 조건이 빠져 있어 의미가 틀립니다."
+      }
+    ]
   },
   "134": {
     "def": "어떤 것이 함께하지 않거나 필요하지 않음을 나타내는 말이다.",
     "term": "없이",
     "pos": "ADV",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:29:12.726Z",
+    "concerns": []
   },
   "135": {
     "def": "동아시아에 있는 큰 나라를 뜻한다.",
     "term": "중국",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:29:12.726Z",
+    "concerns": []
   },
   "136": {
     "def": "도움을 받았을 때 마음으로 감사하는 느낌이다.",
     "term": "고맙다",
     "pos": "ADJ",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:29:12.726Z",
+    "concerns": []
   },
   "137": {
     "def": null,
@@ -967,72 +1309,104 @@
   "138": {
     "def": "숨을 거두어 더는 살아 있지 않게 되다.",
     "term": "죽다",
-    "pos": "ADV",
+    "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:29:12.726Z",
+    "concerns": []
   },
   "139": {
     "def": "사실이나 사람의 말 등을 진실로 받아들이다.",
     "term": "믿다",
     "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:29:12.726Z",
+    "concerns": []
   },
   "140": {
     "def": "처음부터 그랬거나 보통 때 대로임을 나타내는 말이다.",
     "term": "원래",
     "pos": "ADV",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:29:12.726Z",
+    "concerns": []
   },
   "141": {
     "def": "물건을 사거나 일을 할 때 쓰는 가치 있는 화폐나 재산이다.",
     "term": "돈",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:29:12.726Z",
+    "concerns": []
   },
   "142": {
     "def": "지금보다 조금 전에를 뜻하는 말이다.",
     "term": "아까",
     "pos": "ADV",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:29:12.726Z",
+    "concerns": [
+      {
+        "rank": 142,
+        "key": "def",
+        "why": "‘지금보다 조금 전에를’은 격조사 ‘에’ 뒤에 목적격 ‘를’을 덧붙인 비문이다; ‘지금보다 조금 전을’처럼 써야 한다."
+      }
+    ]
   },
   "143": {
     "def": "오늘의 바로 앞날을 뜻한다.",
     "term": "어제",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:29:12.726Z",
+    "concerns": [
+      {
+        "rank": 143,
+        "key": "def",
+        "why": "‘오늘의 바로 앞날’은 미래(내일)를 가리키는 표현이라 ‘어제’의 뜻과 정반대여서 완전히 잘못되었다."
+      }
+    ]
   },
   "144": {
     "def": "엉덩이를 바닥이나 의자에 대고 몸을 낮춰 머무르다.",
     "term": "앉다",
     "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:29:12.726Z",
+    "concerns": []
   },
   "145": {
     "def": "배우고 공부하는 곳을 뜻한다.",
     "term": "학교",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:02.892Z",
+    "concerns": []
   },
   "146": {
     "def": "다른 사람 없이 스스로만 있거나 행동함을 뜻한다.",
     "term": "혼자",
     "pos": "ADV",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:02.892Z",
+    "concerns": []
   },
   "147": {
     "def": "최근의 일정한 기간을 가리키는 말이다.",
     "term": "요즘",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:02.892Z",
+    "concerns": []
   },
   "148": {
     "def": null,
@@ -1046,14 +1420,24 @@
     "term": "자리",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:02.892Z",
+    "concerns": []
   },
   "150": {
     "def": "가정에서 자녀가 높여 부르는 남자 부모를 뜻한다.",
     "term": "아버지",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:02.892Z",
+    "concerns": [
+      {
+        "rank": 150,
+        "key": "def",
+        "why": "'아버지'는 높임말이 아니며 '아버님'이 높임말인데, 정의가 사실과 어긋남."
+      }
+    ]
   },
   "151": {
     "def": null,
@@ -1067,92 +1451,130 @@
     "term": "책",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:02.892Z",
+    "concerns": []
   },
   "153": {
     "def": "지금과 가깝게 지난 동안을 뜻한다.",
     "term": "최근",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:02.892Z",
+    "concerns": []
   },
   "154": {
     "def": "방향이나 위치를 가리키는 한쪽 면이나 편이다.",
     "term": "쪽",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:02.892Z",
+    "concerns": []
   },
   "155": {
     "def": "어떤 일을 하기 위한 수단이나 절차이다.",
     "term": "방법",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:02.892Z",
+    "concerns": []
   },
   "156": {
     "def": "물건이나 서비스를 어떤 목적에 맞게 쓰는 일을 뜻한다.",
     "term": "사용하다",
     "lemma": "사용",
-    "pos": "NOUN",
+    "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:02.892Z",
+    "concerns": [
+      {
+        "rank": 156,
+        "key": "def",
+        "why": "표제어가 동사 '사용하다'인데 명사 '사용'의 뜻풀이로 적혀 있어 품사·의미가 어긋남."
+      }
+    ]
   },
   "157": {
     "def": "늘어난 뒤에 다시 원래 모양으로 돌아가려는 성질이다.",
     "term": "탄성",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:49.122Z",
+    "concerns": []
   },
   "158": {
     "def": "글이나 말, 일에서 담고 있는 핵심된 소재와 사실들이다.",
     "term": "내용",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:49.122Z",
+    "concerns": []
   },
   "159": {
     "def": "정해진 대상이 하나도 없거나 누구든 상관없음을 나타내는 말이다.",
     "term": "아무",
-    "pos": "ADV",
+    "pos": "DET",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:49.122Z",
+    "concerns": []
   },
   "160": {
     "def": "기분이 좋아져 얼굴에 소리를 내거나 소리 없이 미소를 보이는 일이다.",
     "term": "웃다",
-    "pos": "NOUN",
+    "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:49.122Z",
+    "concerns": []
   },
   "161": {
     "def": "지구 위의 모든 나라와 사람들의 큰 무리를 뜻한다.",
     "term": "세계",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:49.122Z",
+    "concerns": []
   },
   "162": {
     "def": "주로 쌀로 지어 먹는 끼니를 뜻한다.",
     "term": "밥",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:49.122Z",
+    "concerns": [
+      {
+        "rank": 162,
+        "key": "def",
+        "why": "‘끼니’를 ‘짓다’고 하는 표현은 한국어 문법에 어긋난다."
+      }
+    ]
   },
   "163": {
     "def": "눕거나 앉아 있다가 몸을 세워 일어서다.",
     "term": "일어나다",
-    "pos": "NOUN",
+    "pos": "VERB",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:49.122Z",
+    "concerns": []
   },
   "164": {
     "def": "수준이나 위치, 소리 등이 위쪽에 있거나 정도가 크다.",
     "term": "높다",
     "pos": "ADJ",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:49.122Z",
+    "concerns": []
   },
   "165": {
     "def": null,
@@ -1166,14 +1588,18 @@
     "term": "역시",
     "pos": "ADV",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:49.122Z",
+    "concerns": []
   },
   "167": {
     "def": "사물이나 사람의 현재 모습이나 형편을 뜻한다.",
     "term": "상태",
     "pos": "NOUN",
     "defRequestId": "0cd9d75b-a726-448d-81b3-f07fdc0e5120",
-    "createdAt": "2025-11-29T16:21:48.526Z"
+    "createdAt": "2025-11-29T16:21:48.526Z",
+    "llmCheckOn": "2025-11-29T18:30:49.122Z",
+    "concerns": []
   },
   "168": {
     "def": "풀거나 이해하기가 힘들고 잘 되지 않는다.",
