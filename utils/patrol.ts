@@ -30,7 +30,7 @@ type PosFix = {
 
 const ROOT_DIR = fileURLToPath(new URL("..", import.meta.url));
 const DEFINITIONS_PATH = join(ROOT_DIR, "data", "2-definitions.json");
-const BATCH_SIZE = 10;
+const BATCH_SIZE = 20;
 const MODEL = "gpt-5";
 
 // Edit this prompt to fine‑tune how the LLM evaluates entries.
