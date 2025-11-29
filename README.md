@@ -2,6 +2,26 @@
 
 Toolkit for experimenting with the [Kimchi Reader](https://kimchi-reader.app/) word frequency list using OpenAI and Google Cloud Natural Language (lemmatization).
 
+## Notes
+
+Each item has a "Part of Speech" (POS) attribute. Not all parts of speech are useful when memorizing vocabulary lists.
+
+Generally, I care more about these:
+ - "ADJ"
+ - "ADV"
+ - "CONJ"
+ - "NOUN"
+ - "VERB"
+
+and often ignore these:
+ - "AFFIX"
+ - "DET"
+ - "NUM"
+ - "PRON"
+ - "PRT"
+ - "PUNCT"
+ - "X"
+
 ## Setup
 
 - Copy `.env.example` to `.env` and fill in your keys (OpenAI + Google Cloud service account with the Natural Language API enabled).
