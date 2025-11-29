@@ -17,7 +17,6 @@
     "def": null,
     "term": "그",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -39,7 +38,6 @@
     "def": null,
     "term": "이",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -61,7 +59,6 @@
     "def": null,
     "term": "하다",
     "pos": "AFFIX",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -83,7 +80,6 @@
     "def": null,
     "term": "우리",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -203,7 +199,6 @@
     "def": null,
     "term": "뭐",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -289,7 +284,6 @@
     "def": null,
     "term": "두",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -395,7 +389,6 @@
     "def": null,
     "term": "어디",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -466,7 +459,6 @@
     "def": null,
     "term": "저희",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -488,7 +480,6 @@
     "def": null,
     "term": "누구",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -623,7 +614,6 @@
     "def": null,
     "term": "몇",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -702,7 +692,6 @@
     "def": null,
     "term": "그것",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -738,7 +727,6 @@
     "def": null,
     "term": "위",
     "pos": "PUNCT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -903,7 +891,6 @@
     "def": null,
     "term": "그녀",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -974,7 +961,6 @@
     "def": null,
     "term": "첫",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -1052,7 +1038,6 @@
     "def": null,
     "term": "자신",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -1074,7 +1059,6 @@
     "def": null,
     "term": "나",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -1174,7 +1158,6 @@
     "def": null,
     "term": "당신",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -1259,7 +1242,6 @@
     "def": null,
     "term": "어느",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -1302,7 +1284,6 @@
     "def": null,
     "term": "언제",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -1608,7 +1589,6 @@
     "def": null,
     "term": "무엇",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -1616,7 +1596,6 @@
     "def": null,
     "term": "억",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -1751,7 +1730,6 @@
     "def": null,
     "term": "저",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -1787,7 +1765,6 @@
     "def": null,
     "term": "만",
     "pos": "PRT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -2200,7 +2177,6 @@
     "def": null,
     "term": "약",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -2229,7 +2205,6 @@
     "def": null,
     "term": "뿐",
     "pos": "PRT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -2374,7 +2349,6 @@
     "term": "이곳",
     "lemma": "이",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -2863,7 +2837,6 @@
     "def": null,
     "term": "요",
     "pos": "PRT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -2941,7 +2914,6 @@
     "def": null,
     "term": "고",
     "pos": "PRT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -3054,7 +3026,6 @@
     "def": null,
     "term": "총",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -3161,7 +3132,6 @@
     "term": "그동안",
     "lemma": "그",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -3204,7 +3174,6 @@
     "def": null,
     "term": "보다",
     "pos": "PRT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -3419,7 +3388,6 @@
     "term": "나이",
     "lemma": "나",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -4295,7 +4263,6 @@
     "def": null,
     "term": "다섯",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -4366,7 +4333,6 @@
     "def": null,
     "term": "하나",
     "pos": "NUM",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -4978,7 +4944,6 @@
     "def": null,
     "term": "각",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.519Z"
   },
@@ -5638,7 +5603,6 @@
     "def": null,
     "term": "그분",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -5682,7 +5646,6 @@
     "def": null,
     "term": "그곳",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -6191,7 +6154,6 @@
     "def": null,
     "term": "도",
     "pos": "PRT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -6521,7 +6483,6 @@
     "def": null,
     "term": "전",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -8074,7 +8035,6 @@
     "def": null,
     "term": "둘",
     "pos": "NUM",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -8154,7 +8114,6 @@
     "def": null,
     "term": "의",
     "pos": "PRT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -8817,7 +8776,6 @@
     "def": null,
     "term": "내",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -10014,7 +9972,6 @@
     "def": null,
     "term": "쯧",
     "pos": "PUNCT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -10588,7 +10545,6 @@
     "def": null,
     "term": "로",
     "pos": "PRT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -11099,7 +11055,6 @@
     "def": null,
     "term": "모",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -11227,7 +11182,6 @@
     "def": null,
     "term": "군",
     "pos": "PUNCT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -11378,7 +11332,6 @@
     "def": null,
     "term": "닫히다",
     "pos": "PUNCT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -12050,7 +12003,6 @@
     "term": "제도",
     "lemma": "제",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -12705,7 +12657,6 @@
     "def": null,
     "term": "대",
     "pos": "AFFIX",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -13506,7 +13457,6 @@
     "term": "대규모",
     "lemma": "대",
     "pos": "AFFIX",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -13664,7 +13614,6 @@
     "def": null,
     "term": "수십",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -15582,7 +15531,6 @@
     "term": "여기다",
     "lemma": "여기",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -17996,7 +17944,6 @@
     "def": null,
     "term": "옛",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -18182,7 +18129,6 @@
     "def": null,
     "term": "거기",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -18470,7 +18416,6 @@
     "term": "대법원",
     "lemma": "대",
     "pos": "AFFIX",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -18644,7 +18589,6 @@
     "term": "가만있다",
     "lemma": "가",
     "pos": "PUNCT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -19633,7 +19577,6 @@
     "term": "대기업",
     "lemma": "대",
     "pos": "AFFIX",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -21583,7 +21526,6 @@
     "def": null,
     "term": "해",
     "pos": "AFFIX",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -22571,7 +22513,6 @@
     "def": null,
     "term": "들",
     "pos": "X",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.520Z"
   },
@@ -25984,7 +25925,6 @@
     "def": null,
     "term": "마저",
     "pos": "PRT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
@@ -26476,7 +26416,6 @@
     "def": null,
     "term": "새",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
@@ -26572,7 +26511,6 @@
     "term": "내버리다",
     "lemma": "내",
     "pos": "PRON",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
@@ -30626,7 +30564,6 @@
     "def": null,
     "term": "쓰읍",
     "pos": "PUNCT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
@@ -30991,7 +30928,6 @@
     "def": null,
     "term": "임마",
     "pos": "PUNCT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
@@ -32156,7 +32092,6 @@
     "def": null,
     "term": "신",
     "pos": "AFFIX",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
@@ -33288,7 +33223,6 @@
     "term": "그만",
     "lemma": "그",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
@@ -33642,7 +33576,6 @@
     "def": null,
     "term": "숨지다",
     "pos": "PUNCT",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
@@ -33808,7 +33741,6 @@
     "term": "친환경",
     "lemma": "친",
     "pos": "AFFIX",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
@@ -33852,7 +33784,6 @@
     "def": null,
     "term": "네",
     "pos": "DET",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
@@ -35376,7 +35307,6 @@
     "def": null,
     "term": "천",
     "pos": "NUM",
-    "model": "",
     "defRequestId": "",
     "createdAt": "2025-11-29T16:20:53.521Z"
   },
