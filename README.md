@@ -1,6 +1,12 @@
 # Kimchi 5000
 
-Toolkit for experimenting with the [Kimchi Reader](https://kimchi-reader.app/) word frequency list using OpenAI and Google Cloud Natural Language (lemmatization).
+Toolkit and browser UI for experimenting with the [Kimchi Reader](https://kimchi-reader.app/) word frequency list using OpenAI and Google Cloud Natural Language (lemmatization).
+
+![./image.png](./image.png)
+
+## Why?
+
+Read my rationale [here](https://rickcarlino.com/notes/korean-language/monolingual-vocab-card-experiment.html).
 
 ## Notes
 
@@ -31,6 +37,7 @@ and often ignore these:
   - Sample: `bun run utils/spot-check.ts [--id UUID[,UUID2]]` prints up to 3 `term: def` lines per request.  
   - Delete: `bun run utils/spot-check.ts --delete UUID[,UUID2]` sets `def` to `null` and clears `defRequestId` for those batches (so they can be regenerated).
 - `bun run utils/patrol.ts` — LLM quality patrol over definitions that lack `llmCheckOn`. Batches of 50 audit entries, stamp `llmCheckOn`, store serious `concerns` (definition only), and auto-fix incorrect POS to one of: `ADJ, ADV, CONJ, NOUN, VERB, AFFIX, DET, NUM, PRON, PRT, PUNCT, X`. Progress logs show batch counts. Edit the `USER_PROMPT` at the top of `utils/patrol.ts` to tune the checker.
+- `bun run utils/server.ts` — Tiny Bun webserver to browse `data/2-definitions.json` locally (in-memory). Filters by search, POS, has/missing definition, and concerns; shows metadata (`defRequestId`, `llmCheckOn`). Default port 3000; override with `PORT=4000 bun run utils/server.ts`.
 
 ## TODO
 
